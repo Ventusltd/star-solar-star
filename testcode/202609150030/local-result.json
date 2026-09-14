@@ -1,0 +1,50 @@
+{
+  "code_commit": "working-tree",
+  "facts": {
+    "data_date": "2026-09-13",
+    "missing_coordinate_repd_refs": [
+      "14773",
+      "1613",
+      "1616",
+      "17120",
+      "17260"
+    ],
+    "press_entries": 30,
+    "provenance_sources": 10,
+    "pv_complete": true,
+    "pv_intervals": 48,
+    "seed_sha256": "2d06f449ac13a6e75e8edb8708ccdca32aa045ad3413a84420ee48d57397a801",
+    "solar_capacity_mw": 67013.295,
+    "solar_projects": 3563,
+    "with_coordinates": 3558,
+    "without_coordinates": 5
+  },
+  "files": {
+    "history.json": {
+      "bytes": 238225,
+      "sha256": "49f01751df93525f3ecd92cd82794022304340cf8d5e66abf4ffc5fa208ee7d0"
+    },
+    "press.json": {
+      "bytes": 10311,
+      "sha256": "3e05ec521b74beca8e090a0b99282e0a244c1fe00b8136eee775f31f561cd234"
+    },
+    "provenance.json": {
+      "bytes": 27476,
+      "sha256": "ad9c2d05097d2f6417c1cfc303c8fe447d484a328ac7a9731f8557d2652e447d"
+    },
+    "today.json": {
+      "bytes": 8860,
+      "sha256": "73ca67c46c7d73ddf24142c27ed268f9bc542ec2f2c22ed189b370496845993f"
+    },
+    "uk-solar.json": {
+      "bytes": 1914616,
+      "sha256": "9bb311899ebb775203bcca7a1790c4955650af54074b30c3a93094d6cced5aa6"
+    },
+    "voices.json": {
+      "bytes": 5715,
+      "sha256": "87381e26e1f517820d5e3ae0bace7692b212a5ebd7674aac3145a466f3c90f9f"
+    }
+  },
+  "lane": "alienware-local",
+  "schema": "star-solar-star.candidate-result.v1"
+}
