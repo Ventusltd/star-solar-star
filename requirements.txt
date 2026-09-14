@@ -1,0 +1,3 @@
+# Python's zoneinfo uses the OS time-zone database on Linux. Windows needs this
+# first-party IANA database package so the pinned estate geometry can import.
+tzdata==2026.4
