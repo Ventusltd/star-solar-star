@@ -13,6 +13,7 @@ import html
 import importlib.util
 import json
 import re
+import subprocess
 import sys
 import urllib.parse
 import urllib.request
@@ -26,7 +27,7 @@ from typing import Any
 USER_AGENT = "GlobalGrid2050-Sun-Star/1.0 (+https://github.com/Ventusltd/star-solar-star)"
 PVLIVE = "https://api0.solar.sheffield.ac.uk/pvlive/api/v4/gsp/0"
 PUBLIC_ROOT = "https://globalgrid2050.com"
-GLOBALGRID_GITHUB = "https://github.com/Ventusltd/globalgrid2050/blob/{commit}/{path}"
+GLOBALGRID_GITHUB = "https://raw.githubusercontent.com/Ventusltd/globalgrid2050/{commit}/{path}"
 FEEDS = (
     {
         "name": "Solar Power Portal",
@@ -115,6 +116,19 @@ def read_pinned(root: Path, commit: str, key: str, ledger: SourceLedger) -> tupl
         path=relative,
     )
     return raw, path
+
+
+def require_checkout_commit(root: Path, expected: str) -> None:
+    result = subprocess.run(
+        ["git", "-C", str(root), "rev-parse", "HEAD"],
+        check=True,
+        capture_output=True,
+        text=True,
+        timeout=30,
+    )
+    actual = result.stdout.strip()
+    if actual != expected:
+        raise ValueError(f"GlobalGrid2050 checkout is {actual}, expected pinned commit {expected}")
 
 
 def pv_url(as_of: dt.date, history_days: int) -> str:
@@ -377,6 +391,7 @@ def build_press(ledger: SourceLedger) -> dict[str, Any]:
 def build(args: argparse.Namespace) -> dict[str, Path]:
     root = args.globalgrid_root.resolve()
     output = args.output.resolve()
+    require_checkout_commit(root, args.globalgrid_commit)
     as_of = dt.date.fromisoformat(args.as_of)
     built_utc = args.built_utc or utc_now()
     ledger = SourceLedger(built_utc)

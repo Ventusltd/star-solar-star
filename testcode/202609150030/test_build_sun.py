@@ -90,6 +90,10 @@ class SunBuilderTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, "facts differ"):
             merger.merge(local, ci)
 
+    def test_checkout_commit_mismatch_fails_closed(self):
+        with self.assertRaisesRegex(ValueError, "expected pinned commit"):
+            builder.require_checkout_commit(Path(__file__).resolve().parents[2], "0" * 40)
+
 
 if __name__ == "__main__":
     unittest.main()
