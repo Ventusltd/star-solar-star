@@ -21,28 +21,28 @@
   },
   "files": {
     "history.json": {
-      "bytes": 238225,
-      "sha256": "49f01751df93525f3ecd92cd82794022304340cf8d5e66abf4ffc5fa208ee7d0"
+      "bytes": 230629,
+      "sha256": "1e8632e3982f1fc91536a16e8570b0e378bbd4d29f3dba682b8fc98a4dba31a6"
     },
     "press.json": {
-      "bytes": 10311,
-      "sha256": "3e05ec521b74beca8e090a0b99282e0a244c1fe00b8136eee775f31f561cd234"
+      "bytes": 10113,
+      "sha256": "6dcaa005a1eef2e16a3b379dfafda82ca76d1fe64942c120235bd0b3ad28f501"
     },
     "provenance.json": {
-      "bytes": 27476,
-      "sha256": "ad9c2d05097d2f6417c1cfc303c8fe447d484a328ac7a9731f8557d2652e447d"
+      "bytes": 26694,
+      "sha256": "389b59a95dffbc7b8fba1172f7e00b6727829b27c6db4a7a25f883848f2c2d9f"
     },
     "today.json": {
-      "bytes": 8860,
-      "sha256": "73ca67c46c7d73ddf24142c27ed268f9bc542ec2f2c22ed189b370496845993f"
+      "bytes": 8571,
+      "sha256": "50bd0a08993a4f776335ba040d85af95e51180d82fca7e6d3dd112625f4d663c"
     },
     "uk-solar.json": {
-      "bytes": 1914616,
-      "sha256": "9bb311899ebb775203bcca7a1790c4955650af54074b30c3a93094d6cced5aa6"
+      "bytes": 1861137,
+      "sha256": "7a79be5925ed6b14d5581338f4b3df5981c8b6bf04dc3cbc148d0e5bb7b9ea5e"
     },
     "voices.json": {
-      "bytes": 5715,
-      "sha256": "87381e26e1f517820d5e3ae0bace7692b212a5ebd7674aac3145a466f3c90f9f"
+      "bytes": 5610,
+      "sha256": "f143c1475064e72b2cbc6948d513582f108b99938b7c640aa7f5e6d0afc5a14c"
     }
   },
   "lane": "alienware-local",

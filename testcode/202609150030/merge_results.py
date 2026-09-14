@@ -26,7 +26,8 @@ def main() -> None:
     parser.add_argument("output", type=Path)
     args = parser.parse_args()
     result = merge(json.loads(args.local.read_text()), json.loads(args.ci.read_text()))
-    args.output.write_text(json.dumps(result, indent=2, sort_keys=True) + "\n", encoding="utf-8")
+    with args.output.open("w", encoding="utf-8", newline="\n") as handle:
+        handle.write(json.dumps(result, indent=2, sort_keys=True) + "\n")
 
 
 if __name__ == "__main__":
