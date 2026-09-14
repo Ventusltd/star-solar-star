@@ -1,6 +1,6 @@
 # Sun Star
 
-The Sun is the estate's daily solar clock: a deterministic, public-data foundation for the GlobalGrid2050 Solar Star. Its long-term mission is 75 TWp of global PV installed ethically by 2050.
+The Sun Star is a deterministic, public-data solar clock. Its long-term reference scenario is 75 TWp of global PV by 2050.
 
 ## Daily public data
 
@@ -31,3 +31,11 @@ python scripts/validate_sun.py sun
 ```
 
 The pinned GlobalGrid2050 checkout must match the supplied commit. The initial implementation and matching local/CI evidence remain in `testcode/202609150030/`.
+
+## Country and global star definitions
+
+[`create/`](create/) is a mobile-first editor for a small, source-bound solar record. It computes a SHA-256 seed from canonical observations, places that seed in the URL and prepares a reviewable GitHub proposal. It does not publish directly.
+
+Each definition in [`stars/`](stars/) retains public source URLs, dates, byte counts, SHA-256 hashes, observation locators and whether a value is exact, approximate or a bound. Observations from different publications remain separate. The reference world record uses IRENA Renewable Capacity Statistics 2026 and IEA Global Energy Review 2026.
+
+A maintainer may publish a proposal by applying the `star-approved` label. The workflow validates the record and refuses to replace a different record with the same ID. The contract, JSON Schema and initial local/GitHub agreement evidence are in `scripts/`, `schema/` and `testcode/202609150040/`.

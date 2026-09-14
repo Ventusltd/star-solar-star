@@ -1,0 +1,141 @@
+{
+  "description": "Dated public observations are kept as separate source statements; differing scopes and estimates are not averaged.",
+  "id": "global-solar-2025",
+  "name": "Global Solar 2025",
+  "observations": [
+    {
+      "key": "irena:solar-pv-capacity:world:2025",
+      "locator": "PDF page 36, Solar photovoltaic table, World row, 2025 column",
+      "metric": "solar photovoltaic installed capacity",
+      "period": "2025",
+      "relation": "exact",
+      "source_id": "irena-rsc-2026",
+      "unit": "MW",
+      "value": 2383162
+    },
+    {
+      "derivation": {
+        "formula": "2025 capacity minus 2024 capacity",
+        "inputs_mw": [
+          2383162,
+          1872813
+        ]
+      },
+      "key": "irena:solar-pv-net-change:world:2025",
+      "locator": "Derived from PDF page 36 World row: 2,383,162 MW (2025) minus 1,872,813 MW (2024)",
+      "metric": "solar photovoltaic installed-capacity net change",
+      "period": "2025",
+      "relation": "exact",
+      "source_id": "irena-rsc-2026",
+      "unit": "MW",
+      "value": 510349
+    },
+    {
+      "key": "iea:solar-pv-capacity:world:2025",
+      "locator": "Technology: Solar PV and wind; 2025 capacity paragraph",
+      "metric": "solar photovoltaic installed capacity",
+      "period": "2025",
+      "relation": "approximately",
+      "source_id": "iea-ger-2026-solar",
+      "unit": "GW",
+      "value": 2800
+    },
+    {
+      "key": "iea:solar-pv-additions:world:2025",
+      "locator": "Technology: Solar PV and wind; 2025 capacity paragraph",
+      "metric": "solar photovoltaic capacity additions",
+      "period": "2025",
+      "relation": "greater_than",
+      "source_id": "iea-ger-2026-solar",
+      "unit": "GW",
+      "value": 600
+    },
+    {
+      "key": "iea:solar-pv-generation:world:2025",
+      "locator": "Global trends; Solar saw extraordinary growth in 2025",
+      "metric": "solar photovoltaic electricity generation",
+      "period": "2025",
+      "relation": "approximately",
+      "source_id": "iea-ger-2026-trends",
+      "unit": "TWh",
+      "value": 2700
+    },
+    {
+      "key": "iea:solar-pv-generation-share:world:2025",
+      "locator": "Global trends; Solar saw extraordinary growth in 2025",
+      "metric": "solar photovoltaic share of global electricity generation",
+      "period": "2025",
+      "relation": "greater_than",
+      "source_id": "iea-ger-2026-trends",
+      "unit": "percent",
+      "value": 8
+    }
+  ],
+  "region": {
+    "code": "001",
+    "name": "World",
+    "scheme": "UN_M49"
+  },
+  "schema": "star-solar-star.definition.v1",
+  "seed": {
+    "algorithm": "sha256",
+    "canonicalization": "UTF-8 JSON, recursively sorted object keys, observations sorted by key, no insignificant whitespace",
+    "inputs": [
+      "iea:solar-pv-additions:world:2025",
+      "iea:solar-pv-capacity:world:2025",
+      "iea:solar-pv-generation-share:world:2025",
+      "iea:solar-pv-generation:world:2025",
+      "irena:solar-pv-capacity:world:2025",
+      "irena:solar-pv-net-change:world:2025"
+    ],
+    "url_parameter": "seed",
+    "value": "a8696b5b9286966a43af65e3556ff3805df60542ed08f6fbc841d7bfed92dffa"
+  },
+  "sources": [
+    {
+      "accessed_utc": "2026-09-14T23:45:00Z",
+      "bytes": 1681315,
+      "id": "irena-rsc-2026",
+      "published": "2026",
+      "publisher": "International Renewable Energy Agency",
+      "sha256": "fc580bd4f4ee39ef20de6b1ce3926005a4e3e3b8e2c92fd6a16d175a52515921",
+      "title": "Renewable Capacity Statistics 2026",
+      "url": "https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2026/Mar/IRENA_DAT_RE_capacity_statistics_2026.pdf"
+    },
+    {
+      "accessed_utc": "2026-09-14T23:45:00Z",
+      "bytes": 250326,
+      "id": "iea-ger-2026-solar",
+      "licence": "CC BY 4.0",
+      "published": "2026-04-20",
+      "publisher": "International Energy Agency",
+      "sha256": "e132b601459dd69c1f60257a277905a8cdced445787c8ce201509f171e691fea",
+      "title": "Global Energy Review 2026: Technology—Solar PV and wind",
+      "url": "https://www.iea.org/reports/global-energy-review-2026/technology-solar-pv-and-wind"
+    },
+    {
+      "accessed_utc": "2026-09-14T23:45:00Z",
+      "bytes": 315728,
+      "id": "iea-ger-2026-trends",
+      "licence": "CC BY 4.0",
+      "published": "2026-04-20",
+      "publisher": "International Energy Agency",
+      "sha256": "a24784659a4fa585f1842fce1664c9a783f3da4dd6629ad13ea6e079d0b11593",
+      "title": "Global Energy Review 2026: Global trends",
+      "url": "https://www.iea.org/reports/global-energy-review-2026/global-trends"
+    },
+    {
+      "accessed_utc": "2026-09-14T23:45:00Z",
+      "bytes": 5330,
+      "commit": "35f07f9c0ef6bbdaae3c9f27f5a361118f49624f",
+      "id": "globalgrid-solar-deployment",
+      "published": "2026-09-14",
+      "publisher": "GlobalGrid2050",
+      "role": "estate context; numerical observations use IRENA/IEA only",
+      "sha256": "842da4893ebb145608fc6147bd02228cbe173b6ca61e8c86c9274ea98d3f81d5",
+      "title": "Global Solar PV Deployment 2025",
+      "url": "https://raw.githubusercontent.com/Ventusltd/globalgrid2050/35f07f9c0ef6bbdaae3c9f27f5a361118f49624f/solar_deployment_statistics/index.md"
+    }
+  ],
+  "type": "global-solar"
+}

@@ -1,0 +1,17 @@
+name: Propose a solar star definition
+description: Submit public, dated solar observations for review.
+title: "Star proposal: "
+labels: ["star-proposal"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use only public sources. Keep different source estimates separate and include a locator, source bytes, SHA-256 and access time for every observation.
+  - type: textarea
+    id: definition
+    attributes:
+      label: Star JSON
+      description: Paste the complete definition prepared by the creator.
+      render: json
+    validations:
+      required: true

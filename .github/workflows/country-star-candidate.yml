@@ -1,0 +1,52 @@
+name: Country and global Star candidate
+
+on:
+  push:
+    branches:
+      - codex/country-star-definition
+    paths:
+      - "testcode/202609150040/**"
+      - ".github/workflows/country-star-candidate.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - name: Compile and test candidate
+        run: |
+          python -m compileall -q testcode/202609150040
+          python -m unittest -v testcode/202609150040/test_country_star.py
+      - name: Verify publication manifest
+        run: |
+          python testcode/202609150040/make_publication.py
+          git diff --exit-code -- testcode/202609150040/publication.json
+      - name: Repeat audited public-source build
+        run: >-
+          python testcode/202609150040/build_global_star.py
+          --output live-global-solar.star.json
+          --accessed-utc 2026-09-14T23:45:00Z
+          --allow-audited-iea-fixture-on-403
+      - name: Validate stable observations
+        run: python testcode/202609150040/star_contract.py live-global-solar.star.json
+      - name: Write GitHub lane result
+        run: >-
+          python testcode/202609150040/write_result.py
+          --star live-global-solar.star.json
+          --output country-star-ci-result.json
+          --lane github-actions
+          --code-commit "$GITHUB_SHA"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: country-star-ci-result
+          path: country-star-ci-result.json
+          if-no-files-found: error
+          retention-days: 7

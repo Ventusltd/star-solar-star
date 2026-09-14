@@ -1,0 +1,77 @@
+{
+  "$id": "https://ventusltd.github.io/star-solar-star/schema/star.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "description": {"minLength": 1, "type": "string"},
+    "id": {"pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$", "type": "string"},
+    "name": {"minLength": 1, "type": "string"},
+    "observations": {
+      "items": {
+        "additionalProperties": true,
+        "properties": {
+          "key": {"minLength": 1, "type": "string"},
+          "locator": {"minLength": 1, "type": "string"},
+          "metric": {"minLength": 1, "type": "string"},
+          "period": {"pattern": "^[0-9]{4}(?:-[0-9]{2}(?:-[0-9]{2})?)?$", "type": "string"},
+          "relation": {"enum": ["exact", "approximately", "greater_than", "less_than"]},
+          "source_id": {"minLength": 1, "type": "string"},
+          "unit": {"minLength": 1, "type": "string"},
+          "value": {"type": "number"}
+        },
+        "required": ["key", "metric", "period", "value", "unit", "relation", "source_id", "locator"],
+        "type": "object"
+      },
+      "minItems": 1,
+      "type": "array"
+    },
+    "region": {
+      "additionalProperties": false,
+      "properties": {
+        "code": {"minLength": 1, "type": "string"},
+        "name": {"minLength": 1, "type": "string"},
+        "scheme": {"enum": ["ISO_3166-1_alpha-2", "UN_M49"]}
+      },
+      "required": ["scheme", "code", "name"],
+      "type": "object"
+    },
+    "schema": {"const": "star-solar-star.definition.v1"},
+    "seed": {
+      "additionalProperties": false,
+      "properties": {
+        "algorithm": {"const": "sha256"},
+        "canonicalization": {"const": "UTF-8 JSON, recursively sorted object keys, observations sorted by key, no insignificant whitespace"},
+        "inputs": {"items": {"type": "string"}, "minItems": 1, "type": "array"},
+        "url_parameter": {"const": "seed"},
+        "value": {"pattern": "^[0-9a-f]{64}$", "type": "string"}
+      },
+      "required": ["algorithm", "canonicalization", "inputs", "url_parameter", "value"],
+      "type": "object"
+    },
+    "sources": {
+      "items": {
+        "additionalProperties": true,
+        "properties": {
+          "accessed_utc": {"pattern": "Z$", "type": "string"},
+          "bytes": {"minimum": 1, "type": "integer"},
+          "id": {"minLength": 1, "type": "string"},
+          "published": {"pattern": "^[0-9]{4}(?:-[0-9]{2}(?:-[0-9]{2})?)?$", "type": "string"},
+          "publisher": {"minLength": 1, "type": "string"},
+          "sha256": {"pattern": "^[0-9a-f]{64}$", "type": "string"},
+          "title": {"minLength": 1, "type": "string"},
+          "url": {"pattern": "^https://", "type": "string"}
+        },
+        "required": ["id", "publisher", "title", "url", "published", "accessed_utc", "bytes", "sha256"],
+        "type": "object"
+      },
+      "minItems": 1,
+      "type": "array"
+    },
+    "type": {"enum": ["country-solar", "global-solar"]}
+  },
+  "required": ["schema", "id", "type", "name", "description", "region", "sources", "observations", "seed"],
+  "title": "Sun Star country/global definition",
+  "type": "object"
+}
+
+

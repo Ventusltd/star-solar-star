@@ -1,0 +1,60 @@
+{
+  "files": [
+    {
+      "bytes": 1504,
+      "path": "README.md",
+      "sha256": "b451b8c991f6828d29892ebe486a070e5b86c3d88d8721a7957501c2a63011c2"
+    },
+    {
+      "bytes": 9891,
+      "path": "build_global_star.py",
+      "sha256": "eebe5b271118d026913411c5fb5208f007265a867c6babadf81e25de17b7ac93"
+    },
+    {
+      "bytes": 5839,
+      "path": "create/index.html",
+      "sha256": "2e147ed1171651fc0703ae24564ad6aa3c9fd709aee7115174b59dbcaebdfe36"
+    },
+    {
+      "bytes": 5214,
+      "path": "global-solar.star.json",
+      "sha256": "2a1ca0b9906e5c3a3d7edd1ac3097031473a33811b38a95b72267f1d6a796b6c"
+    },
+    {
+      "bytes": 1027,
+      "path": "iea-audited-statements.json",
+      "sha256": "38343d1248f6f2a2ec4b09fd926f2bcbd7079e445ec7a42ca689e48c15077e6d"
+    },
+    {
+      "bytes": 1285,
+      "path": "issue_to_star.py",
+      "sha256": "608ae5f56d42a5b16cc050f799b5563272c7f045ace1a42116bcf6fe55de748d"
+    },
+    {
+      "bytes": 1600,
+      "path": "merge_results.py",
+      "sha256": "dc265e22ecf011687d81b82776ac35d12cf5a54f2847b796da72c3a854368cc0"
+    },
+    {
+      "bytes": 3166,
+      "path": "star.schema.json",
+      "sha256": "485bf40ff725fbd465964fc7a6870c2199710519ea47459625632a15d191a5c5"
+    },
+    {
+      "bytes": 7140,
+      "path": "star_contract.py",
+      "sha256": "995a28b923798c51f52d776156ef261f1da44eb36823afc351c18d64df0d797b"
+    },
+    {
+      "bytes": 3129,
+      "path": "test_country_star.py",
+      "sha256": "afe865c261592bfe4fe777a0654d819a6bd8850fbc6b384bccfd29142e9a0a07"
+    },
+    {
+      "bytes": 1598,
+      "path": "write_result.py",
+      "sha256": "336b901e0d8e0e44793d46d405671922915c44b42b268da62837a36cbfea1619"
+    }
+  ],
+  "schema": "star-solar-star.candidate-publication.v1"
+}

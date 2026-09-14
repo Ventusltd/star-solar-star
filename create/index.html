@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Create a solar star definition</title>
+  <style>
+    :root { color-scheme: dark; --space:#07131f; --panel:#10263a; --line:#2d6f88; --text:#f2f7fa; --muted:#a8bdc8; --solar:#e7b84b; --data:#44b7c8; }
+    * { box-sizing:border-box; }
+    html,body { margin:0; min-width:0; background:var(--space); color:var(--text); font:16px/1.5 system-ui,sans-serif; }
+    main { width:min(100%,54rem); margin:0 auto; padding:1rem; overflow-wrap:anywhere; }
+    h1 { font-size:clamp(1.55rem,7vw,2.4rem); line-height:1.1; margin:.4rem 0; }
+    p { color:var(--muted); }
+    .panel { background:var(--panel); border:1px solid var(--line); border-radius:1rem; padding:1rem; }
+    textarea { display:block; width:100%; min-height:27rem; resize:vertical; border:1px solid var(--line); border-radius:.75rem; padding:.8rem; background:#06101a; color:var(--text); font:13px/1.45 ui-monospace,monospace; }
+    .actions { display:grid; grid-template-columns:repeat(auto-fit,minmax(11rem,1fr)); gap:.65rem; margin-top:.8rem; }
+    button,a.button { min-height:48px; display:flex; align-items:center; justify-content:center; border:1px solid var(--line); border-radius:.75rem; padding:.7rem 1rem; background:#15364d; color:var(--text); font:inherit; text-decoration:none; cursor:pointer; }
+    button.primary { border-color:var(--solar); color:#fff5d3; }
+    output { display:block; min-height:3rem; margin-top:.8rem; padding:.75rem; border-left:4px solid var(--data); background:#091a27; }
+    code { color:#9ce4ed; }
+    @media (max-width:430px) { main { padding:.75rem; } .panel { padding:.75rem; } textarea { min-height:22rem; } }
+  </style>
+</head>
+<body>
+<main>
+  <h1>Create a solar star definition</h1>
+  <p>A star is a small, source-bound JSON record. Enter only public observations. Each number needs a dated HTTPS source, byte count, SHA-256, access time and source locator. Source observations stay separate; the creator does not average them.</p>
+  <section class="panel" aria-labelledby="editor-label">
+    <h2 id="editor-label">Definition JSON</h2>
+    <textarea id="editor" spellcheck="false" aria-describedby="help"></textarea>
+    <p id="help">Country records use ISO 3166-1 alpha-2. The world record uses UN M49 <code>001</code>. Prepare recomputes the deterministic seed and puts the encoded definition in this page's URL.</p>
+    <div class="actions">
+      <button id="prepare" class="primary" type="button">Prepare definition</button>
+      <button id="copy" type="button">Copy encoded URL</button>
+      <a id="issue" class="button" href="https://github.com/Ventusltd/star-solar-star/issues/new">Open proposal issue</a>
+    </div>
+    <output id="status" role="status" aria-live="polite">Ready for a public, sourced definition.</output>
+  </section>
+</main>
+<script>
+const editor=document.querySelector('#editor'),status=document.querySelector('#status'),issue=document.querySelector('#issue');
+const canonical=value=>Array.isArray(value)?'['+value.map(canonical).join(',')+']':value&&typeof value==='object'?'{'+Object.keys(value).sort().map(k=>JSON.stringify(k)+':'+canonical(value[k])).join(',')+'}':JSON.stringify(value);
+const hex=bytes=>Array.from(bytes,b=>b.toString(16).padStart(2,'0')).join('');
+const seed=async observations=>hex(new Uint8Array(await crypto.subtle.digest('SHA-256',new TextEncoder().encode(canonical([...observations].sort((a,b)=>a.key.localeCompare(b.key)))))));
+const template={schema:'star-solar-star.definition.v1',id:'replace-with-stable-id',type:'country-solar',name:'Replace with public name',description:'Replace with a neutral description of the public observations.',region:{scheme:'ISO_3166-1_alpha-2',code:'GB',name:'United Kingdom'},sources:[],observations:[],seed:{algorithm:'sha256',canonicalization:'UTF-8 JSON, recursively sorted object keys, observations sorted by key, no insignificant whitespace',inputs:[],url_parameter:'seed',value:'0'.repeat(64)}};
+const fromUrl=new URL(location.href).searchParams.get('star');
+if(fromUrl){try{editor.value=JSON.stringify(JSON.parse(fromUrl),null,2)}catch(error){editor.value=JSON.stringify(template,null,2);status.textContent='The URL definition could not be decoded.'}}else editor.value=JSON.stringify(template,null,2);
+async function prepare(){try{const value=JSON.parse(editor.value);if(!Array.isArray(value.sources)||!value.sources.length)throw new Error('Add at least one public source with complete provenance.');if(!Array.isArray(value.observations)||!value.observations.length)throw new Error('Add at least one source-linked observation.');value.seed={algorithm:'sha256',canonicalization:template.seed.canonicalization,inputs:value.observations.map(row=>row.key).sort(),url_parameter:'seed',value:await seed(value.observations)};editor.value=JSON.stringify(value,null,2);const encoded=encodeURIComponent(JSON.stringify(value));const page=new URL(location.href);page.search='?star='+encoded;history.replaceState(null,'',page);const body='### Star JSON\n```json\n'+JSON.stringify(value,null,2)+'\n```';issue.href='https://github.com/Ventusltd/star-solar-star/issues/new?title='+encodeURIComponent('Star proposal: '+value.id)+'&labels=star-proposal&body='+encodeURIComponent(body);status.textContent='Prepared. Seed '+value.seed.value+'. Review the JSON, then open the proposal issue.'}catch(error){status.textContent='Not prepared: '+error.message}}
+document.querySelector('#prepare').addEventListener('click',prepare);
+document.querySelector('#copy').addEventListener('click',async()=>{await prepare();try{await navigator.clipboard.writeText(location.href);status.textContent='Encoded URL copied.'}catch(error){status.textContent='Copy was unavailable; select the browser URL.'}});
+</script>
+</body>
+</html>
+
+
