@@ -1,0 +1,29 @@
+{
+  "schema": "star-solar-star.audited-source-fixture.v1",
+  "purpose": "Pinned evidence for GitHub runners when the official IEA host returns HTTP 403; local builds still require live retrieval.",
+  "sources": [
+    {
+      "id": "iea-ger-2026-solar",
+      "url": "https://www.iea.org/reports/global-energy-review-2026/technology-solar-pv-and-wind",
+      "accessed_utc": "2026-09-14T23:45:00Z",
+      "bytes": 250326,
+      "sha256": "e132b601459dd69c1f60257a277905a8cdced445787c8ce201509f171e691fea",
+      "markers": [
+        "surpassing 600 GW",
+        "cumulative solar PV capacity to around 2 800 GW"
+      ]
+    },
+    {
+      "id": "iea-ger-2026-trends",
+      "url": "https://www.iea.org/reports/global-energy-review-2026/global-trends",
+      "accessed_utc": "2026-09-14T23:45:00Z",
+      "bytes": 315728,
+      "sha256": "a24784659a4fa585f1842fce1664c9a783f3da4dd6629ad13ea6e079d0b11593",
+      "markers": [
+        "record increase of 600 TWh",
+        "nearly 2 700 TWh",
+        "over 8%"
+      ]
+    }
+  ]
+}
