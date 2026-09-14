@@ -1,0 +1,57 @@
+name: Publish approved Star proposal
+
+on:
+  issues:
+    types: [labeled]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: publish-star-${{ github.event.issue.number }}
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    if: github.event.label.name == 'star-approved'
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: main
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - name: Read proposal body without shell interpolation
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: gh issue view "$ISSUE_NUMBER" --repo "$GITHUB_REPOSITORY" --json body --jq .body > "$RUNNER_TEMP/star-proposal.md"
+      - name: Validate and materialize immutable ID
+        id: materialize
+        shell: bash
+        run: |
+          path="$(python scripts/issue_to_star.py --body-file "$RUNNER_TEMP/star-proposal.md" --output-dir stars)"
+          echo "path=$path" >> "$GITHUB_OUTPUT"
+          python scripts/star_contract.py "$path"
+      - name: Commit approved definition
+        env:
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- "${{ steps.materialize.outputs.path }}"
+          if git diff --cached --quiet; then
+            echo "Definition already published unchanged"
+          else
+            git commit -m "data: publish approved Star proposal #$ISSUE_NUMBER"
+            git push
+          fi
+      - name: Record publication on proposal
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          PUBLISHED_PATH: ${{ steps.materialize.outputs.path }}
+        run: gh issue comment "$ISSUE_NUMBER" --repo "$GITHUB_REPOSITORY" --body "Validated and published \`$PUBLISHED_PATH\` from the approved source-bound definition."

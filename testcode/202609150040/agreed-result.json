@@ -1,0 +1,97 @@
+{
+  "code_commit": "88e633df123000b4dd869db5dc606617886753a1",
+  "facts": {
+    "globalgrid_commit": "35f07f9c0ef6bbdaae3c9f27f5a361118f49624f",
+    "id": "global-solar-2025",
+    "irena_pdf_sha256": "fc580bd4f4ee39ef20de6b1ce3926005a4e3e3b8e2c92fd6a16d175a52515921",
+    "observation_count": 6,
+    "observations": [
+      {
+        "key": "irena:solar-pv-capacity:world:2025",
+        "locator": "PDF page 36, Solar photovoltaic table, World row, 2025 column",
+        "metric": "solar photovoltaic installed capacity",
+        "period": "2025",
+        "relation": "exact",
+        "source_id": "irena-rsc-2026",
+        "unit": "MW",
+        "value": 2383162
+      },
+      {
+        "derivation": {
+          "formula": "2025 capacity minus 2024 capacity",
+          "inputs_mw": [
+            2383162,
+            1872813
+          ]
+        },
+        "key": "irena:solar-pv-net-change:world:2025",
+        "locator": "Derived from PDF page 36 World row: 2,383,162 MW (2025) minus 1,872,813 MW (2024)",
+        "metric": "solar photovoltaic installed-capacity net change",
+        "period": "2025",
+        "relation": "exact",
+        "source_id": "irena-rsc-2026",
+        "unit": "MW",
+        "value": 510349
+      },
+      {
+        "key": "iea:solar-pv-capacity:world:2025",
+        "locator": "Technology: Solar PV and wind; 2025 capacity paragraph",
+        "metric": "solar photovoltaic installed capacity",
+        "period": "2025",
+        "relation": "approximately",
+        "source_id": "iea-ger-2026-solar",
+        "unit": "GW",
+        "value": 2800
+      },
+      {
+        "key": "iea:solar-pv-additions:world:2025",
+        "locator": "Technology: Solar PV and wind; 2025 capacity paragraph",
+        "metric": "solar photovoltaic capacity additions",
+        "period": "2025",
+        "relation": "greater_than",
+        "source_id": "iea-ger-2026-solar",
+        "unit": "GW",
+        "value": 600
+      },
+      {
+        "key": "iea:solar-pv-generation:world:2025",
+        "locator": "Global trends; Solar saw extraordinary growth in 2025",
+        "metric": "solar photovoltaic electricity generation",
+        "period": "2025",
+        "relation": "approximately",
+        "source_id": "iea-ger-2026-trends",
+        "unit": "TWh",
+        "value": 2700
+      },
+      {
+        "key": "iea:solar-pv-generation-share:world:2025",
+        "locator": "Global trends; Solar saw extraordinary growth in 2025",
+        "metric": "solar photovoltaic share of global electricity generation",
+        "period": "2025",
+        "relation": "greater_than",
+        "source_id": "iea-ger-2026-trends",
+        "unit": "percent",
+        "value": 8
+      }
+    ],
+    "region": {
+      "code": "001",
+      "name": "World",
+      "scheme": "UN_M49"
+    },
+    "seed": "a8696b5b9286966a43af65e3556ff3805df60542ed08f6fbc841d7bfed92dffa",
+    "source_urls": {
+      "globalgrid-solar-deployment": "https://raw.githubusercontent.com/Ventusltd/globalgrid2050/35f07f9c0ef6bbdaae3c9f27f5a361118f49624f/solar_deployment_statistics/index.md",
+      "iea-ger-2026-solar": "https://www.iea.org/reports/global-energy-review-2026/technology-solar-pv-and-wind",
+      "iea-ger-2026-trends": "https://www.iea.org/reports/global-energy-review-2026/global-trends",
+      "irena-rsc-2026": "https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2026/Mar/IRENA_DAT_RE_capacity_statistics_2026.pdf"
+    },
+    "type": "global-solar"
+  },
+  "facts_sha256": "9b71c026fee5542e68a41df9df2c7a641b1c584277d0467f23cb63efe38216c3",
+  "lanes": [
+    "alienware-local",
+    "github-actions"
+  ],
+  "result_schema": "star-solar-star.agreement.v1"
+}

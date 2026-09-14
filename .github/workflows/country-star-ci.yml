@@ -1,0 +1,73 @@
+name: Validate country and global Stars
+
+on:
+  pull_request:
+    paths:
+      - "create/**"
+      - "schema/**"
+      - "scripts/issue_to_star.py"
+      - "scripts/star_contract.py"
+      - "stars/**"
+      - "testcode/202609150040/**"
+      - ".github/workflows/country-star-ci.yml"
+      - ".github/workflows/publish-approved-star.yml"
+  push:
+    branches: [main]
+    paths:
+      - "create/**"
+      - "schema/**"
+      - "scripts/issue_to_star.py"
+      - "scripts/star_contract.py"
+      - "stars/**"
+      - "testcode/202609150040/**"
+      - ".github/workflows/country-star-ci.yml"
+      - ".github/workflows/publish-approved-star.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - name: Run contract tests
+        run: python -m unittest -v testcode/202609150040/test_country_star.py
+      - name: Validate every published definition
+        shell: bash
+        run: |
+          shopt -s nullglob
+          files=(stars/*.star.json)
+          (( ${#files[@]} > 0 ))
+          for file in "${files[@]}"; do
+            python scripts/star_contract.py "$file"
+          done
+      - name: Repeat source-bound reference build
+        run: >-
+          python testcode/202609150040/build_global_star.py
+          --output "$RUNNER_TEMP/global-solar.star.json"
+          --accessed-utc 2026-09-14T23:45:00Z
+          --allow-audited-iea-fixture-on-403
+      - name: Compare stable reference facts
+        shell: bash
+        run: |
+          python testcode/202609150040/write_result.py \
+            --star stars/global-solar-2025.star.json \
+            --output "$RUNNER_TEMP/committed.json" \
+            --lane committed --code-commit "$GITHUB_SHA"
+          python testcode/202609150040/write_result.py \
+            --star "$RUNNER_TEMP/global-solar.star.json" \
+            --output "$RUNNER_TEMP/rebuilt.json" \
+            --lane rebuilt --code-commit "$GITHUB_SHA"
+          python testcode/202609150040/merge_results.py \
+            --local "$RUNNER_TEMP/committed.json" \
+            --ci "$RUNNER_TEMP/rebuilt.json" \
+            --output "$RUNNER_TEMP/agreement.json"
+      - name: Verify candidate publication manifest
+        run: |
+          python testcode/202609150040/make_publication.py
+          git diff --exit-code -- testcode/202609150040/publication.json
