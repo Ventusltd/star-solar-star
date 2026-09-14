@@ -36,19 +36,19 @@
       "sha256": "dc265e22ecf011687d81b82776ac35d12cf5a54f2847b796da72c3a854368cc0"
     },
     {
-      "bytes": 3166,
+      "bytes": 3219,
       "path": "star.schema.json",
-      "sha256": "485bf40ff725fbd465964fc7a6870c2199710519ea47459625632a15d191a5c5"
+      "sha256": "c7a3740130385ea4df02865bd0bf9c0cf31b2778cdfca56a33681793266561f6"
     },
     {
-      "bytes": 7140,
+      "bytes": 7979,
       "path": "star_contract.py",
-      "sha256": "995a28b923798c51f52d776156ef261f1da44eb36823afc351c18d64df0d797b"
+      "sha256": "bab0a08e59b051ae10cc6218c9b32582e6d01a7f93b30e91a9c757c1e8e1eadd"
     },
     {
-      "bytes": 3129,
+      "bytes": 4327,
       "path": "test_country_star.py",
-      "sha256": "afe865c261592bfe4fe777a0654d819a6bd8850fbc6b384bccfd29142e9a0a07"
+      "sha256": "3373aa1d03f1f0b4dfe511ea709b1c8c8722826e2a9dcde6663bca881c278c74"
     },
     {
       "bytes": 1598,

@@ -13,7 +13,7 @@ from unittest import mock
 
 HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE))
-from issue_to_star import extract  # noqa: E402
+from issue_to_star import extract, publish  # noqa: E402
 from star_contract import seed_for, validate  # noqa: E402
 import build_global_star  # noqa: E402
 
@@ -43,6 +43,33 @@ class StarContractTests(unittest.TestCase):
         changed["description"] = "A Companies House prospect company list"
         with self.assertRaisesRegex(ValueError, "excluded term"):
             validate(changed)
+
+    def test_source_url_must_be_public_https_without_credentials_or_fragment(self):
+        invalid = (
+            "https://localhost/source",
+            "https://10.0.0.1/source",
+            "https://user@example.com/source",
+            "https://example.com/source#section",
+        )
+        for url in invalid:
+            with self.subTest(url=url):
+                changed = copy.deepcopy(self.star)
+                changed["sources"][0]["url"] = url
+                with self.assertRaises(ValueError):
+                    validate(changed)
+
+    def test_existing_id_cannot_be_replaced_with_different_content(self):
+        with tempfile.TemporaryDirectory() as directory:
+            output = Path(directory)
+            publish(self.star, output)
+            changed = copy.deepcopy(self.star)
+            changed["description"] = "A different neutral description."
+            with self.assertRaises(FileExistsError):
+                publish(changed, output)
+
+    def test_text_outside_json_fence_is_never_parsed_as_code(self):
+        body = "$(untrusted text)\n### Star JSON\n```json\n" + json.dumps(self.star) + "\n```\n"
+        self.assertEqual(extract(body), self.star)
 
     def test_issue_parser_accepts_one_json_fence(self):
         body = "Proposal\n### Star JSON\n```json\n" + json.dumps(self.star) + "\n```\n"

@@ -9,7 +9,7 @@ permissions:
   issues: write
 
 concurrency:
-  group: publish-star-${{ github.event.issue.number }}
+  group: publish-star-main
   cancel-in-progress: false
 
 jobs:
