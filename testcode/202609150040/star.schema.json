@@ -3,9 +3,9 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "additionalProperties": false,
   "properties": {
-    "description": {"minLength": 1, "type": "string"},
+    "description": {"maxLength": 500, "minLength": 1, "type": "string"},
     "id": {"pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$", "type": "string"},
-    "name": {"minLength": 1, "type": "string"},
+    "name": {"maxLength": 120, "minLength": 1, "type": "string"},
     "observations": {
       "items": {
         "additionalProperties": true,
@@ -59,7 +59,7 @@
           "publisher": {"minLength": 1, "type": "string"},
           "sha256": {"pattern": "^[0-9a-f]{64}$", "type": "string"},
           "title": {"minLength": 1, "type": "string"},
-          "url": {"pattern": "^https://", "type": "string"}
+          "url": {"format": "uri", "pattern": "^https://", "type": "string"}
         },
         "required": ["id", "publisher", "title", "url", "published", "accessed_utc", "bytes", "sha256"],
         "type": "object"

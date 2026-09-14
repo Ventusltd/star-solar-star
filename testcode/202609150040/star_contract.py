@@ -5,9 +5,11 @@ from __future__ import annotations
 import argparse
 import datetime as dt
 import hashlib
+import ipaddress
 import json
 import math
 import re
+import urllib.parse
 from pathlib import Path
 from typing import Any
 
@@ -47,6 +49,21 @@ def _date_like(value: Any, label: str) -> None:
     _require(isinstance(value, str) and PERIOD.fullmatch(value) is not None, f"{label} must be YYYY, YYYY-MM or YYYY-MM-DD")
 
 
+def _public_https_url(value: Any, label: str) -> None:
+    _require(isinstance(value, str), f"{label} must be a string")
+    parsed = urllib.parse.urlsplit(value)
+    _require(parsed.scheme == "https" and parsed.hostname is not None, f"{label} must use HTTPS with a host")
+    _require(parsed.username is None and parsed.password is None, f"{label} must not contain credentials")
+    _require(not parsed.fragment, f"{label} must not contain a fragment")
+    host = parsed.hostname.lower().rstrip(".")
+    try:
+        address = ipaddress.ip_address(host)
+    except ValueError:
+        _require("." in host and host != "localhost" and not host.endswith(".local"), f"{label} host must be public")
+    else:
+        _require(address.is_global, f"{label} IP host must be globally routable")
+
+
 def validate(star: dict[str, Any]) -> dict[str, Any]:
     _require(isinstance(star, dict), "star must be a JSON object")
     required = {"schema", "id", "type", "name", "description", "region", "sources", "observations", "seed"}
@@ -54,8 +71,8 @@ def validate(star: dict[str, Any]) -> dict[str, Any]:
     _require(star["schema"] == SCHEMA, f"schema must be {SCHEMA}")
     _require(isinstance(star["id"], str) and SLUG.fullmatch(star["id"]) is not None, "id must be a lowercase hyphenated slug")
     _require(star["type"] in {"country-solar", "global-solar"}, "unsupported star type")
-    _require(isinstance(star["name"], str) and star["name"].strip(), "name is required")
-    _require(isinstance(star["description"], str) and star["description"].strip(), "description is required")
+    _require(isinstance(star["name"], str) and 1 <= len(star["name"].strip()) <= 120, "name must contain 1 to 120 characters")
+    _require(isinstance(star["description"], str) and 1 <= len(star["description"].strip()) <= 500, "description must contain 1 to 500 characters")
 
     public_text = " ".join([star["name"], star["description"]]).lower()
     for term in PUBLIC_LANGUAGE_EXCLUSIONS:
@@ -79,7 +96,7 @@ def validate(star: dict[str, Any]) -> dict[str, Any]:
         _require(isinstance(source, dict) and needed <= set(source), f"{label} lacks required provenance")
         _require(source["id"] not in source_ids, f"duplicate source id {source['id']}")
         source_ids.add(source["id"])
-        _require(isinstance(source["url"], str) and source["url"].startswith("https://"), f"{label}.url must use HTTPS")
+        _public_https_url(source["url"], f"{label}.url")
         _date_like(source["published"], f"{label}.published")
         _require(isinstance(source["accessed_utc"], str) and source["accessed_utc"].endswith("Z"), f"{label}.accessed_utc must end in Z")
         try:
