@@ -1,0 +1,50 @@
+{
+  "files": [
+    {
+      "bytes": 1668,
+      "path": "README.md",
+      "sha256": "03bcff093a9520de5cd21cfcd41544a275cea602224774a8ac7baff7864007cf"
+    },
+    {
+      "bytes": 19574,
+      "path": "build_sun.py",
+      "sha256": "f23c7f2e238d39e2ed0d1a567d74caba9f3bdf6887fa124b77be0da4a22801cc"
+    },
+    {
+      "bytes": 1417,
+      "path": "local-result.json",
+      "sha256": "b3670fbeb3ab4cff6c00e3679377cf6c58975c3fd92c44ae849878464dd9a667"
+    },
+    {
+      "bytes": 665,
+      "path": "make_publication.py",
+      "sha256": "8bf978a067d64cffec4611709ab1c43fb9c5c4395aef3dcfc44b0cea3a41cebb"
+    },
+    {
+      "bytes": 1101,
+      "path": "merge_results.py",
+      "sha256": "667afbd20d665f46ecadd7cde1b7a7abc9c83e479744579310cb72e1d40c61cc"
+    },
+    {
+      "bytes": 1505,
+      "path": "merged-result.json",
+      "sha256": "0d9fd8712691fe9b5c1fc9199865bde6f89b423dd4f1e5f7300c2a782fa70304"
+    },
+    {
+      "bytes": 173,
+      "path": "requirements.txt",
+      "sha256": "afa0cdfbabdf7839d16e89e71f5f940d13810697296f45d469d1979455369e64"
+    },
+    {
+      "bytes": 4819,
+      "path": "test_build_sun.py",
+      "sha256": "ef4dcc7ad999c1f56d3774c2b1e3ef2d54efdfcafaf6b2a2fa564f0e2385959c"
+    },
+    {
+      "bytes": 1771,
+      "path": "write_result.py",
+      "sha256": "bc9ccdd5b069f0f4b8795997f61563a9b53cca6ea2f52c600fba6c071e7f587b"
+    }
+  ],
+  "schema": "globalgrid2050.testcode-publication.v1"
+}
