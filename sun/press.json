@@ -122,6 +122,18 @@
     },
     {
       "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/09/15/a-modern-economy-runs-on-electricity/",
+      "published": "Tue, 15 Sep 2026 04:02:00 +0000",
+      "title": "‘A modern economy runs on electricity’"
+    },
+    {
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/09/15/renewables-24-7an-exhibit-and-a-statement/",
+      "published": "Tue, 15 Sep 2026 04:00:00 +0000",
+      "title": "Renewables 24/7: An exhibit and a statement"
+    },
+    {
+      "attribution": "pv magazine International",
       "link": "https://www.pv-magazine.com/2026/09/14/canadian-province-launches-second-green-choice-renewable-procurement-round/",
       "published": "Mon, 14 Sep 2026 14:30:00 +0000",
       "title": "Canadian province launches second renewable procurement round"
@@ -167,18 +179,6 @@
       "link": "https://www.pv-magazine.com/2026/09/14/armenia-opens-tender-for-small-scale-pv-systems/",
       "published": "Mon, 14 Sep 2026 07:45:28 +0000",
       "title": "Armenia opens tender for small-scale PV systems"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/14/georgia-tech-bert-thin-films-build-24-3-efficient-copper-contacted-topcon-solar-cell-via-leco/",
-      "published": "Mon, 14 Sep 2026 07:37:27 +0000",
-      "title": "Georgia Tech, Bert Thin Films build 24.3%-efficient copper-contacted TOPCon solar cell via LECO"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/14/noria-energy-launches-single-axis-tracker-for-floating-solar-applications/",
-      "published": "Mon, 14 Sep 2026 07:33:18 +0000",
-      "title": "Noria Energy launches single-axis tracker for floating solar applications"
     }
   ],
   "policy": "RSS metadata only: title, link, date, attribution",
