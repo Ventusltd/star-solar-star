@@ -12,6 +12,7 @@ import hashlib
 import html
 import importlib.util
 import json
+import math
 import re
 import subprocess
 import sys
@@ -25,7 +26,8 @@ from typing import Any
 
 
 USER_AGENT = "GlobalGrid2050-Sun-Star/1.0 (+https://github.com/Ventusltd/star-solar-star)"
-PVLIVE = "https://api0.solar.sheffield.ac.uk/pvlive/api/v4/gsp/0"
+PVLIVE = "https://api.pvlive.uk/pvlive/api/v4/gsp/0"
+PV_TIMESTAMP_CONVENTION = "UTC interval end; day covers 00:30 through next 00:00"
 PUBLIC_ROOT = "https://globalgrid2050.com"
 GLOBALGRID_GITHUB = "https://raw.githubusercontent.com/Ventusltd/globalgrid2050/{commit}/{path}"
 FEEDS = (
@@ -135,12 +137,46 @@ def pv_url(as_of: dt.date, history_days: int) -> str:
     start = as_of - dt.timedelta(days=history_days - 1)
     query = urllib.parse.urlencode(
         {
-            "start": f"{start.isoformat()}T00:00:00Z",
-            "end": f"{as_of.isoformat()}T23:59:59Z",
+            "start": f"{start.isoformat()}T00:30:00Z",
+            "end": f"{(as_of + dt.timedelta(days=1)).isoformat()}T00:00:00Z",
             "extra_fields": "installedcapacity_mwp,capacity_mwp",
         }
     )
     return f"{PVLIVE}?{query}"
+
+
+def interval_end(timestamp: Any) -> dt.datetime:
+    if not isinstance(timestamp, str) or not re.fullmatch(r"\d{4}-\d{2}-\d{2}T\d{2}:(?:00|30):00Z", timestamp):
+        raise ValueError("PV Live timestamp must be a UTC half-hour interval end")
+    return dt.datetime.fromisoformat(timestamp.replace("Z", "+00:00"))
+
+
+def finite_power(value: Any) -> float:
+    if isinstance(value, bool) or not isinstance(value, (int, float)) or not math.isfinite(value) or value < 0:
+        raise ValueError("PV Live power/capacity must be finite and nonnegative")
+    return float(value)
+
+
+def summarize_pv_day(date_text: str, day_rows: list[dict[str, Any]]) -> dict[str, Any]:
+    """Recompute summaries only from a complete UTC day of end-stamped samples."""
+    start = dt.datetime.combine(dt.date.fromisoformat(date_text), dt.time(), dt.timezone.utc)
+    expected = [(start + dt.timedelta(minutes=30 * n)).strftime("%Y-%m-%dT%H:%M:%SZ") for n in range(1, 49)]
+    if [row["timestamp_utc"] for row in day_rows] != expected:
+        raise ValueError("PV Live day must contain 48 unique ordered half-hour interval ends with full UTC coverage")
+    for row in day_rows:
+        finite_power(row["generation_mw"])
+        if row["installed_capacity_mwp"] is not None:
+            finite_power(row["installed_capacity_mwp"])
+    series = [[row["timestamp_utc"], float(row["generation_mw"])] for row in day_rows]
+    peak = max(day_rows, key=lambda row: row["generation_mw"])
+    return {
+        "date": date_text, "timestamp_convention": PV_TIMESTAMP_CONVENTION,
+        "interval_minutes": 30, "intervals": 48, "complete": True,
+        "energy_mwh": round(math.fsum(row["generation_mw"] for row in day_rows) * 0.5, 3),
+        "peak_mw": peak["generation_mw"], "peak_at_utc": peak["timestamp_utc"],
+        "installed_capacity_mwp": next((row["installed_capacity_mwp"] for row in day_rows if row["installed_capacity_mwp"] is not None), None),
+        "seed_sha256": sha256(canonical_json(series)), "series": day_rows,
+    }
 
 
 def parse_pvlive(payload: dict[str, Any], as_of: dt.date) -> tuple[dict[str, Any], dict[str, Any]]:
@@ -148,48 +184,45 @@ def parse_pvlive(payload: dict[str, Any], as_of: dt.date) -> tuple[dict[str, Any
     data = payload.get("data")
     if not isinstance(columns, list) or not isinstance(data, list):
         raise ValueError("PV Live response lacks meta/data arrays")
-    required = ("datetime_gmt", "generation_mw")
+    if len(columns) != len(set(columns)):
+        raise ValueError("PV Live response has duplicate columns")
+    required = ("gsp_id", "datetime_gmt", "generation_mw")
     if any(name not in columns for name in required):
         raise ValueError(f"PV Live response lacks required columns: {required}")
     indexes = {name: columns.index(name) for name in columns}
     rows: list[dict[str, Any]] = []
+    seen = set()
     for source_row in data:
-        timestamp = str(source_row[indexes["datetime_gmt"]])
-        generation = float(source_row[indexes["generation_mw"]])
+        if not isinstance(source_row, list) or len(source_row) != len(columns):
+            raise ValueError("PV Live row does not match metadata columns")
+        if type(source_row[indexes["gsp_id"]]) is not int or source_row[indexes["gsp_id"]] != 0:
+            raise ValueError("PV Live response contains a non-national GSP")
+        timestamp = source_row[indexes["datetime_gmt"]]
+        end = interval_end(timestamp)
+        if timestamp in seen:
+            raise ValueError("PV Live response contains duplicate timestamps")
+        seen.add(timestamp)
+        if (end - dt.timedelta(minutes=30)).date() > as_of:
+            raise ValueError("PV Live response contains a day after the requested date")
+        generation = finite_power(source_row[indexes["generation_mw"]])
         installed = None
         if "installedcapacity_mwp" in indexes and source_row[indexes["installedcapacity_mwp"]] is not None:
-            installed = float(source_row[indexes["installedcapacity_mwp"]])
+            installed = finite_power(source_row[indexes["installedcapacity_mwp"]])
         rows.append({"timestamp_utc": timestamp, "generation_mw": generation, "installed_capacity_mwp": installed})
     rows.sort(key=lambda row: row["timestamp_utc"])
     grouped: dict[str, list[dict[str, Any]]] = defaultdict(list)
     for row in rows:
-        grouped[row["timestamp_utc"][:10]].append(row)
+        date_text = (interval_end(row["timestamp_utc"]) - dt.timedelta(minutes=30)).date().isoformat()
+        grouped[date_text].append(row)
 
     days: list[dict[str, Any]] = []
     for date_text in sorted(grouped):
-        day_rows = grouped[date_text]
-        series = [[row["timestamp_utc"], row["generation_mw"]] for row in day_rows]
-        peak = max(day_rows, key=lambda row: row["generation_mw"])
-        interval_minutes = 30
-        days.append(
-            {
-                "date": date_text,
-                "interval_minutes": interval_minutes,
-                "intervals": len(day_rows),
-                "complete": len(day_rows) == 48,
-                "energy_mwh": round(sum(row["generation_mw"] for row in day_rows) * interval_minutes / 60, 3),
-                "peak_mw": peak["generation_mw"],
-                "peak_at_utc": peak["timestamp_utc"],
-                "installed_capacity_mwp": next(
-                    (row["installed_capacity_mwp"] for row in day_rows if row["installed_capacity_mwp"] is not None),
-                    None,
-                ),
-                "seed_sha256": sha256(canonical_json(series)),
-                "series": day_rows,
-            }
-        )
+        days.append(summarize_pv_day(date_text, grouped[date_text]))
     if not days:
         raise ValueError("PV Live response contains no rows")
+    first_date = dt.date.fromisoformat(days[0]["date"])
+    if [day["date"] for day in days] != [(first_date + dt.timedelta(days=n)).isoformat() for n in range(len(days))]:
+        raise ValueError("PV Live response has missing UTC days")
     requested = as_of.isoformat()
     selected = next((row for row in days if row["date"] == requested), days[-1])
     today = {
@@ -199,7 +232,7 @@ def parse_pvlive(payload: dict[str, Any], as_of: dt.date) -> tuple[dict[str, Any
         **selected,
     }
     history = {
-        "schema": "star-solar-star.history.v1",
+        "schema": "star-solar-star.history.v2",
         "energy_formula": "sum of half-hourly generation_mw multiplied by 0.5 hours",
         "days": days,
     }
@@ -409,7 +442,7 @@ def build(args: argparse.Namespace) -> dict[str, Path]:
     press = build_press(ledger)
 
     today = {
-        "schema": "star-solar-star.today.v1",
+        "schema": "star-solar-star.today.v2",
         "built_utc": built_utc,
         "seed": today_series["seed_sha256"],
         "seed_rule": "sha256 of canonical JSON for the selected day's ordered [timestamp_utc, generation_mw] PV Live series",

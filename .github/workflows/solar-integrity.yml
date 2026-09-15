@@ -1,0 +1,63 @@
+name: Solar production integrity
+on:
+  pull_request:
+    paths: ['scripts/**', 'create/**', 'schema/**', 'testcode/202609150503/**', '.github/workflows/solar-integrity.yml']
+  push:
+    branches: [main]
+    paths: ['scripts/**', 'create/**', 'schema/**', 'testcode/202609150503/**', '.github/workflows/solar-integrity.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  live-builder:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - run: python -m pip install -r requirements.txt
+      - uses: actions/checkout@v5
+        with:
+          repository: Ventusltd/globalgrid2050
+          ref: 35f07f9c0ef6bbdaae3c9f27f5a361118f49624f
+          path: globalgrid2050-source
+      - name: Build corrected interval days from public sources
+        run: >-
+          python scripts/build_sun.py
+          --globalgrid-root globalgrid2050-source
+          --globalgrid-commit 35f07f9c0ef6bbdaae3c9f27f5a361118f49624f
+          --as-of 2026-09-14 --output live-sun
+      - name: Recompute live and committed data integrity
+        run: |
+          python scripts/validate_sun.py live-sun
+          python scripts/validate_sun.py sun
+      - uses: actions/upload-artifact@v4
+        with:
+          name: solar-production-data-proof
+          path: live-sun/*.json
+  production:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Exercise production Python contracts
+        run: python -m unittest -v testcode/202609150503/test_integrity.py
+      - name: Install browser test dependency
+        run: npm install --no-save --package-lock=false puppeteer@24.31.0
+      - name: Compare production browser preparation with Python
+        env:
+          PROOF_OUTPUT: browser-proof.json
+        run: node testcode/202609150503/browser.mjs
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: solar-production-browser-proof
+          path: browser-proof.json
