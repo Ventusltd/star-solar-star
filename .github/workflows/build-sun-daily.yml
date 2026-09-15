@@ -40,7 +40,7 @@ jobs:
       - name: Check out Sun Star
         uses: actions/checkout@v5
         with:
-          ref: ${{ github.ref == 'refs/heads/main' && 'main' || github.sha }}
+          ref: ${{ github.ref == 'refs/heads/main' && github.event_name != 'push' && 'main' || github.sha }}
           fetch-depth: 0
       - name: Set up Python
         uses: actions/setup-python@v6
