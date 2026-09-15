@@ -2,6 +2,12 @@
 
 The Sun Star is a deterministic, public-data solar clock. Its long-term reference scenario is 75 TWp of global PV by 2050.
 
+## Links
+
+- used by [UK Solar lens](https://globalgrid2050.com/testcode/202609150502/)
+- contains [country and global definitions](https://github.com/Ventusltd/star-solar-star/tree/main/stars)
+- uses [relational map](https://ventusltd.github.io/ventus-grid-engine/?graph=periodic-table)
+
 ## Daily public data
 
 The browser reads six committed files in `sun/`; it never calls PV Live directly.
