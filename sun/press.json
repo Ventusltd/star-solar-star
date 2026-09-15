@@ -122,6 +122,24 @@
     },
     {
       "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/09/15/rheem-launches-air-to-water-heat-pumps-for-multifamily-houses/",
+      "published": "Tue, 15 Sep 2026 07:59:07 +0000",
+      "title": "Rheem launches air-to-water heat pumps for multifamily houses"
+    },
+    {
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/09/15/lithuania-moves-to-support-residential-pv/",
+      "published": "Tue, 15 Sep 2026 07:51:46 +0000",
+      "title": "Lithuania moves to support residential PV"
+    },
+    {
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/09/15/gamechange-countersues-nextpower-in-expanding-solar-tracker-patent-war/",
+      "published": "Tue, 15 Sep 2026 05:34:06 +0000",
+      "title": "GameChange sues Nextpower in expanding solar tracker patent war"
+    },
+    {
+      "attribution": "pv magazine International",
       "link": "https://www.pv-magazine.com/2026/09/15/a-modern-economy-runs-on-electricity/",
       "published": "Tue, 15 Sep 2026 04:02:00 +0000",
       "title": "‘A modern economy runs on electricity’"
@@ -161,24 +179,6 @@
       "link": "https://www.pv-magazine.com/2026/09/14/india-adds-8-2-gwh-of-new-bess-capacity-in-h1/",
       "published": "Mon, 14 Sep 2026 09:25:09 +0000",
       "title": "India adds 8.2 GWh of new BESS capacity in H1"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/14/anker-solix-launches-xe-the-next-generation-all-in-one-home-energy-storage/",
-      "published": "Mon, 14 Sep 2026 09:00:00 +0000",
-      "title": "Anker SOLIX launches XE, the next-generation all-in-one home energy storage"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/14/photovoltaic-thermal-heat-pump-based-on-bio-based-surface-coating-achieves-77-32-overall-efficiency/",
-      "published": "Mon, 14 Sep 2026 08:14:45 +0000",
-      "title": "Photovoltaic-thermal heat pump based on bio-based surface coating achieves 77.32% overall efficiency"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/14/armenia-opens-tender-for-small-scale-pv-systems/",
-      "published": "Mon, 14 Sep 2026 07:45:28 +0000",
-      "title": "Armenia opens tender for small-scale PV systems"
     }
   ],
   "policy": "RSS metadata only: title, link, date, attribution",
