@@ -13,9 +13,12 @@ import urllib.parse
 from pathlib import Path
 from typing import Any
 
+from vendor.rfc8785 import dumps as jcs_bytes
+
 
 SCHEMA = "star-solar-star.definition.v1"
 CANONICALIZATION = "UTF-8 JSON, recursively sorted object keys, observations sorted by key, no insignificant whitespace"
+JCS_CANONICALIZATION = "RFC8785-JCS; observations sorted by UTF-16 key; safe integers; v2"
 SHA256 = re.compile(r"^[0-9a-f]{64}$")
 SLUG = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 PERIOD = re.compile(r"^[0-9]{4}(?:-[0-9]{2}(?:-[0-9]{2})?)?$")
@@ -35,9 +38,31 @@ def canonical_bytes(value: Any) -> bytes:
     return json.dumps(value, ensure_ascii=False, sort_keys=True, separators=(",", ":")).encode("utf-8")
 
 
-def seed_for(observations: list[dict[str, Any]]) -> str:
-    ordered = sorted(observations, key=lambda item: item["key"])
-    return hashlib.sha256(canonical_bytes(ordered)).hexdigest()
+def _jcs_domain(value: Any) -> None:
+    """Use the same safe numeric domain before browser and Python serialization."""
+    if isinstance(value, (int, float)) and not isinstance(value, bool):
+        _require(math.isfinite(value), "JCS numbers must be finite")
+        _require(not float(value).is_integer() or abs(value) <= 2**53 - 1,
+                 "JCS integer values must be within the safe integer domain")
+    elif isinstance(value, list):
+        for child in value:
+            _jcs_domain(child)
+    elif isinstance(value, dict):
+        for child in value.values():
+            _jcs_domain(child)
+
+
+def observation_bytes(observations: list[dict[str, Any]], canonicalization: str = CANONICALIZATION) -> bytes:
+    if canonicalization == CANONICALIZATION:
+        return canonical_bytes(sorted(observations, key=lambda item: item["key"]))
+    _require(canonicalization == JCS_CANONICALIZATION, "unexpected seed canonicalization")
+    _jcs_domain(observations)
+    ordered = sorted(observations, key=lambda item: item["key"].encode("utf-16be"))
+    return jcs_bytes(ordered)
+
+
+def seed_for(observations: list[dict[str, Any]], canonicalization: str = CANONICALIZATION) -> str:
+    return hashlib.sha256(observation_bytes(observations, canonicalization)).hexdigest()
 
 
 def _require(condition: bool, message: str) -> None:
@@ -127,11 +152,12 @@ def validate(star: dict[str, Any]) -> dict[str, Any]:
     seed = star["seed"]
     _require(isinstance(seed, dict), "seed must be an object")
     _require(seed.get("algorithm") == "sha256", "seed algorithm must be sha256")
-    _require(seed.get("canonicalization") == CANONICALIZATION, "unexpected seed canonicalization")
+    version = seed.get("canonicalization")
+    _require(version in {CANONICALIZATION, JCS_CANONICALIZATION}, "unexpected seed canonicalization")
     _require(seed.get("url_parameter") == "seed", "seed URL parameter must be seed")
-    expected_inputs = sorted(keys)
+    expected_inputs = sorted(keys, key=(lambda key: key.encode("utf-16be")) if version == JCS_CANONICALIZATION else None)
     _require(seed.get("inputs") == expected_inputs, "seed inputs must be all observation keys in sorted order")
-    expected_seed = seed_for(observations)
+    expected_seed = seed_for(observations, version)
     _require(seed.get("value") == expected_seed, "seed does not match canonical observations")
     return {
         "id": star["id"],
@@ -154,4 +180,3 @@ if __name__ == "__main__":
     parser.add_argument("star", type=Path)
     args = parser.parse_args()
     print(json.dumps(validate(json.loads(args.star.read_text(encoding="utf-8"))), sort_keys=True))
-

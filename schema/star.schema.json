@@ -40,7 +40,7 @@
       "additionalProperties": false,
       "properties": {
         "algorithm": {"const": "sha256"},
-        "canonicalization": {"const": "UTF-8 JSON, recursively sorted object keys, observations sorted by key, no insignificant whitespace"},
+        "canonicalization": {"enum": ["UTF-8 JSON, recursively sorted object keys, observations sorted by key, no insignificant whitespace", "RFC8785-JCS; observations sorted by UTF-16 key; safe integers; v2"]},
         "inputs": {"items": {"type": "string"}, "minItems": 1, "type": "array"},
         "url_parameter": {"const": "seed"},
         "value": {"pattern": "^[0-9a-f]{64}$", "type": "string"}
@@ -73,4 +73,3 @@
   "title": "Sun Star country/global definition",
   "type": "object"
 }
-
