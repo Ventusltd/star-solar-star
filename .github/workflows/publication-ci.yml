@@ -1,0 +1,29 @@
+name: Validate publication recovery and proof
+
+on:
+  pull_request:
+    paths:
+      - "scripts/**"
+      - "tests/test_publication.py"
+      - ".github/workflows/*"
+  push:
+    branches: [main, codex/solar-publication-20260915]
+    paths:
+      - "scripts/**"
+      - "tests/test_publication.py"
+      - ".github/workflows/*"
+
+permissions:
+  contents: read
+
+jobs:
+  publication-contract:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - name: Test production helpers with isolated Git remotes and HTTP server
+        run: python -m unittest discover -s tests -p test_publication.py -v

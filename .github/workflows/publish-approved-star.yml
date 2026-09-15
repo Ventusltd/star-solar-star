@@ -7,20 +7,23 @@ on:
 permissions:
   contents: write
   issues: write
+  pages: write
 
 concurrency:
-  group: publish-star-main
+  group: star-main-publication
   cancel-in-progress: false
+  queue: max
 
 jobs:
   publish:
     if: github.event.label.name == 'star-approved'
     runs-on: ubuntu-latest
-    timeout-minutes: 8
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v5
         with:
           ref: main
+          fetch-depth: 0
       - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
@@ -29,29 +32,35 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}
         run: gh issue view "$ISSUE_NUMBER" --repo "$GITHUB_REPOSITORY" --json body --jq .body > "$RUNNER_TEMP/star-proposal.md"
-      - name: Validate and materialize immutable ID
-        id: materialize
-        shell: bash
-        run: |
-          path="$(python scripts/issue_to_star.py --body-file "$RUNNER_TEMP/star-proposal.md" --output-dir stars)"
-          echo "path=$path" >> "$GITHUB_OUTPUT"
-          python scripts/star_contract.py "$path"
-      - name: Commit approved definition
+      - name: Validate immutable ID and publish against fresh main
         env:
           ISSUE_NUMBER: ${{ github.event.issue.number }}
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -- "${{ steps.materialize.outputs.path }}"
-          if git diff --cached --quiet; then
-            echo "Definition already published unchanged"
-          else
-            git commit -m "data: publish approved Star proposal #$ISSUE_NUMBER"
-            git push
-          fi
+        run: >-
+          python scripts/publish_main.py star
+          --body-file "$RUNNER_TEMP/star-proposal.md"
+          --issue-number "$ISSUE_NUMBER"
+          --result "$RUNNER_TEMP/star-publication.json"
+      - name: Request Pages build and verify served record hash
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: >-
+          python scripts/verify_pages.py
+          --publication "$RUNNER_TEMP/star-publication.json"
+          --result "$RUNNER_TEMP/star-pages-proof.json"
       - name: Record publication on proposal
         env:
           GH_TOKEN: ${{ github.token }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}
-          PUBLISHED_PATH: ${{ steps.materialize.outputs.path }}
-        run: gh issue comment "$ISSUE_NUMBER" --repo "$GITHUB_REPOSITORY" --body "Validated and published \`$PUBLISHED_PATH\` from the approved source-bound definition."
+        run: |
+          PUBLISHED_PATH="$(jq -r '.paths[0]' "$RUNNER_TEMP/star-publication.json")"
+          COMMIT="$(jq -r '.published_commit' "$RUNNER_TEMP/star-publication.json")"
+          gh issue comment "$ISSUE_NUMBER" --repo "$GITHUB_REPOSITORY" --body "Validated and published \`$PUBLISHED_PATH\` at commit \`$COMMIT\`; completed Pages build and served bytes verified. Proof: https://github.com/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"
+      - name: Preserve publication and Pages proof
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: star-publication-${{ github.run_id }}
+          path: |
+            ${{ runner.temp }}/star-publication.json
+            ${{ runner.temp }}/star-pages-proof.json
+          if-no-files-found: warn
