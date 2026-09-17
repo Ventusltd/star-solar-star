@@ -2,6 +2,24 @@
   "entries": [
     {
       "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/utility-scale-solar/key-trends-shaping-the-uk-solar-market-in-2026",
+      "published": "Wed, 16 Sep 2026 13:06:58 GMT",
+      "title": "Key trends shaping the UK solar market in 2026"
+    },
+    {
+      "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/solar-projects/2026-record-year-for-uk-rooftop-solar-installations-as-iran-war-hikes-energy-prices",
+      "published": "Wed, 16 Sep 2026 11:29:33 GMT",
+      "title": "2026 ‘record year’ for UK rooftop solar installations, as Iran war hikes energy prices"
+    },
+    {
+      "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/energy-storage/gresham-house-energy-storage-fund-rejects-shareholder-calls-to-sell",
+      "published": "Wed, 16 Sep 2026 10:08:19 GMT",
+      "title": "Gresham House Energy Storage Fund rejects shareholder calls to sell"
+    },
+    {
+      "attribution": "Solar Power Portal",
       "link": "https://www.solarpowerportal.co.uk/energy-policy/uk-lords-committee-launches-inquiry-into-dunkelflaute-risks-as-renewables-grow",
       "published": "Tue, 15 Sep 2026 10:50:29 GMT",
       "title": "UK Lords committee launches inquiry into Dunkelflaute risks as renewables grow"
@@ -103,82 +121,64 @@
       "title": "EDF signs battery optimisation agreement with Trinasolar for 179.8MWh of UK BESS"
     },
     {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/solar-projects/botley-west-s-planning-consent-deadline-extended",
-      "published": "Thu, 03 Sep 2026 17:03:38 GMT",
-      "title": "Botley West’s planning consent deadline extended"
-    },
-    {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/solar-investment/anesco-lombard-financing-three-renewable-sites",
-      "published": "Thu, 03 Sep 2026 15:13:19 GMT",
-      "title": "Anesco secures Lombard financing for three renewable energy sites"
-    },
-    {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/battery-storage/eelpower-energy-acquires-50mw-200mwh-silkstead-bess-project",
-      "published": "Thu, 03 Sep 2026 12:44:22 GMT",
-      "title": "Eelpower Energy acquires 50MW/200MWh Silkstead BESS project"
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/09/17/china-targets-perovskite-solar-advanced-batteries-in-five-year-plan/",
+      "published": "Thu, 17 Sep 2026 07:08:42 +0000",
+      "title": "China targets perovskite solar, advanced batteries in five-year plan"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/16/laser-based-pv-recycling-method-demonstrates-high-silicon-silver-recovery/",
-      "published": "Wed, 16 Sep 2026 07:30:00 +0000",
-      "title": "Laser-based PV recycling method demonstrates high silicon, silver recovery"
+      "link": "https://www.pv-magazine.com/2026/09/17/pv-inverters-provide-reactive-power-to-milans-grid-at-night/",
+      "published": "Thu, 17 Sep 2026 06:51:00 +0000",
+      "title": "PV inverters provide reactive power to Milan’s grid at night"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/16/masdar-explores-new-solar-storage-projects-in-azerbaijan/",
-      "published": "Wed, 16 Sep 2026 07:00:00 +0000",
-      "title": "Masdar explores new solar, storage projects in Azerbaijan"
+      "link": "https://www.pv-magazine.com/2026/09/17/global-residential-storage-market-to-hit-46-1-gwh-in-2026/",
+      "published": "Thu, 17 Sep 2026 06:27:03 +0000",
+      "title": "Global residential storage market to hit 46.1 GWh in 2026"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/16/lg-tests-heat-pumps-with-p2h-hot-water-system-in-apartment-building/",
-      "published": "Wed, 16 Sep 2026 05:14:39 +0000",
-      "title": "LG tests heat pumps with P2H hot-water system in apartment building"
+      "link": "https://www.pv-magazine.com/2026/09/17/trane-releases-vertical-stack-heat-pumps-for-multi-story-buildings/",
+      "published": "Thu, 17 Sep 2026 06:12:03 +0000",
+      "title": "Trane releases vertical-stack heat pumps for multi-story buildings"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/16/americas-to-lead-60-billion-global-microgrid-market-growth-through-2030-as-reliability-demand-mounts/",
-      "published": "Wed, 16 Sep 2026 04:26:38 +0000",
-      "title": "Americas to lead $60 billion global microgrid market growth through 2030"
+      "link": "https://www.pv-magazine.com/2026/09/17/india-could-add-9-15-gw-of-residential-rooftop-solar-annually-through-2030-isma/",
+      "published": "Thu, 17 Sep 2026 05:43:25 +0000",
+      "title": "India could add up to 15 GW of residential rooftop solar annually through 2030"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/16/an-energy-system-for-climate-goals/",
-      "published": "Wed, 16 Sep 2026 04:00:00 +0000",
-      "title": "An energy system for climate goals"
+      "link": "https://www.pv-magazine.com/2026/09/17/global-progress-on-100-renewables/",
+      "published": "Thu, 17 Sep 2026 04:00:00 +0000",
+      "title": "Global progress on 100% renewables"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/15/spain-added-10-1-gw-of-solar-in-2025/",
-      "published": "Tue, 15 Sep 2026 14:15:25 +0000",
-      "title": "Spain added 10.1 GW of solar in 2025"
+      "link": "https://www.pv-magazine.com/2026/09/16/polands-solar-pipeline-hits-40-6-gw/",
+      "published": "Wed, 16 Sep 2026 14:45:00 +0000",
+      "title": "Poland’s solar pipeline hits 40.6 GW"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/15/greece-clears-way-for-balcony-pv-systems-up-to-800-w/",
-      "published": "Tue, 15 Sep 2026 13:34:55 +0000",
-      "title": "Greece clears way for balcony PV systems up to 800 W"
+      "link": "https://www.pv-magazine.com/2026/09/16/norway-passes-1-gw-solar-milestone/",
+      "published": "Wed, 16 Sep 2026 12:34:24 +0000",
+      "title": "Norway hits 1 GW solar milestone"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/15/the-value-of-solar-pv-in-northern-regions-is-widely-underestimated/",
-      "published": "Tue, 15 Sep 2026 12:26:40 +0000",
-      "title": "The value of solar PV in Northern regions is widely underestimated"
+      "link": "https://www.pv-magazine.com/2026/09/16/guinea-plans-solar-storage-procurement-program/",
+      "published": "Wed, 16 Sep 2026 11:00:18 +0000",
+      "title": "Guinea plans solar, storage procurement program"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/15/california-cold-storage-provider-sues-solar-businesses-over-1-billion-rooftop-fire/",
-      "published": "Tue, 15 Sep 2026 12:09:17 +0000",
-      "title": "California cold-storage provider sues solar businesses over $1 billion rooftop fire"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/15/biwatt-releases-sodium-ion-storage-system-for-ci-applications/",
-      "published": "Tue, 15 Sep 2026 11:56:31 +0000",
-      "title": "Biwatt releases sodium-ion storage system for C&I applications"
+      "link": "https://www.pv-magazine.com/2026/09/16/byd-launches-62-mwh-gc-block-for-gigawatt-scale-battery-storage-plants/",
+      "published": "Wed, 16 Sep 2026 09:26:25 +0000",
+      "title": "BYD launches 62 MWh GC Block for gigawatt-scale battery storage plants"
     }
   ],
   "policy": "RSS metadata only: title, link, date, attribution",
