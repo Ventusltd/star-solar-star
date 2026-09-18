@@ -2,6 +2,18 @@
   "entries": [
     {
       "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/solar-investment/great-britain-ppa-prices-jump-in-august",
+      "published": "Thu, 17 Sep 2026 09:29:57 GMT",
+      "title": "Great Britain PPA prices jump in August"
+    },
+    {
+      "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/solar-finance/gb-energy-launches-30-million-people-s-power-fund-for-community-energy",
+      "published": "Thu, 17 Sep 2026 08:46:57 GMT",
+      "title": "GB Energy launches £30 million 'People's Power' fund for community energy"
+    },
+    {
+      "attribution": "Solar Power Portal",
       "link": "https://www.solarpowerportal.co.uk/utility-scale-solar/key-trends-shaping-the-uk-solar-market-in-2026",
       "published": "Wed, 16 Sep 2026 13:06:58 GMT",
       "title": "Key trends shaping the UK solar market in 2026"
@@ -109,76 +121,64 @@
       "title": "Welsh government proposes state-owned energy investment company"
     },
     {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/solar-projects/planning-committee-approves-15mw-cheshire-solar-farm",
-      "published": "Fri, 04 Sep 2026 14:44:25 GMT",
-      "title": "Planning committee approves 15MW Cheshire solar farm"
-    },
-    {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/energy-storage/edf-signs-battery-optimisation-agreement-with-trinasolar-for-179-8mwh-of-uk-bess",
-      "published": "Fri, 04 Sep 2026 10:57:44 GMT",
-      "title": "EDF signs battery optimisation agreement with Trinasolar for 179.8MWh of UK BESS"
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/09/18/after-30-years-in-hot-arid-climate-arco-solar-modules-still-deliver-about-half-their-original-power/",
+      "published": "Fri, 18 Sep 2026 07:31:07 +0000",
+      "title": "After 30 years in hot-arid climate, Arco solar modules still deliver about half their original power"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/17/china-targets-perovskite-solar-advanced-batteries-in-five-year-plan/",
-      "published": "Thu, 17 Sep 2026 07:08:42 +0000",
-      "title": "China targets perovskite solar, advanced batteries in five-year plan"
+      "link": "https://www.pv-magazine.com/2026/09/18/bangladesh-cuts-solar-equipment-import-taxes-to-1/",
+      "published": "Fri, 18 Sep 2026 06:22:59 +0000",
+      "title": "Bangladesh cuts solar equipment import taxes to 1%"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/17/pv-inverters-provide-reactive-power-to-milans-grid-at-night/",
-      "published": "Thu, 17 Sep 2026 06:51:00 +0000",
-      "title": "PV inverters provide reactive power to Milan’s grid at night"
+      "link": "https://www.pv-magazine.com/2026/09/18/ausgrid-trials-ci-rooftop-solar-initiative-to-share-energy-benefits-with-renters/",
+      "published": "Fri, 18 Sep 2026 06:08:24 +0000",
+      "title": "Australian grid operator trials C&I rooftop solar initiative to share energy benefits with renters"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/17/global-residential-storage-market-to-hit-46-1-gwh-in-2026/",
-      "published": "Thu, 17 Sep 2026 06:27:03 +0000",
-      "title": "Global residential storage market to hit 46.1 GWh in 2026"
+      "link": "https://www.pv-magazine.com/2026/09/18/taking-system-responsibility/",
+      "published": "Fri, 18 Sep 2026 04:00:00 +0000",
+      "title": "Taking system responsibility"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/17/trane-releases-vertical-stack-heat-pumps-for-multi-story-buildings/",
-      "published": "Thu, 17 Sep 2026 06:12:03 +0000",
-      "title": "Trane releases vertical-stack heat pumps for multi-story buildings"
+      "link": "https://www.pv-magazine.com/2026/09/17/alpex-solar-inaugurates-2-2-gw-topcon-cell-manufacturing-facility-in-uttar-pradesh/",
+      "published": "Thu, 17 Sep 2026 13:56:11 +0000",
+      "title": "Alpex Solar inaugurates 2.2 GW TOPCon cell factory in India"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/17/india-could-add-9-15-gw-of-residential-rooftop-solar-annually-through-2030-isma/",
-      "published": "Thu, 17 Sep 2026 05:43:25 +0000",
-      "title": "India could add up to 15 GW of residential rooftop solar annually through 2030"
+      "link": "https://www.pv-magazine.com/2026/09/17/taiwan-adds-carbon-footprint-requirement-to-high-efficiency-pv-module-standard/",
+      "published": "Thu, 17 Sep 2026 12:45:00 +0000",
+      "title": "Taiwan adds carbon-footprint requirement to high-efficiency PV module standard"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/17/global-progress-on-100-renewables/",
-      "published": "Thu, 17 Sep 2026 04:00:00 +0000",
-      "title": "Global progress on 100% renewables"
+      "link": "https://www.pv-magazine.com/2026/09/17/first-solar-drops-topcon-patent-complaint/",
+      "published": "Thu, 17 Sep 2026 12:35:03 +0000",
+      "title": "First Solar drops TOPCon patent complaint"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/16/polands-solar-pipeline-hits-40-6-gw/",
-      "published": "Wed, 16 Sep 2026 14:45:00 +0000",
-      "title": "Poland’s solar pipeline hits 40.6 GW"
+      "link": "https://www.pv-magazine.com/2026/09/17/bangladesh-launches-123-million-rooftop-solar-fund/",
+      "published": "Thu, 17 Sep 2026 12:21:07 +0000",
+      "title": "Bangladesh launches $123 million rooftop solar fund"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/16/norway-passes-1-gw-solar-milestone/",
-      "published": "Wed, 16 Sep 2026 12:34:24 +0000",
-      "title": "Norway hits 1 GW solar milestone"
+      "link": "https://www.pv-magazine.com/2026/09/17/south-koreas-new-agrivoltaics-law-sets-30-year-permit-ceiling/",
+      "published": "Thu, 17 Sep 2026 12:15:00 +0000",
+      "title": "South Korea’s new agrivoltaics law sets 30-year permit ceiling"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/16/guinea-plans-solar-storage-procurement-program/",
-      "published": "Wed, 16 Sep 2026 11:00:18 +0000",
-      "title": "Guinea plans solar, storage procurement program"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/16/byd-launches-62-mwh-gc-block-for-gigawatt-scale-battery-storage-plants/",
-      "published": "Wed, 16 Sep 2026 09:26:25 +0000",
-      "title": "BYD launches 62 MWh GC Block for gigawatt-scale battery storage plants"
+      "link": "https://www.pv-magazine.com/2026/09/17/spain-launches-capacity-market-as-grid-investment-rises-above-e17-billion/",
+      "published": "Thu, 17 Sep 2026 11:51:08 +0000",
+      "title": "Spain launches capacity market as grid investment rises above €17 billion"
     }
   ],
   "policy": "RSS metadata only: title, link, date, attribution",
