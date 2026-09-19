@@ -2,6 +2,18 @@
   "entries": [
     {
       "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/solar-planning/uk-ar8-could-procure-19gw-of-renewables-deliver-11-billion-in-savings-says-lcp-delta",
+      "published": "Fri, 18 Sep 2026 10:21:28 GMT",
+      "title": "UK AR8 could procure 19GW of renewable energy capacity, deliver £11 billion in savings, says LCP Delta"
+    },
+    {
+      "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/battery-storage/ofgem-consults-additional-fee-for-oversubscribed-bess-grid-connections",
+      "published": "Fri, 18 Sep 2026 08:37:36 GMT",
+      "title": "Ofgem consults additional fee for oversubscribed BESS grid connections"
+    },
+    {
+      "attribution": "Solar Power Portal",
       "link": "https://www.solarpowerportal.co.uk/solar-investment/great-britain-ppa-prices-jump-in-august",
       "published": "Thu, 17 Sep 2026 09:29:57 GMT",
       "title": "Great Britain PPA prices jump in August"
@@ -109,76 +121,64 @@
       "title": "EDF Energy in talks to take on So Energy customers"
     },
     {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/energy-policy/ofgem-finds-neso-has-not-delivered-connection-reform-aim-nor-made-sufficient-progress-",
-      "published": "Mon, 07 Sep 2026 10:56:36 GMT",
-      "title": "Ofgem finds NESO has ‘not delivered’ Connections Reform aim ‘nor made sufficient progress’"
-    },
-    {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/energy-policy/welsh-government-proposes-state-owned-energy-investment-company",
-      "published": "Mon, 07 Sep 2026 09:23:19 GMT",
-      "title": "Welsh government proposes state-owned energy investment company"
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/09/19/solar-module-imports-drop-48-in-brazil-in-h1/",
+      "published": "Sat, 19 Sep 2026 07:30:00 +0000",
+      "title": "Solar module imports drop 48% in Brazil in H1"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/18/after-30-years-in-hot-arid-climate-arco-solar-modules-still-deliver-about-half-their-original-power/",
-      "published": "Fri, 18 Sep 2026 07:31:07 +0000",
-      "title": "After 30 years in hot-arid climate, Arco solar modules still deliver about half their original power"
+      "link": "https://www.pv-magazine.com/2026/09/19/german-grid-operator-dispute-limits-battery-use-at-new-solar-storage-hybrid-plant/",
+      "published": "Sat, 19 Sep 2026 07:00:00 +0000",
+      "title": "German grid operator dispute limits battery use at new solar-storage hybrid plant"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/18/bangladesh-cuts-solar-equipment-import-taxes-to-1/",
-      "published": "Fri, 18 Sep 2026 06:22:59 +0000",
-      "title": "Bangladesh cuts solar equipment import taxes to 1%"
+      "link": "https://www.pv-magazine.com/2026/09/19/green-hydrogens-growing-share-in-chemical-production/",
+      "published": "Sat, 19 Sep 2026 04:00:00 +0000",
+      "title": "Green hydrogen’s growing share in chemical production"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/18/ausgrid-trials-ci-rooftop-solar-initiative-to-share-energy-benefits-with-renters/",
-      "published": "Fri, 18 Sep 2026 06:08:24 +0000",
-      "title": "Australian grid operator trials C&I rooftop solar initiative to share energy benefits with renters"
+      "link": "https://www.pv-magazine.com/2026/09/18/regulatory-uncertainty-threatens-to-slow-german-pv-deployment-in-2027/",
+      "published": "Fri, 18 Sep 2026 13:39:22 +0000",
+      "title": "Regulatory uncertainty threatens to slow German PV deployment in 2027"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/18/taking-system-responsibility/",
-      "published": "Fri, 18 Sep 2026 04:00:00 +0000",
-      "title": "Taking system responsibility"
+      "link": "https://www.pv-magazine.com/2026/09/18/eve-energy-signs-206-gwh-battery-framework-with-us-storage-supplier-fluence/",
+      "published": "Fri, 18 Sep 2026 12:32:42 +0000",
+      "title": "EVE Energy signs 206 GWh battery framework with US storage supplier Fluence"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/17/alpex-solar-inaugurates-2-2-gw-topcon-cell-manufacturing-facility-in-uttar-pradesh/",
-      "published": "Thu, 17 Sep 2026 13:56:11 +0000",
-      "title": "Alpex Solar inaugurates 2.2 GW TOPCon cell factory in India"
+      "link": "https://www.pv-magazine.com/2026/09/18/the-hydrogen-stream-singapore-researchers-present-artificial-leaf-for-h2-production-from-contaminated-seawater/",
+      "published": "Fri, 18 Sep 2026 12:30:12 +0000",
+      "title": "The Hydrogen Stream: Singapore researchers present artificial leaf for H2 production from contaminated seawater"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/17/taiwan-adds-carbon-footprint-requirement-to-high-efficiency-pv-module-standard/",
-      "published": "Thu, 17 Sep 2026 12:45:00 +0000",
-      "title": "Taiwan adds carbon-footprint requirement to high-efficiency PV module standard"
+      "link": "https://www.pv-magazine.com/2026/09/18/french-agrivoltaic-trials-cut-water-loss-lift-maize-yields-by-19-6/",
+      "published": "Fri, 18 Sep 2026 12:15:42 +0000",
+      "title": "French agrivoltaic trials cut water loss, lift maize yields by 19.6%"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/17/first-solar-drops-topcon-patent-complaint/",
-      "published": "Thu, 17 Sep 2026 12:35:03 +0000",
-      "title": "First Solar drops TOPCon patent complaint"
+      "link": "https://www.pv-magazine.com/2026/09/18/johnson-controls-unveils-industrial-heat-pump-with-122-c-output/",
+      "published": "Fri, 18 Sep 2026 11:55:39 +0000",
+      "title": "Johnson Controls unveils industrial heat pump with 122 C output"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/17/bangladesh-launches-123-million-rooftop-solar-fund/",
-      "published": "Thu, 17 Sep 2026 12:21:07 +0000",
-      "title": "Bangladesh launches $123 million rooftop solar fund"
+      "link": "https://www.pv-magazine.com/2026/09/18/google-esvolta-pilot-uses-battery-storage-to-time-shift-renewable-energy-credits/",
+      "published": "Fri, 18 Sep 2026 11:41:34 +0000",
+      "title": "Google, esVolta pilot uses battery storage to ‘time-shift’ renewable energy credits"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/17/south-koreas-new-agrivoltaics-law-sets-30-year-permit-ceiling/",
-      "published": "Thu, 17 Sep 2026 12:15:00 +0000",
-      "title": "South Korea’s new agrivoltaics law sets 30-year permit ceiling"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/17/spain-launches-capacity-market-as-grid-investment-rises-above-e17-billion/",
-      "published": "Thu, 17 Sep 2026 11:51:08 +0000",
-      "title": "Spain launches capacity market as grid investment rises above €17 billion"
+      "link": "https://www.pv-magazine.com/2026/09/18/inclusion-by-design-the-leadership-behaviours-pv-innovation-needs/",
+      "published": "Fri, 18 Sep 2026 11:37:32 +0000",
+      "title": "Inclusion by design: The leadership behaviours PV innovation needs"
     }
   ],
   "policy": "RSS metadata only: title, link, date, attribution",
