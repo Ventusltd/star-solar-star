@@ -122,6 +122,18 @@
     },
     {
       "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/09/19/uk-regulator-plans-bess-fees-to-cut-grid-connection-queue/",
+      "published": "Sat, 19 Sep 2026 09:00:00 +0000",
+      "title": "UK regulator plans BESS fees to cut grid connection queue"
+    },
+    {
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/09/19/teslas-10-1-billion-texas-solar-gigafactory-clears-key-tax-hurdle/",
+      "published": "Sat, 19 Sep 2026 08:00:00 +0000",
+      "title": "Tesla’s $10.1 billion Texas solar gigafactory clears key tax hurdle"
+    },
+    {
+      "attribution": "pv magazine International",
       "link": "https://www.pv-magazine.com/2026/09/19/solar-module-imports-drop-48-in-brazil-in-h1/",
       "published": "Sat, 19 Sep 2026 07:30:00 +0000",
       "title": "Solar module imports drop 48% in Brazil in H1"
@@ -167,18 +179,6 @@
       "link": "https://www.pv-magazine.com/2026/09/18/johnson-controls-unveils-industrial-heat-pump-with-122-c-output/",
       "published": "Fri, 18 Sep 2026 11:55:39 +0000",
       "title": "Johnson Controls unveils industrial heat pump with 122 C output"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/18/google-esvolta-pilot-uses-battery-storage-to-time-shift-renewable-energy-credits/",
-      "published": "Fri, 18 Sep 2026 11:41:34 +0000",
-      "title": "Google, esVolta pilot uses battery storage to ‘time-shift’ renewable energy credits"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/18/inclusion-by-design-the-leadership-behaviours-pv-innovation-needs/",
-      "published": "Fri, 18 Sep 2026 11:37:32 +0000",
-      "title": "Inclusion by design: The leadership behaviours PV innovation needs"
     }
   ],
   "policy": "RSS metadata only: title, link, date, attribution",
