@@ -122,6 +122,30 @@
     },
     {
       "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/09/21/solar-powered-aeroponic-system-for-off-grid-vertical-farming/",
+      "published": "Mon, 21 Sep 2026 07:53:50 +0000",
+      "title": "Solar-powered aeroponic system for off-grid vertical farming"
+    },
+    {
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/09/21/ja-launches-heterojunction-pv-module-into-orbit-for-space-validation/",
+      "published": "Mon, 21 Sep 2026 06:53:45 +0000",
+      "title": "JA launches heterojunction PV module into orbit for space validation"
+    },
+    {
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/09/21/premier-energies-commissions-indias-largest-solar-cell-facility/",
+      "published": "Mon, 21 Sep 2026 06:06:24 +0000",
+      "title": "Premier Energies commissions India’s largest solar cell factory"
+    },
+    {
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/09/21/renewables-share-hits-record-high-in-nem-2/",
+      "published": "Mon, 21 Sep 2026 06:03:57 +0000",
+      "title": "Renewables share hits record high in Australia’s electricity market"
+    },
+    {
+      "attribution": "pv magazine International",
       "link": "https://www.pv-magazine.com/2026/09/19/uk-regulator-plans-bess-fees-to-cut-grid-connection-queue/",
       "published": "Sat, 19 Sep 2026 09:00:00 +0000",
       "title": "UK regulator plans BESS fees to cut grid connection queue"
@@ -155,30 +179,6 @@
       "link": "https://www.pv-magazine.com/2026/09/18/regulatory-uncertainty-threatens-to-slow-german-pv-deployment-in-2027/",
       "published": "Fri, 18 Sep 2026 13:39:22 +0000",
       "title": "Regulatory uncertainty threatens to slow German PV deployment in 2027"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/18/eve-energy-signs-206-gwh-battery-framework-with-us-storage-supplier-fluence/",
-      "published": "Fri, 18 Sep 2026 12:32:42 +0000",
-      "title": "EVE Energy signs 206 GWh battery framework with US storage supplier Fluence"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/18/the-hydrogen-stream-singapore-researchers-present-artificial-leaf-for-h2-production-from-contaminated-seawater/",
-      "published": "Fri, 18 Sep 2026 12:30:12 +0000",
-      "title": "The Hydrogen Stream: Singapore researchers present artificial leaf for H2 production from contaminated seawater"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/18/french-agrivoltaic-trials-cut-water-loss-lift-maize-yields-by-19-6/",
-      "published": "Fri, 18 Sep 2026 12:15:42 +0000",
-      "title": "French agrivoltaic trials cut water loss, lift maize yields by 19.6%"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/18/johnson-controls-unveils-industrial-heat-pump-with-122-c-output/",
-      "published": "Fri, 18 Sep 2026 11:55:39 +0000",
-      "title": "Johnson Controls unveils industrial heat pump with 122 C output"
     }
   ],
   "policy": "RSS metadata only: title, link, date, attribution",
