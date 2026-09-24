@@ -2,6 +2,24 @@
   "entries": [
     {
       "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/solar-projects/ampyr-distributed-energy-bags-equity-investment-from-stonepeak",
+      "published": "Wed, 23 Sep 2026 11:35:55 GMT",
+      "title": "Ampyr Distributed Energy bags equity investment from Stonepeak"
+    },
+    {
+      "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/solar-planning/how-digital-twins-are-helping-uk-solar-developers-accelerate-grid-connections-and-maximise-asset-performance",
+      "published": "Wed, 23 Sep 2026 10:55:15 GMT",
+      "title": "How digital twins are helping UK solar developers accelerate grid connections and maximise asset performance"
+    },
+    {
+      "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/solar-projects/bsr-inks-10-year-50mw-ppa-with-canary-wharf-group-engie",
+      "published": "Wed, 23 Sep 2026 09:55:02 GMT",
+      "title": "BSR inks 10-year 50MW PPA with Canary Wharf Group, Engie"
+    },
+    {
+      "attribution": "Solar Power Portal",
       "link": "https://www.solarpowerportal.co.uk/energy-storage/offgrid-energy-labs-keele-university-to-trial-uk-made-zinc-ldes-system",
       "published": "Tue, 22 Sep 2026 14:13:28 GMT",
       "title": "Offgrid Energy Labs, Keele University to trial UK-made zinc LDES system"
@@ -103,82 +121,64 @@
       "title": "Invinity mulls UK expansion plans as LDES cap-and-floor result ‘misaligned with the government's broader ambitions’"
     },
     {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/energy-storage/island-green-power-secures-consent-for-500mw-aberdeenshire-bess",
-      "published": "Wed, 09 Sep 2026 15:03:15 GMT",
-      "title": "Island Green Power secures consent for 500MW Aberdeenshire BESS"
-    },
-    {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/energy-policy/minister-says-ai-will-be-fundamental-part-of-uk-s-future-energy-grid",
-      "published": "Wed, 09 Sep 2026 13:31:57 GMT",
-      "title": "Minister says AI will be ‘fundamental part’ of UK’s future energy grid"
-    },
-    {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/battery-storage/bw-ess-breaks-ground-on-200mw-berkswell-bess",
-      "published": "Wed, 09 Sep 2026 10:51:54 GMT",
-      "title": "BW ESS breaks ground on 200MW Berkswell BESS"
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/09/24/solar-parks-provide-refuge-and-hunting-grounds-for-birds-of-prey/",
+      "published": "Thu, 24 Sep 2026 07:39:44 +0000",
+      "title": "Solar parks provide refuge and hunting grounds for birds of prey"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/23/portugal-postpones-renewables-plus-storage-auctions/",
-      "published": "Wed, 23 Sep 2026 06:21:51 +0000",
-      "title": "Portugal postpones renewables-plus-storage auctions"
+      "link": "https://www.pv-magazine.com/2026/09/24/aeg-launches-6-kwh-plug-in-home-battery/",
+      "published": "Thu, 24 Sep 2026 07:13:34 +0000",
+      "title": "AEG launches 6 kWh plug-in home battery"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/23/augmented-reality-helps-heat-pump-installers-cut-workload-installation-time/",
-      "published": "Wed, 23 Sep 2026 05:58:24 +0000",
-      "title": "Augmented reality helps heat pump installers cut workload, installation time"
+      "link": "https://www.pv-magazine.com/2026/09/24/the-21-billion-capex-bill-analyzing-the-cost-of-the-u-s-100-gw-module-production-milestone/",
+      "published": "Thu, 24 Sep 2026 05:55:43 +0000",
+      "title": "The $21 billion capex bill: analyzing the cost of the U.S. 100 GW module production milestone"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/23/greece-awards-e8-15-million-for-49-3-mwh-of-storage-linked-to-ci-solar/",
-      "published": "Wed, 23 Sep 2026 05:30:55 +0000",
-      "title": "Greece awards €8.15 million for 49.3 MWh of storage linked to C&I solar"
+      "link": "https://www.pv-magazine.com/2026/09/24/ontario-opens-november-capacity-auction/",
+      "published": "Thu, 24 Sep 2026 05:12:23 +0000",
+      "title": "Ontario opens November capacity auction"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/23/solex-energy-plans-5-2-gw-solar-cell-5-gwh-bess-capacity-by-fy29/",
-      "published": "Wed, 23 Sep 2026 05:12:04 +0000",
-      "title": "Solex Energy confirms plans to build 5.2 GW solar cell factory in India"
+      "link": "https://www.pv-magazine.com/2026/09/24/study-finds-up-to-27-1-bifacial-pv-gain-across-five-indian-climate-zones/",
+      "published": "Thu, 24 Sep 2026 05:10:01 +0000",
+      "title": "Study finds up to 27.1% bifacial PV gain across five Indian climate zones"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/23/panel-orientation-can-help-solve-duck-curve-say-sa-researchers/",
-      "published": "Wed, 23 Sep 2026 05:02:56 +0000",
-      "title": "East-west PV system orientation can help solve duck curve in Australia, say researchers"
+      "link": "https://www.pv-magazine.com/2026/09/24/south-australian-off-grid-power-system-keeps-high-energy-utility-running-24-7/",
+      "published": "Thu, 24 Sep 2026 05:03:33 +0000",
+      "title": "Australian off-grid PV system keeps high energy utility running 24/7"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/22/kenya-backdates-solar-export-charges-by-over-a-year/",
-      "published": "Tue, 22 Sep 2026 15:30:00 +0000",
-      "title": "Kenya backdates solar export charges by over a year"
+      "link": "https://www.pv-magazine.com/2026/09/23/poland-offers-76-twh-in-november-renewables-auctions/",
+      "published": "Wed, 23 Sep 2026 14:45:00 +0000",
+      "title": "Poland offers 76 TWh in November renewables auctions"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/22/eu-prepares-minimum-energy-efficiency-standards-for-data-centers/",
-      "published": "Tue, 22 Sep 2026 14:46:43 +0000",
-      "title": "EU prepares minimum energy-efficiency standards for data centers"
+      "link": "https://www.pv-magazine.com/2026/09/23/amazon-nadara-switch-on-277-mw-agricoltaic-facility-in-italy/",
+      "published": "Wed, 23 Sep 2026 12:45:52 +0000",
+      "title": "Amazon, Nadara switch on 227 MW agrivoltaic facility in Italy"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/22/ira-stimulated-u-s-solar-manufacturing-capex-to-reach-12-2-billion-by-end-2026/",
-      "published": "Tue, 22 Sep 2026 14:35:34 +0000",
-      "title": "IRA-stimulated U.S. solar manufacturing capex to reach $12.2 billion by end 2026"
+      "link": "https://www.pv-magazine.com/2026/09/23/blue-wafers-are-fundamentally-undermining-u-s-solar-manufacturing/",
+      "published": "Wed, 23 Sep 2026 12:35:08 +0000",
+      "title": "Blue wafers are fundamentally undermining U.S. solar manufacturing"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/22/poweroad-flex-261-series-passes-large-scale-fire-test-conducted-to-c800-and-ul-9540a/",
-      "published": "Tue, 22 Sep 2026 12:30:00 +0000",
-      "title": "POWEROAD FLEX 261 Series passes large-scale fire test conducted to C800 and UL 9540A"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/22/cost-effective-pathways-for-hybrid-heat-pump-retrofits/",
-      "published": "Tue, 22 Sep 2026 12:26:33 +0000",
-      "title": "Cost-effective pathways for hybrid heat pump retrofits"
+      "link": "https://www.pv-magazine.com/2026/09/23/ukraine-adds-1-1-gw-of-solar-in-h1/",
+      "published": "Wed, 23 Sep 2026 11:39:11 +0000",
+      "title": "Ukraine adds 1.1 GW of solar in H1"
     }
   ],
   "policy": "RSS metadata only: title, link, date, attribution",
