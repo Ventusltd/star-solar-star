@@ -2,6 +2,24 @@
   "entries": [
     {
       "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/solar-projects/erova-finlight-sign-15-year-ppa-for-107mw-uk-solar-portfolio",
+      "published": "Fri, 25 Sep 2026 11:48:10 GMT",
+      "title": "Erova, Finlight sign 15-year PPA for 107MW UK solar portfolio"
+    },
+    {
+      "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/solar-planning/solar-power-portal-news-top-five",
+      "published": "Fri, 25 Sep 2026 09:24:18 GMT",
+      "title": "Solar Power Portal's top five solar news stories of the week"
+    },
+    {
+      "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/battery-storage/gore-street-energy-storage-fund-to-remain-public-following-vote-against-selling",
+      "published": "Fri, 25 Sep 2026 08:03:54 GMT",
+      "title": "Gore Street Energy Storage Fund to remain public following vote against selling"
+    },
+    {
+      "attribution": "Solar Power Portal",
       "link": "https://www.solarpowerportal.co.uk/battery-storage/revera-closes-financing-begins-construction-of-400mw-scottish-bess",
       "published": "Thu, 24 Sep 2026 10:00:05 GMT",
       "title": "Revera closes financing, begins construction of 400MW Scottish BESS"
@@ -103,82 +121,64 @@
       "title": "UK businesses call on government to cut energy bill levies in upcoming budget"
     },
     {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/utility-scale-solar/baywa-r-e-breaks-ground-on-150mw-oaklands-solar-nsip",
-      "published": "Mon, 14 Sep 2026 09:14:42 GMT",
-      "title": "Baywa r.e. breaks ground on 150MW Oaklands solar NSIP"
-    },
-    {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/solar-projects/eirgrid-figures-show-ireland-set-new-solar-records-in-august",
-      "published": "Fri, 11 Sep 2026 14:29:20 GMT",
-      "title": "EirGrid figures show Ireland set new solar records in August"
-    },
-    {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/solar-investment/nao-grid-upgrade-delays-could-increase-consumer-bills-by-60",
-      "published": "Fri, 11 Sep 2026 14:05:03 GMT",
-      "title": "NAO: Grid upgrade delays could increase consumer bills by £60"
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/09/26/free-software-calculates-how-many-solar-modules-fit-on-a-rooftop-from-a-photo/",
+      "published": "Sat, 26 Sep 2026 07:00:00 +0000",
+      "title": "Free software calculates how many solar modules fit on a rooftop from a photo"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/25/us-team-claims-stability-record-for-16-19-efficient-2d-3d-tin-perovskite-solar-cell/",
-      "published": "Fri, 25 Sep 2026 08:00:00 +0000",
-      "title": "US team claims stability record for 16.19%-efficient 2D/3D tin perovskite solar cell"
+      "link": "https://www.pv-magazine.com/2026/09/26/coordination-can-bring-value-to-brazil/",
+      "published": "Sat, 26 Sep 2026 04:00:00 +0000",
+      "title": "Coordination can bring value to Brazil"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/25/the-impact-of-phase-change-material-on-rear-side-pv-heat-transfer/",
-      "published": "Fri, 25 Sep 2026 07:38:48 +0000",
-      "title": "The impact of phase change material on rear-side PV heat transfer"
+      "link": "https://www.pv-magazine.com/2026/09/25/chinese-pv-industry-brief-growatt-raises-inverter-battery-prices-by-up-to-10/",
+      "published": "Fri, 25 Sep 2026 12:46:26 +0000",
+      "title": "Chinese PV Industry Brief: Growatt raises inverter, battery prices by up to 10%"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/25/trane-unveils-cold-climate-heat-pump-operating-down-to-29-c/",
-      "published": "Fri, 25 Sep 2026 07:20:05 +0000",
-      "title": "Trane unveils cold-climate heat pump operating down to -29 C"
+      "link": "https://www.pv-magazine.com/2026/09/25/ews-reports-14-higher-winter-wheat-yield-at-austrian-agrivoltaic-site/",
+      "published": "Fri, 25 Sep 2026 12:40:15 +0000",
+      "title": "EWS reports 14% higher winter wheat yield at Austrian agrivoltaic site"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/25/victorian-company-trials-solar-sleeve-on-nbn-fixed-wireless-monopoles/",
-      "published": "Fri, 25 Sep 2026 05:48:14 +0000",
-      "title": "Solar sleeves turn telecommunications towers into renewable power generators"
+      "link": "https://www.pv-magazine.com/2026/09/25/solar-panel-waste-silver-turned-into-catalyst-for-carbon-monoxide-production/",
+      "published": "Fri, 25 Sep 2026 12:02:54 +0000",
+      "title": "Solar panel waste silver turned into catalyst for carbon monoxide production"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/25/fighting-coastal-corrosion-2/",
-      "published": "Fri, 25 Sep 2026 03:00:00 +0000",
-      "title": "Fighting coastal corrosion"
+      "link": "https://www.pv-magazine.com/2026/09/25/inclusive-leadership-turning-diverse-perspectives-into-innovation-and-impact/",
+      "published": "Fri, 25 Sep 2026 11:43:46 +0000",
+      "title": "Inclusive leadership: turning diverse perspectives into innovation and impact"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/24/adapt-to-deliver/",
-      "published": "Thu, 24 Sep 2026 18:00:00 +0000",
-      "title": "Adapt to deliver"
+      "link": "https://www.pv-magazine.com/2026/09/25/the-hydrogen-stream-germany-austria-and-luxembourg-launch-e2-12-billion-program-for-sustainable-aviation-fuel/",
+      "published": "Fri, 25 Sep 2026 11:40:12 +0000",
+      "title": "The Hydrogen Stream: Germany, Austria and Luxembourg launch €2.12 billion program for sustainable aviation fuel"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/24/u-s-solar-system-pricing-rises-for-utility-and-commercial-projects-as-residential-costs-decline/",
-      "published": "Thu, 24 Sep 2026 12:32:37 +0000",
-      "title": "U.S. solar system pricing rises for utility, C&I projects as residential costs decline"
+      "link": "https://www.pv-magazine.com/2026/09/25/india-added-50-6-gw-of-solar-module-and-9-7-gw-of-cell-manufacturing-capacity-in-1h-2026-says-mercom/",
+      "published": "Fri, 25 Sep 2026 11:24:57 +0000",
+      "title": "India adds 50.6 GW of solar module and 9.7 GW of cell manufacturing capacity in 1H"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/24/ventilator-exhaust-air-evaporative-cooling-boost-residential-heat-pump-efficiency/",
-      "published": "Thu, 24 Sep 2026 11:38:20 +0000",
-      "title": "Ventilator exhaust air, evaporative cooling boost residential heat pump efficiency"
+      "link": "https://www.pv-magazine.com/2026/09/25/weaker-monsoon-lifts-irradiance-in-western-india-as-august-storms-dim-the-east/",
+      "published": "Fri, 25 Sep 2026 11:23:11 +0000",
+      "title": "Weaker monsoon lifts irradiance in western India as August storms dim the east"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/24/brazil-power-producers-call-for-bess-framework-and-curtailment-rules/",
-      "published": "Thu, 24 Sep 2026 11:09:59 +0000",
-      "title": "Brazil power producers call for BESS framework and curtailment rules"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/24/websol-allotted-land-for-4-gw-solar-cell-and-module-facility-in-west-bengal/",
-      "published": "Thu, 24 Sep 2026 11:01:40 +0000",
-      "title": "Websol secures land for 4 GW solar cell and module factory in India"
+      "link": "https://www.pv-magazine.com/2026/09/25/china-and-u-s-module-prices-hold-ahead-of-golden-week-and-section-232-price-floors/",
+      "published": "Fri, 25 Sep 2026 10:57:23 +0000",
+      "title": "China and U.S. module prices hold ahead of Golden Week and Section 232 price floors"
     }
   ],
   "policy": "RSS metadata only: title, link, date, attribution",
