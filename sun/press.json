@@ -122,6 +122,24 @@
     },
     {
       "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/09/26/chinese-province-moves-grid-side-batteries-into-spot-market/",
+      "published": "Sat, 26 Sep 2026 09:00:00 +0000",
+      "title": "Chinese province moves grid-side batteries into spot market"
+    },
+    {
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/09/26/pv-system-costs-increase-7-percent-brazil-h1/",
+      "published": "Sat, 26 Sep 2026 08:30:00 +0000",
+      "title": "PV system costs increase by 7% in Brazil in H1"
+    },
+    {
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/09/26/anza-expects-at-least-a-40-spike-in-solar-module-prices-after-section-232/",
+      "published": "Sat, 26 Sep 2026 08:00:00 +0000",
+      "title": "Anza expects at least a 40% spike in U.S. solar module prices after Section 232"
+    },
+    {
+      "attribution": "pv magazine International",
       "link": "https://www.pv-magazine.com/2026/09/26/free-software-calculates-how-many-solar-modules-fit-on-a-rooftop-from-a-photo/",
       "published": "Sat, 26 Sep 2026 07:00:00 +0000",
       "title": "Free software calculates how many solar modules fit on a rooftop from a photo"
@@ -161,24 +179,6 @@
       "link": "https://www.pv-magazine.com/2026/09/25/the-hydrogen-stream-germany-austria-and-luxembourg-launch-e2-12-billion-program-for-sustainable-aviation-fuel/",
       "published": "Fri, 25 Sep 2026 11:40:12 +0000",
       "title": "The Hydrogen Stream: Germany, Austria and Luxembourg launch €2.12 billion program for sustainable aviation fuel"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/25/india-added-50-6-gw-of-solar-module-and-9-7-gw-of-cell-manufacturing-capacity-in-1h-2026-says-mercom/",
-      "published": "Fri, 25 Sep 2026 11:24:57 +0000",
-      "title": "India adds 50.6 GW of solar module and 9.7 GW of cell manufacturing capacity in 1H"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/25/weaker-monsoon-lifts-irradiance-in-western-india-as-august-storms-dim-the-east/",
-      "published": "Fri, 25 Sep 2026 11:23:11 +0000",
-      "title": "Weaker monsoon lifts irradiance in western India as August storms dim the east"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/25/china-and-u-s-module-prices-hold-ahead-of-golden-week-and-section-232-price-floors/",
-      "published": "Fri, 25 Sep 2026 10:57:23 +0000",
-      "title": "China and U.S. module prices hold ahead of Golden Week and Section 232 price floors"
     }
   ],
   "policy": "RSS metadata only: title, link, date, attribution",
