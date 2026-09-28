@@ -122,6 +122,48 @@
     },
     {
       "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/09/28/austria-to-enable-peer-to-peer-electricity-sharing-from-october/",
+      "published": "Mon, 28 Sep 2026 08:54:48 +0000",
+      "title": "Austria to enable peer-to-peer electricity sharing from October"
+    },
+    {
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/09/28/eu-inverter-restrictions-could-shift-from-countries-to-individual-high-risk-suppliers/",
+      "published": "Mon, 28 Sep 2026 08:24:40 +0000",
+      "title": "EU inverter restrictions could shift from countries to individual high-risk suppliers"
+    },
+    {
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/09/28/pvt-assisted-heat-pumps-achieve-up-to-49-3-exergy-efficiency-in-cold-climates/",
+      "published": "Mon, 28 Sep 2026 08:10:42 +0000",
+      "title": "PVT-assisted heat pumps achieve up to 49.3% exergy efficiency in cold climates"
+    },
+    {
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/09/28/power-electronics-starts-construction-on-40-gw-u-s-factory/",
+      "published": "Mon, 28 Sep 2026 07:58:34 +0000",
+      "title": "Power Electronics starts construction on 40 GW U.S. factory"
+    },
+    {
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/09/28/tcl-solar-launches-new-back-contact-double-glass-module-line/",
+      "published": "Mon, 28 Sep 2026 07:10:20 +0000",
+      "title": "TCL Solar launches new back-contact, double-glass module line"
+    },
+    {
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/09/28/swelect-launches-hybrid-solar-inverter-range-for-ci-applications/",
+      "published": "Mon, 28 Sep 2026 05:16:48 +0000",
+      "title": "Swelect launches hybrid solar inverter range for C&I applications"
+    },
+    {
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/09/28/shedding-light-on-ultraviolet-induced-degradation/",
+      "published": "Mon, 28 Sep 2026 04:00:00 +0000",
+      "title": "Shedding light on ultraviolet-induced degradation"
+    },
+    {
+      "attribution": "pv magazine International",
       "link": "https://www.pv-magazine.com/2026/09/26/chinese-province-moves-grid-side-batteries-into-spot-market/",
       "published": "Sat, 26 Sep 2026 09:00:00 +0000",
       "title": "Chinese province moves grid-side batteries into spot market"
@@ -137,48 +179,6 @@
       "link": "https://www.pv-magazine.com/2026/09/26/anza-expects-at-least-a-40-spike-in-solar-module-prices-after-section-232/",
       "published": "Sat, 26 Sep 2026 08:00:00 +0000",
       "title": "Anza expects at least a 40% spike in U.S. solar module prices after Section 232"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/26/free-software-calculates-how-many-solar-modules-fit-on-a-rooftop-from-a-photo/",
-      "published": "Sat, 26 Sep 2026 07:00:00 +0000",
-      "title": "Free software calculates how many solar modules fit on a rooftop from a photo"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/26/coordination-can-bring-value-to-brazil/",
-      "published": "Sat, 26 Sep 2026 04:00:00 +0000",
-      "title": "Coordination can bring value to Brazil"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/25/chinese-pv-industry-brief-growatt-raises-inverter-battery-prices-by-up-to-10/",
-      "published": "Fri, 25 Sep 2026 12:46:26 +0000",
-      "title": "Chinese PV Industry Brief: Growatt raises inverter, battery prices by up to 10%"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/25/ews-reports-14-higher-winter-wheat-yield-at-austrian-agrivoltaic-site/",
-      "published": "Fri, 25 Sep 2026 12:40:15 +0000",
-      "title": "EWS reports 14% higher winter wheat yield at Austrian agrivoltaic site"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/25/solar-panel-waste-silver-turned-into-catalyst-for-carbon-monoxide-production/",
-      "published": "Fri, 25 Sep 2026 12:02:54 +0000",
-      "title": "Solar panel waste silver turned into catalyst for carbon monoxide production"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/25/inclusive-leadership-turning-diverse-perspectives-into-innovation-and-impact/",
-      "published": "Fri, 25 Sep 2026 11:43:46 +0000",
-      "title": "Inclusive leadership: turning diverse perspectives into innovation and impact"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/25/the-hydrogen-stream-germany-austria-and-luxembourg-launch-e2-12-billion-program-for-sustainable-aviation-fuel/",
-      "published": "Fri, 25 Sep 2026 11:40:12 +0000",
-      "title": "The Hydrogen Stream: Germany, Austria and Luxembourg launch €2.12 billion program for sustainable aviation fuel"
     }
   ],
   "policy": "RSS metadata only: title, link, date, attribution",
