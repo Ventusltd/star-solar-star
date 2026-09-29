@@ -2,6 +2,18 @@
   "entries": [
     {
       "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/utility-scale-solar/low-carbon-reveals-plans-for-next-uk-solar-nsip",
+      "published": "Mon, 28 Sep 2026 10:37:41 GMT",
+      "title": "Low Carbon reveals plans for next UK solar NSIP"
+    },
+    {
+      "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/battery-storage/uk-energy-storage-flexibility-agreements-announced",
+      "published": "Mon, 28 Sep 2026 10:23:21 GMT",
+      "title": "UK energy storage, flexibility agreements announced"
+    },
+    {
+      "attribution": "Solar Power Portal",
       "link": "https://www.solarpowerportal.co.uk/solar-projects/erova-finlight-sign-15-year-ppa-for-107mw-uk-solar-portfolio",
       "published": "Fri, 25 Sep 2026 11:48:10 GMT",
       "title": "Erova, Finlight sign 15-year PPA for 107MW UK solar portfolio"
@@ -109,76 +121,64 @@
       "title": "Gresham House Energy Storage Fund rejects shareholder calls to sell"
     },
     {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/energy-policy/uk-lords-committee-launches-inquiry-into-dunkelflaute-risks-as-renewables-grow",
-      "published": "Tue, 15 Sep 2026 10:50:29 GMT",
-      "title": "UK Lords committee launches inquiry into Dunkelflaute risks as renewables grow"
-    },
-    {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/energy-policy/uk-businesses-call-on-government-to-cut-energy-bill-levies-in-upcoming-budget",
-      "published": "Tue, 15 Sep 2026 08:55:26 GMT",
-      "title": "UK businesses call on government to cut energy bill levies in upcoming budget"
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/09/29/charity-appeal-sends-solar-equipment-to-flood-affected-nepal/",
+      "published": "Tue, 29 Sep 2026 08:55:06 +0000",
+      "title": "Charity appeal sends solar equipment to flood-affected Nepal"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/28/austria-to-enable-peer-to-peer-electricity-sharing-from-october/",
-      "published": "Mon, 28 Sep 2026 08:54:48 +0000",
-      "title": "Austria to enable peer-to-peer electricity sharing from October"
+      "link": "https://www.pv-magazine.com/2026/09/29/scientists-propose-solar-cell-taxonomy-based-on-absorber-integration/",
+      "published": "Tue, 29 Sep 2026 08:35:41 +0000",
+      "title": "Scientists propose solar cell taxonomy based on absorber integration"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/28/eu-inverter-restrictions-could-shift-from-countries-to-individual-high-risk-suppliers/",
-      "published": "Mon, 28 Sep 2026 08:24:40 +0000",
-      "title": "EU inverter restrictions could shift from countries to individual high-risk suppliers"
+      "link": "https://www.pv-magazine.com/2026/09/29/greece-can-install-8-6-gw-of-batteries-by-2030/",
+      "published": "Tue, 29 Sep 2026 07:31:39 +0000",
+      "title": "Greece can install 8.6 GW of batteries by 2030"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/28/pvt-assisted-heat-pumps-achieve-up-to-49-3-exergy-efficiency-in-cold-climates/",
-      "published": "Mon, 28 Sep 2026 08:10:42 +0000",
-      "title": "PVT-assisted heat pumps achieve up to 49.3% exergy efficiency in cold climates"
+      "link": "https://www.pv-magazine.com/2026/09/29/italy-sets-rules-for-exit-from-conto-energia-pv-incentive-scheme-requires-eu-made-modules-for-repowering/",
+      "published": "Tue, 29 Sep 2026 07:15:03 +0000",
+      "title": "Italy sets rules for exit from Conto Energia PV incentive scheme, requires EU-made modules for repowering"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/28/power-electronics-starts-construction-on-40-gw-u-s-factory/",
-      "published": "Mon, 28 Sep 2026 07:58:34 +0000",
-      "title": "Power Electronics starts construction on 40 GW U.S. factory"
+      "link": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+      "published": "Tue, 29 Sep 2026 07:00:00 +0000",
+      "title": "Solar surpasses nuclear power globally for first time"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/28/tcl-solar-launches-new-back-contact-double-glass-module-line/",
-      "published": "Mon, 28 Sep 2026 07:10:20 +0000",
-      "title": "TCL Solar launches new back-contact, double-glass module line"
+      "link": "https://www.pv-magazine.com/2026/09/29/digital-map-forecasts-spains-grid-constraints-and-curtailment-hotspots-for-2027/",
+      "published": "Tue, 29 Sep 2026 06:59:30 +0000",
+      "title": "Digital map forecasts Spain’s grid constraints and curtailment hotspots for 2027"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/28/swelect-launches-hybrid-solar-inverter-range-for-ci-applications/",
-      "published": "Mon, 28 Sep 2026 05:16:48 +0000",
-      "title": "Swelect launches hybrid solar inverter range for C&I applications"
+      "link": "https://www.pv-magazine.com/2026/09/29/sodium-ion-packs-25-less-carbon-intensive-than-lfp-say-researchers/",
+      "published": "Tue, 29 Sep 2026 06:53:09 +0000",
+      "title": "Sodium-ion packs 25% less carbon-intensive than LFP, say researchers"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/28/shedding-light-on-ultraviolet-induced-degradation/",
-      "published": "Mon, 28 Sep 2026 04:00:00 +0000",
-      "title": "Shedding light on ultraviolet-induced degradation"
+      "link": "https://www.pv-magazine.com/2026/09/29/perovskite-silicon-tandem-solar-cell-built-on-textured-silicon-reaches-30-77-efficiency/",
+      "published": "Tue, 29 Sep 2026 05:30:38 +0000",
+      "title": "Perovskite-silicon tandem solar cell built on textured silicon reaches 30.77% efficiency"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/26/chinese-province-moves-grid-side-batteries-into-spot-market/",
-      "published": "Sat, 26 Sep 2026 09:00:00 +0000",
-      "title": "Chinese province moves grid-side batteries into spot market"
+      "link": "https://www.pv-magazine.com/2026/09/29/ukraines-solar-auction-undersubscribed-solar-plus-storage-auction-oversubscribed/",
+      "published": "Tue, 29 Sep 2026 05:15:00 +0000",
+      "title": "Ukraine’s solar auction undersubscribed, solar-plus-storage auction oversubscribed"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/26/pv-system-costs-increase-7-percent-brazil-h1/",
-      "published": "Sat, 26 Sep 2026 08:30:00 +0000",
-      "title": "PV system costs increase by 7% in Brazil in H1"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/26/anza-expects-at-least-a-40-spike-in-solar-module-prices-after-section-232/",
-      "published": "Sat, 26 Sep 2026 08:00:00 +0000",
-      "title": "Anza expects at least a 40% spike in U.S. solar module prices after Section 232"
+      "link": "https://www.pv-magazine.com/2026/09/29/india-likely-to-commission-45-50-gwh-of-bess-capacity-in-fiscals-2027-and-2028-crisil/",
+      "published": "Tue, 29 Sep 2026 05:13:14 +0000",
+      "title": "India likely to commission 45-50 GWh of BESS across fiscals 2027 and 2028"
     }
   ],
   "policy": "RSS metadata only: title, link, date, attribution",
