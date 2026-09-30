@@ -2,6 +2,30 @@
   "entries": [
     {
       "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/energy-storage/one-week-of-extreme-heat-two-signals-what-will-it-take-to-deliver-long-duration-energy-storage-at-scale-",
+      "published": "Wed, 30 Sep 2026 07:40:11 GMT",
+      "title": "One week of extreme heat, two signals: what will it take to deliver long duration energy storage at scale?"
+    },
+    {
+      "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/energy-policy/andy-burnham-launches-great-british-grid-company-to-speed-connections",
+      "published": "Tue, 29 Sep 2026 14:32:38 GMT",
+      "title": "Andy Burnham launches Great British Grid company to speed connections"
+    },
+    {
+      "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/utility-scale-solar/octopus-invests-in-43mw-of-irish-solar-projects",
+      "published": "Tue, 29 Sep 2026 11:12:28 GMT",
+      "title": "Octopus invests in 43MW of Irish solar projects"
+    },
+    {
+      "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/utility-scale-solar/elgin-acquires-200mw-irish-solar-pv-plant",
+      "published": "Tue, 29 Sep 2026 08:55:34 GMT",
+      "title": "Elgin acquires 200MW Irish solar PV plant"
+    },
+    {
+      "attribution": "Solar Power Portal",
       "link": "https://www.solarpowerportal.co.uk/utility-scale-solar/low-carbon-reveals-plans-for-next-uk-solar-nsip",
       "published": "Mon, 28 Sep 2026 10:37:41 GMT",
       "title": "Low Carbon reveals plans for next UK solar NSIP"
@@ -97,88 +121,64 @@
       "title": "Great Britain PPA prices jump in August"
     },
     {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/solar-finance/gb-energy-launches-30-million-people-s-power-fund-for-community-energy",
-      "published": "Thu, 17 Sep 2026 08:46:57 GMT",
-      "title": "GB Energy launches £30 million 'People's Power' fund for community energy"
-    },
-    {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/utility-scale-solar/key-trends-shaping-the-uk-solar-market-in-2026",
-      "published": "Wed, 16 Sep 2026 13:06:58 GMT",
-      "title": "Key trends shaping the UK solar market in 2026"
-    },
-    {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/solar-projects/2026-record-year-for-uk-rooftop-solar-installations-as-iran-war-hikes-energy-prices",
-      "published": "Wed, 16 Sep 2026 11:29:33 GMT",
-      "title": "2026 ‘record year’ for UK rooftop solar installations, as Iran war hikes energy prices"
-    },
-    {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/energy-storage/gresham-house-energy-storage-fund-rejects-shareholder-calls-to-sell",
-      "published": "Wed, 16 Sep 2026 10:08:19 GMT",
-      "title": "Gresham House Energy Storage Fund rejects shareholder calls to sell"
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/09/30/researchers-test-laminated-bamboo-structures-for-floating-pv-platforms/",
+      "published": "Wed, 30 Sep 2026 08:54:01 +0000",
+      "title": "Researchers test laminated bamboo structures for floating PV platforms"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/29/charity-appeal-sends-solar-equipment-to-flood-affected-nepal/",
-      "published": "Tue, 29 Sep 2026 08:55:06 +0000",
-      "title": "Charity appeal sends solar equipment to flood-affected Nepal"
+      "link": "https://www.pv-magazine.com/2026/09/30/panasonic-deploys-fuel-cell-heat-pump-at-pv-powered-hydrogen-house/",
+      "published": "Wed, 30 Sep 2026 07:18:19 +0000",
+      "title": "Panasonic deploys fuel cell, heat pump at PV-powered hydrogen house"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/29/scientists-propose-solar-cell-taxonomy-based-on-absorber-integration/",
-      "published": "Tue, 29 Sep 2026 08:35:41 +0000",
-      "title": "Scientists propose solar cell taxonomy based on absorber integration"
+      "link": "https://www.pv-magazine.com/2026/09/30/cubas-pv-capacity-tops-1-4-gw/",
+      "published": "Wed, 30 Sep 2026 06:05:33 +0000",
+      "title": "Cuba’s PV capacity tops 1.4 GW"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/29/greece-can-install-8-6-gw-of-batteries-by-2030/",
-      "published": "Tue, 29 Sep 2026 07:31:39 +0000",
-      "title": "Greece can install 8.6 GW of batteries by 2030"
+      "link": "https://www.pv-magazine.com/2026/09/30/norway-to-simplify-small-scale-solar-connections/",
+      "published": "Wed, 30 Sep 2026 06:00:00 +0000",
+      "title": "Norway to simplify small-scale solar connections"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/29/italy-sets-rules-for-exit-from-conto-energia-pv-incentive-scheme-requires-eu-made-modules-for-repowering/",
-      "published": "Tue, 29 Sep 2026 07:15:03 +0000",
-      "title": "Italy sets rules for exit from Conto Energia PV incentive scheme, requires EU-made modules for repowering"
+      "link": "https://www.pv-magazine.com/2026/09/30/south-korea-marks-major-shift-to-sodium-ion-batteries-to-regain-market/",
+      "published": "Wed, 30 Sep 2026 05:35:32 +0000",
+      "title": "South Korea marks major shift to sodium-ion batteries to regain market"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
-      "published": "Tue, 29 Sep 2026 07:00:00 +0000",
-      "title": "Solar surpasses nuclear power globally for first time"
+      "link": "https://www.pv-magazine.com/2026/09/30/trinatracker-launches-solar-panel-installation-and-cleaning-robots/",
+      "published": "Wed, 30 Sep 2026 05:23:04 +0000",
+      "title": "TrinaTracker launches solar panel installation and cleaning robots"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/29/digital-map-forecasts-spains-grid-constraints-and-curtailment-hotspots-for-2027/",
-      "published": "Tue, 29 Sep 2026 06:59:30 +0000",
-      "title": "Digital map forecasts Spain’s grid constraints and curtailment hotspots for 2027"
+      "link": "https://www.pv-magazine.com/2026/09/30/homeowners-are-now-slightly-less-mistrustful-of-solar-companies-report-claims/",
+      "published": "Wed, 30 Sep 2026 05:21:58 +0000",
+      "title": "U.S. homeowners are now slightly less mistrustful of solar companies"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/29/sodium-ion-packs-25-less-carbon-intensive-than-lfp-say-researchers/",
-      "published": "Tue, 29 Sep 2026 06:53:09 +0000",
-      "title": "Sodium-ion packs 25% less carbon-intensive than LFP, say researchers"
+      "link": "https://www.pv-magazine.com/2026/09/30/everythings-bigger-in-texas/",
+      "published": "Wed, 30 Sep 2026 04:00:00 +0000",
+      "title": "Everything’s bigger in Texas"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/29/perovskite-silicon-tandem-solar-cell-built-on-textured-silicon-reaches-30-77-efficiency/",
-      "published": "Tue, 29 Sep 2026 05:30:38 +0000",
-      "title": "Perovskite-silicon tandem solar cell built on textured silicon reaches 30.77% efficiency"
+      "link": "https://www.pv-magazine.com/2026/09/29/publicly-owned-company-gb-grid-announced-in-uk-connections-policy-overhaul/",
+      "published": "Tue, 29 Sep 2026 15:15:00 +0000",
+      "title": "Publicly owned company GB Grid announced in UK connections policy overhaul"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/29/ukraines-solar-auction-undersubscribed-solar-plus-storage-auction-oversubscribed/",
-      "published": "Tue, 29 Sep 2026 05:15:00 +0000",
-      "title": "Ukraine’s solar auction undersubscribed, solar-plus-storage auction oversubscribed"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/29/india-likely-to-commission-45-50-gwh-of-bess-capacity-in-fiscals-2027-and-2028-crisil/",
-      "published": "Tue, 29 Sep 2026 05:13:14 +0000",
-      "title": "India likely to commission 45-50 GWh of BESS across fiscals 2027 and 2028"
+      "link": "https://www.pv-magazine.com/2026/09/29/new-85-w-solar-shingle-adds-low-profile-power-to-roofs/",
+      "published": "Tue, 29 Sep 2026 13:54:46 +0000",
+      "title": "New 85 W solar shingle adds low-profile power to roofs"
     }
   ],
   "policy": "RSS metadata only: title, link, date, attribution",
