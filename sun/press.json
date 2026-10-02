@@ -2,6 +2,24 @@
   "entries": [
     {
       "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/energy-policy/great-british-grid-where-could-it-have-the-most-impact-",
+      "published": "Fri, 02 Oct 2026 07:56:13 GMT",
+      "title": "Great British Grid: where could it have the most impact?"
+    },
+    {
+      "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/solar-projects/forsa-energy-acquires-rtb-59mw-solar-pv-project-in-north-yorkshire",
+      "published": "Thu, 01 Oct 2026 12:03:20 GMT",
+      "title": "Forsa Energy acquires RtB 59MW solar PV project in North Yorkshire"
+    },
+    {
+      "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/solar-installations/uk-installs-record-291-000-new-solar-pv-installations-in-12-month-period",
+      "published": "Thu, 01 Oct 2026 10:43:10 GMT",
+      "title": "UK installs record 291,000 new solar PV installations in 12-month period"
+    },
+    {
+      "attribution": "Solar Power Portal",
       "link": "https://www.solarpowerportal.co.uk/energy-policy/burnham-gb-grid-plan-welcomed-success-in-details",
       "published": "Wed, 30 Sep 2026 12:16:42 GMT",
       "title": "Burnham’s GB Grid plan welcomed by industry, but success will be in the details"
@@ -103,82 +121,64 @@
       "title": "E.ON joins Amber Electric funding round to expand flexible energy services in UK"
     },
     {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/energy-policy/andy-burnham-commitment-net-zero",
-      "published": "Mon, 21 Sep 2026 10:06:02 GMT",
-      "title": "Andy Burnham firms up commitment to net zero"
-    },
-    {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/solar-planning/uk-ar8-could-procure-19gw-of-renewables-deliver-11-billion-in-savings-says-lcp-delta",
-      "published": "Fri, 18 Sep 2026 10:21:28 GMT",
-      "title": "UK AR8 could procure 19GW of renewable energy capacity, deliver £11 billion in savings, says LCP Delta"
-    },
-    {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/battery-storage/ofgem-consults-additional-fee-for-oversubscribed-bess-grid-connections",
-      "published": "Fri, 18 Sep 2026 08:37:36 GMT",
-      "title": "Ofgem consults additional fee for oversubscribed BESS grid connections"
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/10/02/agrivoltaics-improve-grapevine-growth-biodiversity-in-hot-mediterranean-climates/",
+      "published": "Fri, 02 Oct 2026 08:54:51 +0000",
+      "title": "Agrivoltaics improve grapevine growth, biodiversity in hot Mediterranean climates"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/01/germany-could-generate-over-600000-tonnes-of-pv-module-waste-by-2030/",
-      "published": "Thu, 01 Oct 2026 09:13:22 +0000",
-      "title": "Germany could generate over 600,000 tonnes of PV module waste by 2030"
+      "link": "https://www.pv-magazine.com/2026/10/02/fraunhofer-ise-releases-electricity-price-simulator/",
+      "published": "Fri, 02 Oct 2026 08:40:10 +0000",
+      "title": "Fraunhofer ISE releases electricity price simulator"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/01/china-sets-2030-battery-targets-backs-sodium-ion-and-solid-state/",
-      "published": "Thu, 01 Oct 2026 08:51:49 +0000",
-      "title": "China sets 2030 battery targets, backs sodium-ion and solid-state"
+      "link": "https://www.pv-magazine.com/2026/10/02/germany-approves-rules-for-storage-bidirectional-charging/",
+      "published": "Fri, 02 Oct 2026 08:22:24 +0000",
+      "title": "Germany approves rules for storage, bidirectional charging"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/01/sodium-ion-batteries-the-next-frontier-or-the-next-risk/",
-      "published": "Thu, 01 Oct 2026 08:49:16 +0000",
-      "title": "Sodium-ion batteries: the next frontier or the next risk?"
+      "link": "https://www.pv-magazine.com/2026/10/02/japan-tightens-grid-access-as-battery-queue-reaches-172-gw/",
+      "published": "Fri, 02 Oct 2026 08:15:06 +0000",
+      "title": "Japan tightens grid access as battery queue reaches 172 GW"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/01/commercial-perovskite-and-tandem-modules-tested-in-outdoor-field-study-unsw/",
-      "published": "Thu, 01 Oct 2026 07:06:28 +0000",
-      "title": "Trina Solar, Microquanta testing perovskite, tandem modules at UNSW site"
+      "link": "https://www.pv-magazine.com/2026/10/02/hybrid-pv-cooling-system-boosts-electrical-efficiency-by-26-provides-precooled-ventilation-air/",
+      "published": "Fri, 02 Oct 2026 07:38:52 +0000",
+      "title": "Hybrid PV cooling system boosts electrical efficiency by 26%, provides building ventilation"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/01/u-s-solar-hardware-market-tightens-as-buyers-race-back-to-back-tariff-deadlines/",
-      "published": "Thu, 01 Oct 2026 07:03:19 +0000",
-      "title": "U.S. solar hardware market tightens as buyers race back-to-back tariff deadlines"
+      "link": "https://www.pv-magazine.com/2026/10/02/global-polysilicon-prices-hold-steady-as-china-price-gains-meet-buyer-resistance/",
+      "published": "Fri, 02 Oct 2026 07:23:32 +0000",
+      "title": "Global polysilicon prices hold steady as China price gains meet buyer resistance"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/30/the-rationale-behind-the-uks-largest-compressed-air-energy-storage-plan/",
-      "published": "Wed, 30 Sep 2026 12:30:00 +0000",
-      "title": "The rationale behind the UK’s largest compressed air energy storage plan"
+      "link": "https://www.pv-magazine.com/2026/10/02/i-have-become-less-tolerant-of-the-high-five-lad-culture/",
+      "published": "Fri, 02 Oct 2026 07:07:39 +0000",
+      "title": "‘I have become less tolerant of the high-five lad culture’"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/30/over-easy-solar-launches-256-w-vertical-rooftop-pv-unit/",
-      "published": "Wed, 30 Sep 2026 12:08:47 +0000",
-      "title": "Over Easy Solar launches 256 W vertical rooftop PV unit"
+      "link": "https://www.pv-magazine.com/2026/10/02/england-and-wales-lead-western-europes-record-summer-irradiance/",
+      "published": "Fri, 02 Oct 2026 06:53:40 +0000",
+      "title": "England and Wales lead western Europe’s record summer irradiance"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/30/chinese-scientists-develop-hydrogen-powered-co%e2%82%82-heat-pump-with-pcm-storage/",
-      "published": "Wed, 30 Sep 2026 11:37:01 +0000",
-      "title": "Chinese scientists develop hydrogen-powered CO₂ heat pump with PCM storage"
+      "link": "https://www.pv-magazine.com/2026/10/02/baxi-releases-50-170-kw-propane-heat-pumps/",
+      "published": "Fri, 02 Oct 2026 06:39:49 +0000",
+      "title": "Baxi releases 50-170 kW propane heat pumps"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/30/fox-ess-launches-modular-ci-battery-system-scalable-to-96-mwh/",
-      "published": "Wed, 30 Sep 2026 10:50:27 +0000",
-      "title": "Fox ESS launches modular C&I battery system scalable to 96 MWh"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/09/30/eus-largest-solar-project-reaches-financial-close/",
-      "published": "Wed, 30 Sep 2026 10:47:25 +0000",
-      "title": "EU’s largest solar project reaches financial close"
+      "link": "https://www.pv-magazine.com/2026/10/02/chinese-pv-industry-brief-inner-mongolia-advances-5-5-gw-solar-desertification-program/",
+      "published": "Fri, 02 Oct 2026 06:24:52 +0000",
+      "title": "Chinese PV Industry Brief: Inner Mongolia advances 5.5 GW solar-desertification program"
     }
   ],
   "policy": "RSS metadata only: title, link, date, attribution",
