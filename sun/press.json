@@ -2,6 +2,12 @@
   "entries": [
     {
       "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/energy-policy/neso-asks-ofgem-for-one-month-extension-to-issue-remaining-gate-2-phase-1-offers",
+      "published": "Fri, 02 Oct 2026 09:44:36 GMT",
+      "title": "NESO asks Ofgem for one-month extension to issue remaining Gate 2 Phase 1 offers"
+    },
+    {
+      "attribution": "Solar Power Portal",
       "link": "https://www.solarpowerportal.co.uk/energy-policy/great-british-grid-where-could-it-have-the-most-impact-",
       "published": "Fri, 02 Oct 2026 07:56:13 GMT",
       "title": "Great British Grid: where could it have the most impact?"
@@ -115,10 +121,46 @@
       "title": "Offgrid Energy Labs, Keele University to trial UK-made zinc LDES system"
     },
     {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/residential-solar/e-on-joins-amber-electric-funding-round-to-expand-flexible-energy-services-in-uk",
-      "published": "Tue, 22 Sep 2026 11:21:28 GMT",
-      "title": "E.ON joins Amber Electric funding round to expand flexible energy services in UK"
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/10/03/the-case-for-railway-integrated-solar-in-south-korea/",
+      "published": "Sat, 03 Oct 2026 08:00:00 +0000",
+      "title": "The case for railway-integrated solar in South Korea"
+    },
+    {
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/10/03/middle-market-momentum/",
+      "published": "Sat, 03 Oct 2026 04:00:00 +0000",
+      "title": "Middle market momentum"
+    },
+    {
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/10/02/german-startup-wins-grant-for-grid-charging-sodium-ion-home-battery/",
+      "published": "Fri, 02 Oct 2026 11:12:49 +0000",
+      "title": "German startup wins grant for grid-charging sodium-ion home battery"
+    },
+    {
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/10/02/spains-first-pre-commercial-marine-solar-demonstrator-enters-testing/",
+      "published": "Fri, 02 Oct 2026 11:07:45 +0000",
+      "title": "Spain’s first pre-commercial marine solar demonstrator enters testing"
+    },
+    {
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/10/02/the-hydrogen-stream-pv-driven-h2-plant-commissioned-in-southern-italy/",
+      "published": "Fri, 02 Oct 2026 10:46:06 +0000",
+      "title": "The Hydrogen Stream: PV-driven H2 plant commissioned in southern Italy"
+    },
+    {
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/10/02/denmark-agrees-new-grid-connection-procedure/",
+      "published": "Fri, 02 Oct 2026 10:28:24 +0000",
+      "title": "Denmark approves new grid connection prioritization model"
+    },
+    {
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/10/02/italian-startup-unveils-double-layer-pv-system-prototype-for-space-constrained-applications/",
+      "published": "Fri, 02 Oct 2026 09:28:13 +0000",
+      "title": "Italian startup unveils double-layer PV system prototype for space-constrained applications"
     },
     {
       "attribution": "pv magazine International",
@@ -137,48 +179,6 @@
       "link": "https://www.pv-magazine.com/2026/10/02/germany-approves-rules-for-storage-bidirectional-charging/",
       "published": "Fri, 02 Oct 2026 08:22:24 +0000",
       "title": "Germany approves rules for storage, bidirectional charging"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/02/japan-tightens-grid-access-as-battery-queue-reaches-172-gw/",
-      "published": "Fri, 02 Oct 2026 08:15:06 +0000",
-      "title": "Japan tightens grid access as battery queue reaches 172 GW"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/02/hybrid-pv-cooling-system-boosts-electrical-efficiency-by-26-provides-precooled-ventilation-air/",
-      "published": "Fri, 02 Oct 2026 07:38:52 +0000",
-      "title": "Hybrid PV cooling system boosts electrical efficiency by 26%, provides building ventilation"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/02/global-polysilicon-prices-hold-steady-as-china-price-gains-meet-buyer-resistance/",
-      "published": "Fri, 02 Oct 2026 07:23:32 +0000",
-      "title": "Global polysilicon prices hold steady as China price gains meet buyer resistance"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/02/i-have-become-less-tolerant-of-the-high-five-lad-culture/",
-      "published": "Fri, 02 Oct 2026 07:07:39 +0000",
-      "title": "‘I have become less tolerant of the high-five lad culture’"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/02/england-and-wales-lead-western-europes-record-summer-irradiance/",
-      "published": "Fri, 02 Oct 2026 06:53:40 +0000",
-      "title": "England and Wales lead western Europe’s record summer irradiance"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/02/baxi-releases-50-170-kw-propane-heat-pumps/",
-      "published": "Fri, 02 Oct 2026 06:39:49 +0000",
-      "title": "Baxi releases 50-170 kW propane heat pumps"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/02/chinese-pv-industry-brief-inner-mongolia-advances-5-5-gw-solar-desertification-program/",
-      "published": "Fri, 02 Oct 2026 06:24:52 +0000",
-      "title": "Chinese PV Industry Brief: Inner Mongolia advances 5.5 GW solar-desertification program"
     }
   ],
   "policy": "RSS metadata only: title, link, date, attribution",
