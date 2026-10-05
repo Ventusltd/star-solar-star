@@ -122,6 +122,48 @@
     },
     {
       "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/10/05/silver-nickel-contacts-cut-topcon-rear-metallization-costs-by-11/",
+      "published": "Mon, 05 Oct 2026 09:34:45 +0000",
+      "title": "Silver-nickel contacts cut TOPCon rear metallization costs by 11%"
+    },
+    {
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/10/05/perovskite-solar-cell-based-on-prussian-blue-achieves-26-9-efficiency/",
+      "published": "Mon, 05 Oct 2026 09:00:16 +0000",
+      "title": "Perovskite solar cell based on Prussian blue achieves 26.9% efficiency"
+    },
+    {
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/10/05/enerparc-attracts-more-than-100-potential-investors-as-insolvency-sale-moves-forward/",
+      "published": "Mon, 05 Oct 2026 07:19:19 +0000",
+      "title": "Enerparc attracts more than 100 potential investors as insolvency sale moves forward"
+    },
+    {
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/10/05/waaree-power-ramps-up-string-inverter-manufacturing-capacity-to-4-15-gw/",
+      "published": "Mon, 05 Oct 2026 06:25:40 +0000",
+      "title": "Waaree Power ramps up string inverter manufacturing capacity to 4.15 GW"
+    },
+    {
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/10/05/wartsila-and-rct-solutions-launch-storage-integrator-valo/",
+      "published": "Mon, 05 Oct 2026 05:48:15 +0000",
+      "title": "Wärtsilä and RCT Solutions launch storage integrator Valo"
+    },
+    {
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/10/05/securing-power-controlling-costs-how-onsite-solar-and-storage-shield-commercial-users-from-grid-volatility/",
+      "published": "Mon, 05 Oct 2026 05:45:38 +0000",
+      "title": "Securing power, controlling costs: How onsite solar and storage shield commercial users from grid volatility"
+    },
+    {
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/10/05/socket-to-the-sun-2/",
+      "published": "Mon, 05 Oct 2026 04:00:00 +0000",
+      "title": "Socket to the sun"
+    },
+    {
+      "attribution": "pv magazine International",
       "link": "https://www.pv-magazine.com/2026/10/03/battery-storage-paired-with-37-of-new-u-s-residential-solar-systems-in-2025/",
       "published": "Sat, 03 Oct 2026 09:30:00 +0000",
       "title": "Battery storage paired with 37% of new U.S. residential solar systems in 2025"
@@ -137,48 +179,6 @@
       "link": "https://www.pv-magazine.com/2026/10/03/the-case-for-railway-integrated-solar-in-south-korea/",
       "published": "Sat, 03 Oct 2026 08:00:00 +0000",
       "title": "The case for railway-integrated solar in South Korea"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/03/middle-market-momentum/",
-      "published": "Sat, 03 Oct 2026 04:00:00 +0000",
-      "title": "Middle market momentum"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/02/german-startup-wins-grant-for-grid-charging-sodium-ion-home-battery/",
-      "published": "Fri, 02 Oct 2026 11:12:49 +0000",
-      "title": "German startup wins grant for grid-charging sodium-ion home battery"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/02/spains-first-pre-commercial-marine-solar-demonstrator-enters-testing/",
-      "published": "Fri, 02 Oct 2026 11:07:45 +0000",
-      "title": "Spain’s first pre-commercial marine solar demonstrator enters testing"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/02/the-hydrogen-stream-pv-driven-h2-plant-commissioned-in-southern-italy/",
-      "published": "Fri, 02 Oct 2026 10:46:06 +0000",
-      "title": "The Hydrogen Stream: PV-driven H2 plant commissioned in southern Italy"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/02/denmark-agrees-new-grid-connection-procedure/",
-      "published": "Fri, 02 Oct 2026 10:28:24 +0000",
-      "title": "Denmark approves new grid connection prioritization model"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/02/italian-startup-unveils-double-layer-pv-system-prototype-for-space-constrained-applications/",
-      "published": "Fri, 02 Oct 2026 09:28:13 +0000",
-      "title": "Italian startup unveils double-layer PV system prototype for space-constrained applications"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/02/agrivoltaics-improve-grapevine-growth-biodiversity-in-hot-mediterranean-climates/",
-      "published": "Fri, 02 Oct 2026 08:54:51 +0000",
-      "title": "Agrivoltaics improve grapevine growth, biodiversity in hot Mediterranean climates"
     }
   ],
   "policy": "RSS metadata only: title, link, date, attribution",
