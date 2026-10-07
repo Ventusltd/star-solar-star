@@ -2,6 +2,12 @@
   "entries": [
     {
       "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/solar-planning/ofgem-allows-month-long-extension-to-grid-connection-offers",
+      "published": "Wed, 07 Oct 2026 08:34:33 GMT",
+      "title": "Ofgem allows month-long extension to grid connection offers"
+    },
+    {
+      "attribution": "Solar Power Portal",
       "link": "https://www.solarpowerportal.co.uk/battery-storage/bw-ess-agrees-10-year-optimisation-agreement-with-danske-commodities-for-4-hour-uk-bess",
       "published": "Tue, 06 Oct 2026 08:37:09 GMT",
       "title": "BW ESS agrees 10-year optimisation agreement with Danske Commodities for 4-hour UK BESS"
@@ -115,70 +121,64 @@
       "title": "Great British Energy opens Aberdeen HQ amidst controversy"
     },
     {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/solar-projects/ampyr-distributed-energy-bags-equity-investment-from-stonepeak",
-      "published": "Wed, 23 Sep 2026 11:35:55 GMT",
-      "title": "Ampyr Distributed Energy bags equity investment from Stonepeak"
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/10/07/eskom-extends-solar-registration-fee-waiver-indefinitely/",
+      "published": "Wed, 07 Oct 2026 08:24:57 +0000",
+      "title": "Eskom extends solar registration fee waiver indefinitely"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/06/thailand-tightens-solar-panel-safety-standards/",
-      "published": "Tue, 06 Oct 2026 09:02:26 +0000",
-      "title": "Thailand tightens solar panel safety standards"
+      "link": "https://www.pv-magazine.com/2026/10/07/frances-largest-battery-goes-online/",
+      "published": "Wed, 07 Oct 2026 07:31:57 +0000",
+      "title": "France’s largest battery goes online"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/06/whats-driving-europes-battery-boom-insights-from-eupd-researchs-business-climate-survey-and-storage-report/",
-      "published": "Tue, 06 Oct 2026 08:50:44 +0000",
-      "title": "What’s driving Europe’s battery boom? Insights from EUPD Research’s Business Climate Survey and Storage Report"
+      "link": "https://www.pv-magazine.com/2026/10/07/hithiums-sodium-ion-storage-push-where-it-could-win-where-it-wont-and-path-to-bankability/",
+      "published": "Wed, 07 Oct 2026 07:26:01 +0000",
+      "title": "Hithium’s sodium-ion storage push, where it could win, where it won’t, and path to bankability"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/06/spain-and-portugal-record-europes-highest-number-of-hours-with-negative-electricity-prices-in-q2/",
-      "published": "Tue, 06 Oct 2026 07:58:59 +0000",
-      "title": "Spain and Portugal record Europe’s highest number of hours with negative electricity prices in Q2"
+      "link": "https://www.pv-magazine.com/2026/10/07/heterojunction-solar-cell-built-with-biomass-lignin-based-silver-paste-achieves-25-96-efficiency/",
+      "published": "Wed, 07 Oct 2026 06:34:47 +0000",
+      "title": "Heterojunction solar cell built with biomass lignin-based silver paste achieves 25.96% efficiency"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/06/mixed-self-assembled-monolayer-enables-18-88-efficiency-in-5-2-cm%c2%b2-inverted-perovskite-solar-cell/",
-      "published": "Tue, 06 Oct 2026 07:36:25 +0000",
-      "title": "Mixed self-assembled monolayer enables 18.88% efficiency in 5.2 cm² inverted perovskite solar cell"
+      "link": "https://www.pv-magazine.com/2026/10/07/the-u-s-market-is-writing-its-own-sodium-ion-spec/",
+      "published": "Wed, 07 Oct 2026 05:50:17 +0000",
+      "title": "The U.S. market is writing its own sodium-ion spec"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/06/albanias-next-solar-auction-to-include-storage/",
-      "published": "Tue, 06 Oct 2026 07:32:59 +0000",
-      "title": "Albania’s next solar auction to include storage"
+      "link": "https://www.pv-magazine.com/2026/10/07/synchronous-condensers-essential-in-push-for-renewables/",
+      "published": "Wed, 07 Oct 2026 05:47:55 +0000",
+      "title": "Synchronous condensers essential in push for renewables"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/06/utility-solar-generation-reaches-record-highs-in-nem/",
-      "published": "Tue, 06 Oct 2026 06:04:30 +0000",
-      "title": "Utility solar generation reaches record highs in Australia"
+      "link": "https://www.pv-magazine.com/2026/10/07/unsw-researchers-achieve-23-5-efficiency-record-for-large-scale-perovskite-pv-submodule/",
+      "published": "Wed, 07 Oct 2026 05:46:13 +0000",
+      "title": "UNSW researchers achieve 23.5% efficiency record for 676 cm2 perovskite PV submodule"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/06/forecasting-domestic-u-s-module-production-to-the-end-of-2027/",
-      "published": "Tue, 06 Oct 2026 06:03:48 +0000",
-      "title": "Forecasting domestic U.S. module production to the end of 2027"
+      "link": "https://www.pv-magazine.com/2026/10/07/building-quality-domestic-u-s-cell-fabs-is-more-important-than-technology-choice-today/",
+      "published": "Wed, 07 Oct 2026 05:34:35 +0000",
+      "title": "Building quality domestic U.S. solar cell fabs is more important than technology-choice today"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/05/flooded-solar-plant-in-japan-catches-fire-after-typhoon/",
-      "published": "Mon, 05 Oct 2026 14:45:00 +0000",
-      "title": "Flooded solar plant in Japan catches fire after typhoon"
+      "link": "https://www.pv-magazine.com/2026/10/06/wireless-bipolar-electrodes-raise-zinc-air-battery-power-by-80/",
+      "published": "Tue, 06 Oct 2026 13:24:51 +0000",
+      "title": "Wireless bipolar electrodes raise zinc-air battery power by 80%"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/05/first-solar-sues-ja-solar-and-american-panel-solutions-over-topcon-patents/",
-      "published": "Mon, 05 Oct 2026 13:54:52 +0000",
-      "title": "First Solar sues JA Solar and American Panel Solutions over TOPCon patents"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/05/next2sun-files-for-insolvency-for-two-subsidiaries/",
-      "published": "Mon, 05 Oct 2026 13:30:35 +0000",
-      "title": "Next2Sun files for insolvency for two subsidiaries"
+      "link": "https://www.pv-magazine.com/2026/10/06/japan-proposes-four-categories-for-priority-commercial-solar-support/",
+      "published": "Tue, 06 Oct 2026 12:45:00 +0000",
+      "title": "Japan proposes four categories for priority commercial solar support"
     }
   ],
   "policy": "RSS metadata only: title, link, date, attribution",
