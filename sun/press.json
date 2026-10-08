@@ -2,6 +2,18 @@
   "entries": [
     {
       "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/energy-policy/bloombergnef-on-great-british-grid",
+      "published": "Wed, 07 Oct 2026 11:25:18 GMT",
+      "title": "Q&A: BloombergNEF on Great British Grid"
+    },
+    {
+      "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/solar-planning/pace-wins-appeal-for-49-5mw-solar-plant",
+      "published": "Wed, 07 Oct 2026 09:44:56 GMT",
+      "title": "PACE wins appeal for 49.5MW solar plant in Gloucestershire"
+    },
+    {
+      "attribution": "Solar Power Portal",
       "link": "https://www.solarpowerportal.co.uk/solar-planning/ofgem-allows-month-long-extension-to-grid-connection-offers",
       "published": "Wed, 07 Oct 2026 08:34:33 GMT",
       "title": "Ofgem allows month-long extension to grid connection offers"
@@ -109,76 +121,64 @@
       "title": "Gore Street Energy Storage Fund to remain public following vote against selling"
     },
     {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/battery-storage/revera-closes-financing-begins-construction-of-400mw-scottish-bess",
-      "published": "Thu, 24 Sep 2026 10:00:05 GMT",
-      "title": "Revera closes financing, begins construction of 400MW Scottish BESS"
-    },
-    {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/energy-policy/great-british-energy-opens-aberdeen-hq-amidst-controversy",
-      "published": "Thu, 24 Sep 2026 08:39:12 GMT",
-      "title": "Great British Energy opens Aberdeen HQ amidst controversy"
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/10/08/global-pv-oversupply-accelerates-consolidation-regional-price-divergence/",
+      "published": "Thu, 08 Oct 2026 09:24:17 +0000",
+      "title": "Global PV oversupply accelerates consolidation, regional price divergence"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/07/eskom-extends-solar-registration-fee-waiver-indefinitely/",
-      "published": "Wed, 07 Oct 2026 08:24:57 +0000",
-      "title": "Eskom extends solar registration fee waiver indefinitely"
+      "link": "https://www.pv-magazine.com/2026/10/08/hungary-extends-deadline-for-troubled-eu-funded-residential-solar-scheme/",
+      "published": "Thu, 08 Oct 2026 09:00:00 +0000",
+      "title": "Hungary extends deadline for troubled EU-funded residential solar scheme"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/07/frances-largest-battery-goes-online/",
-      "published": "Wed, 07 Oct 2026 07:31:57 +0000",
-      "title": "France’s largest battery goes online"
+      "link": "https://www.pv-magazine.com/2026/10/08/an-energy-first-cybersecurity-platform-for-solar-storage-and-the-grid/",
+      "published": "Thu, 08 Oct 2026 08:30:00 +0000",
+      "title": "An energy-first cybersecurity platform for solar, storage and the grid"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/07/hithiums-sodium-ion-storage-push-where-it-could-win-where-it-wont-and-path-to-bankability/",
-      "published": "Wed, 07 Oct 2026 07:26:01 +0000",
-      "title": "Hithium’s sodium-ion storage push, where it could win, where it won’t, and path to bankability"
+      "link": "https://www.pv-magazine.com/2026/10/08/research-community-reaches-consensus-on-testing-indoor-photovoltaics/",
+      "published": "Thu, 08 Oct 2026 08:00:00 +0000",
+      "title": "Research community reaches consensus on testing indoor photovoltaics"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/07/heterojunction-solar-cell-built-with-biomass-lignin-based-silver-paste-achieves-25-96-efficiency/",
-      "published": "Wed, 07 Oct 2026 06:34:47 +0000",
-      "title": "Heterojunction solar cell built with biomass lignin-based silver paste achieves 25.96% efficiency"
+      "link": "https://www.pv-magazine.com/2026/10/08/brilliant-matters-heiq-plan-to-commercialize-12-efficient-semi-transparent-organic-solar-cells/",
+      "published": "Thu, 08 Oct 2026 07:30:00 +0000",
+      "title": "Brilliant Matters, HeiQ plan to commercialize 12%-efficient semi-transparent organic solar cells"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/07/the-u-s-market-is-writing-its-own-sodium-ion-spec/",
-      "published": "Wed, 07 Oct 2026 05:50:17 +0000",
-      "title": "The U.S. market is writing its own sodium-ion spec"
+      "link": "https://www.pv-magazine.com/2026/10/08/how-to-integrate-air-source-steam-generating-heat-pumps-with-pv-battery-storage/",
+      "published": "Thu, 08 Oct 2026 07:00:00 +0000",
+      "title": "How to integrate air-source steam-generating heat pumps with PV, battery storage"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/07/synchronous-condensers-essential-in-push-for-renewables/",
-      "published": "Wed, 07 Oct 2026 05:47:55 +0000",
-      "title": "Synchronous condensers essential in push for renewables"
+      "link": "https://www.pv-magazine.com/2026/10/08/bangladesh-approves-442-mw-solar-project-with-eight-hour-battery-storage/",
+      "published": "Thu, 08 Oct 2026 06:30:00 +0000",
+      "title": "Bangladesh approves 442 MW solar project with eight-hour battery storage"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/07/unsw-researchers-achieve-23-5-efficiency-record-for-large-scale-perovskite-pv-submodule/",
-      "published": "Wed, 07 Oct 2026 05:46:13 +0000",
-      "title": "UNSW researchers achieve 23.5% efficiency record for 676 cm2 perovskite PV submodule"
+      "link": "https://www.pv-magazine.com/2026/10/08/high-defect-rates-drag-down-solar-performance-and-yield-finds-report/",
+      "published": "Thu, 08 Oct 2026 06:00:00 +0000",
+      "title": "High defect rates drag down solar performance and yield, finds report"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/07/building-quality-domestic-u-s-cell-fabs-is-more-important-than-technology-choice-today/",
-      "published": "Wed, 07 Oct 2026 05:34:35 +0000",
-      "title": "Building quality domestic U.S. solar cell fabs is more important than technology-choice today"
+      "link": "https://www.pv-magazine.com/2026/10/08/rooftop-installs-rise-on-back-of-battery-rebate-scheme/",
+      "published": "Thu, 08 Oct 2026 03:22:09 +0000",
+      "title": "Australia’s rooftop installs rise on back of battery rebate scheme"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/06/wireless-bipolar-electrodes-raise-zinc-air-battery-power-by-80/",
-      "published": "Tue, 06 Oct 2026 13:24:51 +0000",
-      "title": "Wireless bipolar electrodes raise zinc-air battery power by 80%"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/06/japan-proposes-four-categories-for-priority-commercial-solar-support/",
-      "published": "Tue, 06 Oct 2026 12:45:00 +0000",
-      "title": "Japan proposes four categories for priority commercial solar support"
+      "link": "https://www.pv-magazine.com/2026/10/07/toyo-cuts-the-ribbon-on-its-newly-expanded-solar-factory-in-texas/",
+      "published": "Wed, 07 Oct 2026 15:37:43 +0000",
+      "title": "Toyo cuts the ribbon on its newly-expanded solar factory in Texas"
     }
   ],
   "policy": "RSS metadata only: title, link, date, attribution",
