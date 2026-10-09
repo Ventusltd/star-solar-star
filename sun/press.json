@@ -2,6 +2,24 @@
   "entries": [
     {
       "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/utility-scale-solar/fahnbulleh-consents-major-500mw-solar-plant-plans-for-northamptonshire",
+      "published": "Thu, 08 Oct 2026 12:46:30 GMT",
+      "title": "Fahnbulleh consents major 500MW solar plant plans for Northamptonshire"
+    },
+    {
+      "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/residential-solar/solfit-atmoce-partner-for-uk-newbuild-renewable-technologies",
+      "published": "Thu, 08 Oct 2026 10:42:57 GMT",
+      "title": "Solfit, ATMOCE partner for UK newbuild renewable technologies"
+    },
+    {
+      "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/solar-investment/great-british-energy-continues-solar-stewardship-initiative-work",
+      "published": "Thu, 08 Oct 2026 09:19:23 GMT",
+      "title": "Great British Energy continues Solar Stewardship Initiative work"
+    },
+    {
+      "attribution": "Solar Power Portal",
       "link": "https://www.solarpowerportal.co.uk/energy-policy/bloombergnef-on-great-british-grid",
       "published": "Wed, 07 Oct 2026 11:25:18 GMT",
       "title": "Q&A: BloombergNEF on Great British Grid"
@@ -103,82 +121,64 @@
       "title": "UK energy storage, flexibility agreements announced"
     },
     {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/solar-projects/erova-finlight-sign-15-year-ppa-for-107mw-uk-solar-portfolio",
-      "published": "Fri, 25 Sep 2026 11:48:10 GMT",
-      "title": "Erova, Finlight sign 15-year PPA for 107MW UK solar portfolio"
-    },
-    {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/solar-planning/solar-power-portal-news-top-five",
-      "published": "Fri, 25 Sep 2026 09:24:18 GMT",
-      "title": "Solar Power Portal's top five solar news stories of the week"
-    },
-    {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/battery-storage/gore-street-energy-storage-fund-to-remain-public-following-vote-against-selling",
-      "published": "Fri, 25 Sep 2026 08:03:54 GMT",
-      "title": "Gore Street Energy Storage Fund to remain public following vote against selling"
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/10/09/powerchina-switches-on-1-gw-pv-csp-hybrid-plant-in-northwestern-china/",
+      "published": "Fri, 09 Oct 2026 09:32:27 +0000",
+      "title": "PowerChina switches on 1 GW PV-CSP hybrid plant in northwestern China"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/08/global-pv-oversupply-accelerates-consolidation-regional-price-divergence/",
-      "published": "Thu, 08 Oct 2026 09:24:17 +0000",
-      "title": "Global PV oversupply accelerates consolidation, regional price divergence"
+      "link": "https://www.pv-magazine.com/2026/10/09/saj-electric-builds-global-image-with-relentless-energy-at-its-core/",
+      "published": "Fri, 09 Oct 2026 09:00:00 +0000",
+      "title": "SAJ Electric builds global image with “Relentless Energy” at its core"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/08/hungary-extends-deadline-for-troubled-eu-funded-residential-solar-scheme/",
-      "published": "Thu, 08 Oct 2026 09:00:00 +0000",
-      "title": "Hungary extends deadline for troubled EU-funded residential solar scheme"
+      "link": "https://www.pv-magazine.com/2026/10/09/canada-offers-heat-pump-rebates-of-up-to-cad-10000/",
+      "published": "Fri, 09 Oct 2026 08:33:15 +0000",
+      "title": "Canada offers heat pump rebates of up to CAD 10,000"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/08/an-energy-first-cybersecurity-platform-for-solar-storage-and-the-grid/",
-      "published": "Thu, 08 Oct 2026 08:30:00 +0000",
-      "title": "An energy-first cybersecurity platform for solar, storage and the grid"
+      "link": "https://www.pv-magazine.com/2026/10/09/netherlands-plans-mandatory-switch-to-hybrid-heat-pumps/",
+      "published": "Fri, 09 Oct 2026 08:32:50 +0000",
+      "title": "Netherlands plans mandatory switch to hybrid heat pumps"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/08/research-community-reaches-consensus-on-testing-indoor-photovoltaics/",
-      "published": "Thu, 08 Oct 2026 08:00:00 +0000",
-      "title": "Research community reaches consensus on testing indoor photovoltaics"
+      "link": "https://www.pv-magazine.com/2026/10/09/french-solar-tender-prices-drop-sharply-in-latest-rounds/",
+      "published": "Fri, 09 Oct 2026 07:26:46 +0000",
+      "title": "French solar tender prices drop sharply in latest rounds"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/08/brilliant-matters-heiq-plan-to-commercialize-12-efficient-semi-transparent-organic-solar-cells/",
-      "published": "Thu, 08 Oct 2026 07:30:00 +0000",
-      "title": "Brilliant Matters, HeiQ plan to commercialize 12%-efficient semi-transparent organic solar cells"
+      "link": "https://www.pv-magazine.com/2026/10/09/thermal-energy-storage-delivers-industrial-heat-but-can-solve-grid-issues-too/",
+      "published": "Fri, 09 Oct 2026 06:55:00 +0000",
+      "title": "Thermal energy storage delivers industrial heat but can solve grid issues too"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/08/how-to-integrate-air-source-steam-generating-heat-pumps-with-pv-battery-storage/",
-      "published": "Thu, 08 Oct 2026 07:00:00 +0000",
-      "title": "How to integrate air-source steam-generating heat pumps with PV, battery storage"
+      "link": "https://www.pv-magazine.com/2026/10/08/everythings-bigger-in-texas/",
+      "published": "Thu, 08 Oct 2026 16:00:00 +0000",
+      "title": "Everything’s bigger in Texas"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/08/bangladesh-approves-442-mw-solar-project-with-eight-hour-battery-storage/",
-      "published": "Thu, 08 Oct 2026 06:30:00 +0000",
-      "title": "Bangladesh approves 442 MW solar project with eight-hour battery storage"
+      "link": "https://www.pv-magazine.com/2026/10/08/eu-expert-group-urges-curbs-on-high-risk-solar-suppliers/",
+      "published": "Thu, 08 Oct 2026 14:30:00 +0000",
+      "title": "EU expert group urges curbs on high-risk solar suppliers"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/08/high-defect-rates-drag-down-solar-performance-and-yield-finds-report/",
-      "published": "Thu, 08 Oct 2026 06:00:00 +0000",
-      "title": "High defect rates drag down solar performance and yield, finds report"
+      "link": "https://www.pv-magazine.com/2026/10/08/south-africa-to-procure-4-6-gw-of-battery-storage/",
+      "published": "Thu, 08 Oct 2026 14:14:39 +0000",
+      "title": "South Africa to procure 4.6 GW of battery storage"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/08/rooftop-installs-rise-on-back-of-battery-rebate-scheme/",
-      "published": "Thu, 08 Oct 2026 03:22:09 +0000",
-      "title": "Australia’s rooftop installs rise on back of battery rebate scheme"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/07/toyo-cuts-the-ribbon-on-its-newly-expanded-solar-factory-in-texas/",
-      "published": "Wed, 07 Oct 2026 15:37:43 +0000",
-      "title": "Toyo cuts the ribbon on its newly-expanded solar factory in Texas"
+      "link": "https://www.pv-magazine.com/2026/10/08/sungrow-patches-isolarcloud-vulnerability-after-security-researchers-gain-access/",
+      "published": "Thu, 08 Oct 2026 12:00:00 +0000",
+      "title": "Sungrow patches iSolarCloud vulnerability after security researchers gain access"
     }
   ],
   "policy": "RSS metadata only: title, link, date, attribution",
