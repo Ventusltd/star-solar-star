@@ -2,6 +2,18 @@
   "entries": [
     {
       "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/solar-planning/large-scale-solar-plant-in-nottinghamshire-approved-by-government-second-one-this-week",
+      "published": "Fri, 09 Oct 2026 15:03:46 GMT",
+      "title": "Large-scale solar plant in Nottinghamshire approved by government, second one this week"
+    },
+    {
+      "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/utility-scale-solar/scottish-council-approves-40mw-kirknewton-solar-plus-storage-project",
+      "published": "Fri, 09 Oct 2026 11:54:22 GMT",
+      "title": "Scottish council approves 40MW Kirknewton solar-plus-storage project"
+    },
+    {
+      "attribution": "Solar Power Portal",
       "link": "https://www.solarpowerportal.co.uk/utility-scale-solar/fahnbulleh-consents-major-500mw-solar-plant-plans-for-northamptonshire",
       "published": "Thu, 08 Oct 2026 12:46:30 GMT",
       "title": "Fahnbulleh consents major 500MW solar plant plans for Northamptonshire"
@@ -109,76 +121,64 @@
       "title": "Elgin acquires 200MW Irish solar PV plant"
     },
     {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/utility-scale-solar/low-carbon-reveals-plans-for-next-uk-solar-nsip",
-      "published": "Mon, 28 Sep 2026 10:37:41 GMT",
-      "title": "Low Carbon reveals plans for next UK solar NSIP"
-    },
-    {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/battery-storage/uk-energy-storage-flexibility-agreements-announced",
-      "published": "Mon, 28 Sep 2026 10:23:21 GMT",
-      "title": "UK energy storage, flexibility agreements announced"
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/10/10/sunbooster-secures-european-patent-for-bifacial-photovoltaic-fences/",
+      "published": "Sat, 10 Oct 2026 08:30:00 +0000",
+      "title": "Sunbooster secures European patent for bifacial photovoltaic fences"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/09/powerchina-switches-on-1-gw-pv-csp-hybrid-plant-in-northwestern-china/",
-      "published": "Fri, 09 Oct 2026 09:32:27 +0000",
-      "title": "PowerChina switches on 1 GW PV-CSP hybrid plant in northwestern China"
+      "link": "https://www.pv-magazine.com/2026/10/10/beyond-gigawatts-why-leadership-decides-italys-energy-security/",
+      "published": "Sat, 10 Oct 2026 08:00:00 +0000",
+      "title": "Why leadership decides Italy’s energy security"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/09/saj-electric-builds-global-image-with-relentless-energy-at-its-core/",
-      "published": "Fri, 09 Oct 2026 09:00:00 +0000",
-      "title": "SAJ Electric builds global image with “Relentless Energy” at its core"
+      "link": "https://www.pv-magazine.com/2026/10/10/more-than-70-of-announced-u-s-solar-manufacturing-expansion-plans-yet-to-be-financed/",
+      "published": "Sat, 10 Oct 2026 07:00:00 +0000",
+      "title": "More than 70% of announced U.S. solar manufacturing expansion plans yet to be financed"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/09/canada-offers-heat-pump-rebates-of-up-to-cad-10000/",
-      "published": "Fri, 09 Oct 2026 08:33:15 +0000",
-      "title": "Canada offers heat pump rebates of up to CAD 10,000"
+      "link": "https://www.pv-magazine.com/2026/10/10/beyond-gigawatts-why-indias-clean-energy-future-depends-on-storage-intelligence/",
+      "published": "Sat, 10 Oct 2026 06:30:00 +0000",
+      "title": "Beyond gigawatts: Why India’s clean energy future depends on storage intelligence"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/09/netherlands-plans-mandatory-switch-to-hybrid-heat-pumps/",
-      "published": "Fri, 09 Oct 2026 08:32:50 +0000",
-      "title": "Netherlands plans mandatory switch to hybrid heat pumps"
+      "link": "https://www.pv-magazine.com/2026/10/10/the-shape-of-ppas-is-changing-from-volume-to-value-are-you-positioned-to-capture-the-premium-in-emerging-nem-value-pools/",
+      "published": "Sat, 10 Oct 2026 06:00:00 +0000",
+      "title": "The shape of PPAs is changing – from volume to value"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/09/french-solar-tender-prices-drop-sharply-in-latest-rounds/",
-      "published": "Fri, 09 Oct 2026 07:26:46 +0000",
-      "title": "French solar tender prices drop sharply in latest rounds"
+      "link": "https://www.pv-magazine.com/2026/10/10/australia-backs-goal-of-150-million-new-rooftop-solar-systems-globally-by-2030/",
+      "published": "Sat, 10 Oct 2026 05:00:00 +0000",
+      "title": "Australia backs goal of 150 million new rooftop solar systems globally by 2030"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/09/thermal-energy-storage-delivers-industrial-heat-but-can-solve-grid-issues-too/",
-      "published": "Fri, 09 Oct 2026 06:55:00 +0000",
-      "title": "Thermal energy storage delivers industrial heat but can solve grid issues too"
+      "link": "https://www.pv-magazine.com/2026/10/10/can-beijing-end-the-race-to-the-bottom/",
+      "published": "Sat, 10 Oct 2026 04:00:00 +0000",
+      "title": "Can Beijing end the race to the bottom?"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/08/everythings-bigger-in-texas/",
-      "published": "Thu, 08 Oct 2026 16:00:00 +0000",
-      "title": "Everything’s bigger in Texas"
+      "link": "https://www.pv-magazine.com/2026/10/09/poly-pricing-and-potential-expansion/",
+      "published": "Fri, 09 Oct 2026 16:00:00 +0000",
+      "title": "Poly pricing and potential expansion"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/08/eu-expert-group-urges-curbs-on-high-risk-solar-suppliers/",
-      "published": "Thu, 08 Oct 2026 14:30:00 +0000",
-      "title": "EU expert group urges curbs on high-risk solar suppliers"
+      "link": "https://www.pv-magazine.com/2026/10/09/the-hydrogen-stream-dutch-researchers-calculate-green-h2-costs-as-low-as-e7-2-kg/",
+      "published": "Fri, 09 Oct 2026 12:50:49 +0000",
+      "title": "The Hydrogen Stream: Dutch researchers calculate green H2 costs as low as €7.2/kg"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/08/south-africa-to-procure-4-6-gw-of-battery-storage/",
-      "published": "Thu, 08 Oct 2026 14:14:39 +0000",
-      "title": "South Africa to procure 4.6 GW of battery storage"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/08/sungrow-patches-isolarcloud-vulnerability-after-security-researchers-gain-access/",
-      "published": "Thu, 08 Oct 2026 12:00:00 +0000",
-      "title": "Sungrow patches iSolarCloud vulnerability after security researchers gain access"
+      "link": "https://www.pv-magazine.com/2026/10/09/prices-drive-pakistans-metered-solar-outages-drive-hidden-uptake/",
+      "published": "Fri, 09 Oct 2026 12:50:00 +0000",
+      "title": "Prices drive Pakistan’s metered solar, outages drive hidden uptake"
     }
   ],
   "policy": "RSS metadata only: title, link, date, attribution",
