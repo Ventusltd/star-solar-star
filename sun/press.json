@@ -122,6 +122,18 @@
     },
     {
       "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/10/10/brazils-retail-electricity-market-opening-raises-credit-and-liquidity-concerns-study-finds/",
+      "published": "Sat, 10 Oct 2026 09:30:00 +0000",
+      "title": "Brazil’s retail electricity market opening raises credit and liquidity concerns, study finds"
+    },
+    {
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/10/10/austria-43300-applications-for-solar-subsidies-submitted-in-just-ten-minutes/",
+      "published": "Sat, 10 Oct 2026 09:00:00 +0000",
+      "title": "Austria: 43,300 applications for solar subsidies submitted in just ten minutes"
+    },
+    {
+      "attribution": "pv magazine International",
       "link": "https://www.pv-magazine.com/2026/10/10/sunbooster-secures-european-patent-for-bifacial-photovoltaic-fences/",
       "published": "Sat, 10 Oct 2026 08:30:00 +0000",
       "title": "Sunbooster secures European patent for bifacial photovoltaic fences"
@@ -167,18 +179,6 @@
       "link": "https://www.pv-magazine.com/2026/10/09/poly-pricing-and-potential-expansion/",
       "published": "Fri, 09 Oct 2026 16:00:00 +0000",
       "title": "Poly pricing and potential expansion"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/09/the-hydrogen-stream-dutch-researchers-calculate-green-h2-costs-as-low-as-e7-2-kg/",
-      "published": "Fri, 09 Oct 2026 12:50:49 +0000",
-      "title": "The Hydrogen Stream: Dutch researchers calculate green H2 costs as low as €7.2/kg"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/09/prices-drive-pakistans-metered-solar-outages-drive-hidden-uptake/",
-      "published": "Fri, 09 Oct 2026 12:50:00 +0000",
-      "title": "Prices drive Pakistan’s metered solar, outages drive hidden uptake"
     }
   ],
   "policy": "RSS metadata only: title, link, date, attribution",
