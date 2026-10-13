@@ -2,6 +2,24 @@
   "entries": [
     {
       "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/energy-storage/ofgem-locking-assets-out-ldes-cap-and-floor-support-would-have-perverse-outcome",
+      "published": "Tue, 13 Oct 2026 08:41:56 GMT",
+      "title": "Ofgem: Locking assets out of LDES cap-and-floor support would have ‘perverse outcome’"
+    },
+    {
+      "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/solar-investment/elgin-acquires-40mwp-baywa-solar-farm-in-ireland",
+      "published": "Mon, 12 Oct 2026 11:25:15 GMT",
+      "title": "Elgin acquires 40MWp Baywa r.e. solar farm in Ireland"
+    },
+    {
+      "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/solar-finance/european-energy-28-million-bedfordshire-solar-farm-construction",
+      "published": "Mon, 12 Oct 2026 09:46:44 GMT",
+      "title": "European Energy secures £28.8 million for Bedfordshire solar farm construction"
+    },
+    {
+      "attribution": "Solar Power Portal",
       "link": "https://www.solarpowerportal.co.uk/solar-planning/large-scale-solar-plant-in-nottinghamshire-approved-by-government-second-one-this-week",
       "published": "Fri, 09 Oct 2026 15:03:46 GMT",
       "title": "Large-scale solar plant in Nottinghamshire approved by government, second one this week"
@@ -103,82 +121,64 @@
       "title": "One week of extreme heat, two signals: what will it take to deliver long duration energy storage at scale?"
     },
     {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/energy-policy/andy-burnham-launches-great-british-grid-company-to-speed-connections",
-      "published": "Tue, 29 Sep 2026 14:32:38 GMT",
-      "title": "Andy Burnham launches Great British Grid company to speed connections"
-    },
-    {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/utility-scale-solar/octopus-invests-in-43mw-of-irish-solar-projects",
-      "published": "Tue, 29 Sep 2026 11:12:28 GMT",
-      "title": "Octopus invests in 43MW of Irish solar projects"
-    },
-    {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/utility-scale-solar/elgin-acquires-200mw-irish-solar-pv-plant",
-      "published": "Tue, 29 Sep 2026 08:55:34 GMT",
-      "title": "Elgin acquires 200MW Irish solar PV plant"
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/10/13/visionpark-unveils-new-foundation-free-solar-carport-for-residential-use/",
+      "published": "Tue, 13 Oct 2026 09:38:05 +0000",
+      "title": "Visionpark unveils new foundation-free solar carport for residential use"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/12/south-korea-details-auction-market-to-replace-renewable-quota-system/",
-      "published": "Mon, 12 Oct 2026 09:00:00 +0000",
-      "title": "South Korea details auction market to replace renewable quota system"
+      "link": "https://www.pv-magazine.com/2026/10/13/inside-bess-manufacturing-maxxens-utility-scale-storage-factory-in-europe-2/",
+      "published": "Tue, 13 Oct 2026 09:23:46 +0000",
+      "title": "Inside BESS manufacturing: Maxxen’s utility-scale storage factory in Europe"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/12/risen-releases-23-5-efficient-anti-glare-heterojunction-solar-module/",
-      "published": "Mon, 12 Oct 2026 07:04:22 +0000",
-      "title": "Risen releases 23.5%-efficient anti-glare heterojunction solar module"
+      "link": "https://www.pv-magazine.com/2026/10/13/catl-intilion-target-up-to-3-gwh-of-sodium-ion-storage-in-europe/",
+      "published": "Tue, 13 Oct 2026 09:21:26 +0000",
+      "title": "CATL, Intilion target up to 3 GWh of sodium-ion storage in Europe"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/12/ci-storage-the-sleeping-giant-waking-up-says-woodmac/",
-      "published": "Mon, 12 Oct 2026 06:26:29 +0000",
-      "title": "C&I storage the ‘sleeping giant waking up’, says WoodMac"
+      "link": "https://www.pv-magazine.com/2026/10/13/uv-down-shifting-layers-could-boost-topcon-solar-module-energy-yield-by-over-4/",
+      "published": "Tue, 13 Oct 2026 07:43:52 +0000",
+      "title": "UV down-shifting layers could boost TOPCon solar module energy yield by over 4%"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/12/anker-solix-announces-wheeled-power-station-with-4-5-kw-output/",
-      "published": "Mon, 12 Oct 2026 06:09:50 +0000",
-      "title": "Anker Solix announces wheeled power station with 4.5 kW output"
+      "link": "https://www.pv-magazine.com/2026/10/13/italys-solar-capacity-could-reach-137-gw-by-2040-grid-operators-say/",
+      "published": "Tue, 13 Oct 2026 05:19:16 +0000",
+      "title": "Italy’s solar capacity could reach 137 GW by 2040, grid operators say"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/12/batteries-beat-gas-peakers-on-cost-globally-but-u-s-faces-trade-headwinds/",
-      "published": "Mon, 12 Oct 2026 06:01:19 +0000",
-      "title": "Batteries beat gas peakers on cost globally, but U.S. faces trade headwinds"
+      "link": "https://www.pv-magazine.com/2026/10/13/distributed-solar-expected-to-reach-92-gw-by-2036/",
+      "published": "Tue, 13 Oct 2026 05:11:39 +0000",
+      "title": "Distributed solar expected to reach 92 GW by 2036"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/12/rooftop-solar-reaches-new-highs-across-nem/",
-      "published": "Mon, 12 Oct 2026 05:58:24 +0000",
-      "title": "Rooftop solar reaches new highs across Australia"
+      "link": "https://www.pv-magazine.com/2026/10/13/arena-pumps-32-3-million-into-solar-robotics-manufacturing-projects/",
+      "published": "Tue, 13 Oct 2026 05:02:33 +0000",
+      "title": "Australian-made PV installation and piling robots moving towards commercial-scale production"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/12/follow-the-money/",
-      "published": "Mon, 12 Oct 2026 04:00:00 +0000",
-      "title": "Follow the money"
+      "link": "https://www.pv-magazine.com/2026/10/13/design-for-all-climates/",
+      "published": "Tue, 13 Oct 2026 04:00:00 +0000",
+      "title": "Design for all climates"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/10/brazils-retail-electricity-market-opening-raises-credit-and-liquidity-concerns-study-finds/",
-      "published": "Sat, 10 Oct 2026 09:30:00 +0000",
-      "title": "Brazil’s retail electricity market opening raises credit and liquidity concerns, study finds"
+      "link": "https://www.pv-magazine.com/2026/10/12/france-defines-terms-for-long-term-capacity-auction/",
+      "published": "Mon, 12 Oct 2026 11:47:22 +0000",
+      "title": "France defines terms for long-term capacity auction"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/10/austria-43300-applications-for-solar-subsidies-submitted-in-just-ten-minutes/",
-      "published": "Sat, 10 Oct 2026 09:00:00 +0000",
-      "title": "Austria: 43,300 applications for solar subsidies submitted in just ten minutes"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/10/sunbooster-secures-european-patent-for-bifacial-photovoltaic-fences/",
-      "published": "Sat, 10 Oct 2026 08:30:00 +0000",
-      "title": "Sunbooster secures European patent for bifacial photovoltaic fences"
+      "link": "https://www.pv-magazine.com/2026/10/12/eskom-kicks-off-tender-for-6-gw-of-renewables-plus-storage/",
+      "published": "Mon, 12 Oct 2026 11:38:47 +0000",
+      "title": "Eskom kicks off tender for 6 GW of renewables-plus-storage"
     }
   ],
   "policy": "RSS metadata only: title, link, date, attribution",
