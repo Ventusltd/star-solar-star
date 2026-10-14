@@ -2,6 +2,12 @@
   "entries": [
     {
       "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/battery-storage/root-power-awards-contracts-for-three-bess-projects-totalling-50-million",
+      "published": "Tue, 13 Oct 2026 12:55:29 GMT",
+      "title": "Root-Power awards contracts for three BESS projects totalling £50 million"
+    },
+    {
+      "attribution": "Solar Power Portal",
       "link": "https://www.solarpowerportal.co.uk/energy-storage/ofgem-locking-assets-out-ldes-cap-and-floor-support-would-have-perverse-outcome",
       "published": "Tue, 13 Oct 2026 08:41:56 GMT",
       "title": "Ofgem: Locking assets out of LDES cap-and-floor support would have ‘perverse outcome’"
@@ -115,70 +121,64 @@
       "title": "Burnham’s GB Grid plan welcomed by industry, but success will be in the details"
     },
     {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/energy-storage/one-week-of-extreme-heat-two-signals-what-will-it-take-to-deliver-long-duration-energy-storage-at-scale-",
-      "published": "Wed, 30 Sep 2026 07:40:11 GMT",
-      "title": "One week of extreme heat, two signals: what will it take to deliver long duration energy storage at scale?"
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/10/14/ecoflow-launches-5-30-kwh-residential-storage-system/",
+      "published": "Wed, 14 Oct 2026 07:11:21 +0000",
+      "title": "EcoFlow launches 5-30 kWh residential storage system"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/13/visionpark-unveils-new-foundation-free-solar-carport-for-residential-use/",
-      "published": "Tue, 13 Oct 2026 09:38:05 +0000",
-      "title": "Visionpark unveils new foundation-free solar carport for residential use"
+      "link": "https://www.pv-magazine.com/2026/10/14/evx-unveils-australian-made-dc-fast-charger-for-evs/",
+      "published": "Wed, 14 Oct 2026 06:00:06 +0000",
+      "title": "EVX unveils Australian-made DC fast charger for EVs"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/13/inside-bess-manufacturing-maxxens-utility-scale-storage-factory-in-europe-2/",
-      "published": "Tue, 13 Oct 2026 09:23:46 +0000",
-      "title": "Inside BESS manufacturing: Maxxen’s utility-scale storage factory in Europe"
+      "link": "https://www.pv-magazine.com/2026/10/14/is-toyo-correct-the-u-s-is-done-building-modules/",
+      "published": "Wed, 14 Oct 2026 05:51:36 +0000",
+      "title": "Is TOYO correct – the U.S. is done building modules?"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/13/catl-intilion-target-up-to-3-gwh-of-sodium-ion-storage-in-europe/",
-      "published": "Tue, 13 Oct 2026 09:21:26 +0000",
-      "title": "CATL, Intilion target up to 3 GWh of sodium-ion storage in Europe"
+      "link": "https://www.pv-magazine.com/2026/10/14/smart-connections/",
+      "published": "Wed, 14 Oct 2026 04:00:00 +0000",
+      "title": "Smart connections"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/13/uv-down-shifting-layers-could-boost-topcon-solar-module-energy-yield-by-over-4/",
-      "published": "Tue, 13 Oct 2026 07:43:52 +0000",
-      "title": "UV down-shifting layers could boost TOPCon solar module energy yield by over 4%"
+      "link": "https://www.pv-magazine.com/2026/10/13/us-power-prices-fall-with-utility-scale-solar-rise-with-rooftop/",
+      "published": "Tue, 13 Oct 2026 12:50:00 +0000",
+      "title": "US power prices fall with utility-scale solar, rise with rooftop"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/13/italys-solar-capacity-could-reach-137-gw-by-2040-grid-operators-say/",
-      "published": "Tue, 13 Oct 2026 05:19:16 +0000",
-      "title": "Italy’s solar capacity could reach 137 GW by 2040, grid operators say"
+      "link": "https://www.pv-magazine.com/2026/10/13/leapting-launches-autonomous-forklift-for-solar-module-transport/",
+      "published": "Tue, 13 Oct 2026 12:35:27 +0000",
+      "title": "Leapting launches autonomous forklift for solar module transport"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/13/distributed-solar-expected-to-reach-92-gw-by-2036/",
-      "published": "Tue, 13 Oct 2026 05:11:39 +0000",
-      "title": "Distributed solar expected to reach 92 GW by 2036"
+      "link": "https://www.pv-magazine.com/2026/10/13/exide-launches-modular-125-kw-261-kwh-battery-for-ci-applications/",
+      "published": "Tue, 13 Oct 2026 12:01:23 +0000",
+      "title": "Exide launches modular 125 kW/261 kWh battery for C&I applications"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/13/arena-pumps-32-3-million-into-solar-robotics-manufacturing-projects/",
-      "published": "Tue, 13 Oct 2026 05:02:33 +0000",
-      "title": "Australian-made PV installation and piling robots moving towards commercial-scale production"
+      "link": "https://www.pv-magazine.com/2026/10/13/three-molecule-blend-boosts-inverted-perovskite-solar-cell-efficiency-to-27-5/",
+      "published": "Tue, 13 Oct 2026 11:52:54 +0000",
+      "title": "Three-molecule blend boosts inverted perovskite solar cell efficiency to 27.5%"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/13/design-for-all-climates/",
-      "published": "Tue, 13 Oct 2026 04:00:00 +0000",
-      "title": "Design for all climates"
+      "link": "https://www.pv-magazine.com/2026/10/13/stationary-moving-flexible-batteries-are-the-low-cost-backbone-of-the-future-energy-system/",
+      "published": "Tue, 13 Oct 2026 11:05:45 +0000",
+      "title": "Stationary, moving, flexible: Batteries are the low-cost backbone of the future energy system"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/12/france-defines-terms-for-long-term-capacity-auction/",
-      "published": "Mon, 12 Oct 2026 11:47:22 +0000",
-      "title": "France defines terms for long-term capacity auction"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/12/eskom-kicks-off-tender-for-6-gw-of-renewables-plus-storage/",
-      "published": "Mon, 12 Oct 2026 11:38:47 +0000",
-      "title": "Eskom kicks off tender for 6 GW of renewables-plus-storage"
+      "link": "https://www.pv-magazine.com/2026/10/13/european-ppa-prices-rise-5-in-september/",
+      "published": "Tue, 13 Oct 2026 10:42:55 +0000",
+      "title": "European PPA prices rise 5% in September"
     }
   ],
   "policy": "RSS metadata only: title, link, date, attribution",
