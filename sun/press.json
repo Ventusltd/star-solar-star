@@ -2,6 +2,18 @@
   "entries": [
     {
       "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/battery-storage/s4-energy-selects-habitat-energy-to-optimise-its-first-uk-bess",
+      "published": "Thu, 15 Oct 2026 09:52:14 GMT",
+      "title": "S4 Energy selects Habitat Energy to optimise its first UK BESS"
+    },
+    {
+      "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/solar-investment/octopus-investment-company-orit-takes-on-onpath-developed-west-yorkshire-solar-farm",
+      "published": "Thu, 15 Oct 2026 08:21:46 GMT",
+      "title": "Octopus investment company ORIT takes on OnPath-developed West Yorkshire solar farm"
+    },
+    {
+      "attribution": "Solar Power Portal",
       "link": "https://www.solarpowerportal.co.uk/energy-policy/national-wealth-fund-rema-uncertainty-opened-door-for-state-investment",
       "published": "Wed, 14 Oct 2026 08:24:17 GMT",
       "title": "National Wealth Fund: REMA uncertainty opened door for state investment"
@@ -109,76 +121,64 @@
       "title": "Great British Grid: where could it have the most impact?"
     },
     {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/solar-projects/forsa-energy-acquires-rtb-59mw-solar-pv-project-in-north-yorkshire",
-      "published": "Thu, 01 Oct 2026 12:03:20 GMT",
-      "title": "Forsa Energy acquires RtB 59MW solar PV project in North Yorkshire"
-    },
-    {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/solar-installations/uk-installs-record-291-000-new-solar-pv-installations-in-12-month-period",
-      "published": "Thu, 01 Oct 2026 10:43:10 GMT",
-      "title": "UK installs record 291,000 new solar PV installations in 12-month period"
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/10/16/chinese-polysilicon-producers-weigh-price-floor-output-cuts-amid-oversupply/",
+      "published": "Fri, 16 Oct 2026 07:17:06 +0000",
+      "title": "Chinese polysilicon producers weigh price floor, output cuts amid oversupply"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/15/mova-launches-residential-battery-with-integrated-ev-charging-management/",
-      "published": "Thu, 15 Oct 2026 06:13:28 +0000",
-      "title": "Mova launches residential battery with integrated EV charging management"
+      "link": "https://www.pv-magazine.com/2026/10/16/china-topcon-solar-cell-prices-edge-lower-after-golden-week-as-industry-weighs-price-floors/",
+      "published": "Fri, 16 Oct 2026 07:06:43 +0000",
+      "title": "China TOPCon solar cell prices edge lower after Golden Week as industry weighs price floors"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/15/scientists-develop-moth-eye-inspired-antireflective-surfaces-for-pv-modules/",
-      "published": "Thu, 15 Oct 2026 05:55:58 +0000",
-      "title": "Scientists develop moth-eye-inspired antireflective surfaces for PV modules"
+      "link": "https://www.pv-magazine.com/2026/10/16/lead-acid-battery-pilot-switched-on-at-victorian-university-testing-facility/",
+      "published": "Fri, 16 Oct 2026 06:13:29 +0000",
+      "title": "Lead-acid battery pilot switched on at Australian university testing facility"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/15/brazils-presidential-election-lula-and-bolsonaros-proposals-for-solar-energy/",
-      "published": "Thu, 15 Oct 2026 05:47:49 +0000",
-      "title": "Brazil’s presidential election: Lula and Bolsonaro’s proposals for solar energy"
+      "link": "https://www.pv-magazine.com/2026/10/16/texas-to-account-for-almost-half-of-domestic-u-s-silicon-module-production-in-2027/",
+      "published": "Fri, 16 Oct 2026 06:11:30 +0000",
+      "title": "Texas to account for almost half of domestic U.S. silicon module production in 2027"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/15/mexico-reports-6-86-gw-of-solar-pv-projects-in-development-pipeline/",
-      "published": "Thu, 15 Oct 2026 05:39:44 +0000",
-      "title": "Mexico reports 6.86 GW of solar PV projects in development pipeline"
+      "link": "https://www.pv-magazine.com/2026/10/16/module-feast-cell-famine/",
+      "published": "Fri, 16 Oct 2026 04:00:00 +0000",
+      "title": "Module feast, cell famine"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/15/el-salvador-announces-400-mw-solar-1-gwh-battery-storage-push/",
-      "published": "Thu, 15 Oct 2026 05:26:20 +0000",
-      "title": "El Salvador announces 400 MW solar, 1 GWh battery storage push"
+      "link": "https://www.pv-magazine.com/2026/10/15/chinas-first-100-mw-1000-mwh-compressed-co2-storage-plant-connects-to-grid/",
+      "published": "Thu, 15 Oct 2026 14:52:10 +0000",
+      "title": "China’s first 100 MW/1,000 MWh compressed CO2 storage plant connects to grid"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/15/solar-repowering-guide-shows-installers-how-to-tap-into-the-aging-rooftop-market/",
-      "published": "Thu, 15 Oct 2026 05:17:54 +0000",
-      "title": "Solar repowering guide shows installers how to tap into the aging rooftop market"
+      "link": "https://www.pv-magazine.com/2026/10/15/china-solar-down-29-everywhere-else-up-15/",
+      "published": "Thu, 15 Oct 2026 13:20:47 +0000",
+      "title": "BloombergNEF forecasts 584 GW of solar installations in 2026"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/15/up-the-ante-on-ambition-250-million-solar-sunshot-round-3-now-open/",
-      "published": "Thu, 15 Oct 2026 05:14:55 +0000",
-      "title": "Australia fosters PV innovation with $174 million fund"
+      "link": "https://www.pv-magazine.com/2026/10/15/new-image-dataset-aims-to-improve-ai-based-navigation-of-pv-cleaning-robots/",
+      "published": "Thu, 15 Oct 2026 12:45:15 +0000",
+      "title": "New image dataset aims to improve AI-based navigation of PV cleaning robots"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/15/pricing-indias-storage-demand-gap/",
-      "published": "Thu, 15 Oct 2026 04:00:00 +0000",
-      "title": "Pricing India’s storage demand gap"
+      "link": "https://www.pv-magazine.com/2026/10/15/octopus-energy-unveils-heat-pump-add-on-for-home-cooling/",
+      "published": "Thu, 15 Oct 2026 12:44:24 +0000",
+      "title": "Octopus Energy unveils heat pump add-on for home cooling"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/14/tunisia-launches-tender-for-50-mw-solar-pv-plant-with-10-mw-20-mwh-bess/",
-      "published": "Wed, 14 Oct 2026 13:42:24 +0000",
-      "title": "Tunisia launches tender for 50 MW solar PV plant with 10 MW/20 MWh BESS"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/14/europes-second-energy-crisis-largely-skipped-the-solar-hours/",
-      "published": "Wed, 14 Oct 2026 13:13:31 +0000",
-      "title": "Europe’s second energy crisis largely skipped the solar hours"
+      "link": "https://www.pv-magazine.com/2026/10/15/dutch-startup-offers-pv-mounting-solution-for-fragile-roofs/",
+      "published": "Thu, 15 Oct 2026 12:20:32 +0000",
+      "title": "Dutch startup offers PV mounting solution for fragile roofs"
     }
   ],
   "policy": "RSS metadata only: title, link, date, attribution",
