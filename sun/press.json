@@ -2,6 +2,18 @@
   "entries": [
     {
       "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/battery-storage/accure-ai-based-platform-to-provide-analytics-for-fidra-s-1-4gw-thorpe-marsh-bess",
+      "published": "Tue, 20 Oct 2026 08:34:06 GMT",
+      "title": "ACCURE AI-based platform to provide analytics for Fidra's 1.4GW Thorpe Marsh BESS"
+    },
+    {
+      "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/energy-policy/independent-investigation-no-evidence-neso-misconduct",
+      "published": "Tue, 20 Oct 2026 08:00:00 GMT",
+      "title": "Independent investigation finds no evidence of NESO misconduct"
+    },
+    {
+      "attribution": "Solar Power Portal",
       "link": "https://www.solarpowerportal.co.uk/battery-storage/ares-invests-in-1-9gw-of-statera-s-uk-battery-and-gas-portfolio-but-not-its-ldes-projects",
       "published": "Mon, 19 Oct 2026 10:30:47 GMT",
       "title": "Ares invests in 1.9GW of Statera’s UK battery and gas portfolio, but not its LDES projects"
@@ -109,76 +121,64 @@
       "title": "PACE wins appeal for 49.5MW solar plant in Gloucestershire"
     },
     {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/solar-planning/ofgem-allows-month-long-extension-to-grid-connection-offers",
-      "published": "Wed, 07 Oct 2026 08:34:33 GMT",
-      "title": "Ofgem allows month-long extension to grid connection offers"
-    },
-    {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/battery-storage/bw-ess-agrees-10-year-optimisation-agreement-with-danske-commodities-for-4-hour-uk-bess",
-      "published": "Tue, 06 Oct 2026 08:37:09 GMT",
-      "title": "BW ESS agrees 10-year optimisation agreement with Danske Commodities for 4-hour UK BESS"
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/10/21/hoymiles-releases-a-2000-kwh-ci-energy-storage-solution/",
+      "published": "Wed, 21 Oct 2026 07:30:00 +0000",
+      "title": "Hoymiles releases a 2,000 kWh C&I energy storage solution"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/20/uruguay-plans-99-mw-solar-tender-with-20-year-ppas/",
-      "published": "Tue, 20 Oct 2026 07:45:00 +0000",
-      "title": "Uruguay plans 99 MW solar tender with 20-year PPAs"
+      "link": "https://www.pv-magazine.com/2026/10/21/novel-pv-recycling-method-removes-eva-at-9-grams-per-second/",
+      "published": "Wed, 21 Oct 2026 05:00:58 +0000",
+      "title": "Novel PV recycling method removes EVA at 9 grams per second"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/20/solar-module-manufacturing-in-europe-ideal-factory-capacity-ranges-from-1-gw-to-3-gw/",
-      "published": "Tue, 20 Oct 2026 07:16:51 +0000",
-      "title": "Solar module manufacturing in Europe: Ideal factory capacity ranges from 1 GW to 3 GW"
+      "link": "https://www.pv-magazine.com/2026/10/21/peru-proposes-reviving-power-interconnection-with-chile-to-tap-its-solar-generation/",
+      "published": "Wed, 21 Oct 2026 04:55:54 +0000",
+      "title": "Peru proposes reviving power interconnection with Chile to tap its solar generation"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/20/italy-allocates-e770-million-for-505-mw-of-agricultural-rooftop-solar/",
-      "published": "Tue, 20 Oct 2026 07:00:00 +0000",
-      "title": "Italy allocates €770 million for 505 MW of agricultural rooftop solar"
+      "link": "https://www.pv-magazine.com/2026/10/21/the-bess-availability-case-depends-on-maintenance-string-vs-central-pcs-explored/",
+      "published": "Wed, 21 Oct 2026 04:39:38 +0000",
+      "title": "The BESS availability case depends on maintenance: String vs central PCS explored"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/20/dominican-republic-to-introduce-grid-usage-fee-for-distributed-pv/",
-      "published": "Tue, 20 Oct 2026 06:36:42 +0000",
-      "title": "Dominican Republic to introduce grid usage fee for distributed PV"
+      "link": "https://www.pv-magazine.com/2026/10/21/safety-by-design-pcs-considerations-in-mixed-pv-and-battery-energy-storage-systems/",
+      "published": "Wed, 21 Oct 2026 04:15:27 +0000",
+      "title": "Safety by design: PCS Considerations in mixed PV and battery energy storage systems"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/20/non-destructive-testing-tracks-polymer-degradation-in-pv-modules/",
-      "published": "Tue, 20 Oct 2026 06:29:41 +0000",
-      "title": "Non-destructive testing tracks polymer degradation in PV modules"
+      "link": "https://www.pv-magazine.com/2026/10/21/call-for-greater-focus-on-maintenance-as-rooftop-solar-fleet-grows/",
+      "published": "Wed, 21 Oct 2026 04:11:21 +0000",
+      "title": "Call for greater focus on maintenance as rooftop solar fleet grows in Australia"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/20/jinkosolar-unveils-510-w-rooftop-solar-module-with-25-5-efficiency-40-year-warranty/",
-      "published": "Tue, 20 Oct 2026 06:21:38 +0000",
-      "title": "JinkoSolar unveils 510 W rooftop solar module with 25.5% efficiency, 40-year warranty"
+      "link": "https://www.pv-magazine.com/2026/10/20/inverted-ambition-2/",
+      "published": "Tue, 20 Oct 2026 16:00:00 +0000",
+      "title": "Inverted ambition"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/20/china-proposes-stricter-efficiency-standards-for-solar-manufacturers/",
-      "published": "Tue, 20 Oct 2026 05:59:38 +0000",
-      "title": "China proposes stricter efficiency standards for solar manufacturers"
+      "link": "https://www.pv-magazine.com/2026/10/20/key-takeaways-from-intersolar-summit-romania/",
+      "published": "Tue, 20 Oct 2026 13:53:55 +0000",
+      "title": "Key takeaways from Intersolar Summit Romania"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/20/holosolis-secures-eu-innovation-fund-support-for-5-gw-solar-factory/",
-      "published": "Tue, 20 Oct 2026 05:45:32 +0000",
-      "title": "Holosolis secures EU Innovation Fund support for 5 GW solar factory"
+      "link": "https://www.pv-magazine.com/2026/10/20/taiwanese-pv-manufacturers-create-back-contact-topcon-alliance/",
+      "published": "Tue, 20 Oct 2026 12:30:00 +0000",
+      "title": "Taiwanese PV manufacturers create back-contact TOPCon alliance"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/20/the-rapidly-growing-business-of-solar-grazing/",
-      "published": "Tue, 20 Oct 2026 05:00:31 +0000",
-      "title": "The rapidly growing business of solar grazing"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/19/acme-solar-signs-ppa-with-seci-for-300-mw-1200-mwh-fdre-project-at-inr-6-kwh/",
-      "published": "Mon, 19 Oct 2026 12:37:19 +0000",
-      "title": "India’s ACME Solar signs 300 MW/1,200 MWh PPA at $0.063/kWh"
+      "link": "https://www.pv-magazine.com/2026/10/20/gcl-technology-moves-to-buy-lfp-cathode-maker-from-founders-group/",
+      "published": "Tue, 20 Oct 2026 12:30:00 +0000",
+      "title": "GCL Technology moves to buy LFP cathode maker from founder’s group"
     }
   ],
   "policy": "RSS metadata only: title, link, date, attribution",
