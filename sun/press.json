@@ -2,6 +2,18 @@
   "entries": [
     {
       "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/energy-policy/uk-government-approves-new-north-sea-gas-field-says-tax-revenue-will-fund-clean-energy",
+      "published": "Wed, 21 Oct 2026 14:46:59 GMT",
+      "title": "UK government approves new North Sea gas field, says tax revenue will fund clean energy"
+    },
+    {
+      "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/battery-storage/-rsted-completes-construction-of-600mwh-bess-econonergy-connects-120mwh-battery-storage-in-scotland",
+      "published": "Wed, 21 Oct 2026 08:24:54 GMT",
+      "title": "Ørsted completes 600MWh BESS, Econonergy connects 120MWh battery storage in Scotland"
+    },
+    {
+      "attribution": "Solar Power Portal",
       "link": "https://www.solarpowerportal.co.uk/battery-storage/accure-ai-based-platform-to-provide-analytics-for-fidra-s-1-4gw-thorpe-marsh-bess",
       "published": "Tue, 20 Oct 2026 08:34:06 GMT",
       "title": "ACCURE AI-based platform to provide analytics for Fidra's 1.4GW Thorpe Marsh BESS"
@@ -109,76 +121,64 @@
       "title": "Great British Energy continues Solar Stewardship Initiative work"
     },
     {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/energy-policy/bloombergnef-on-great-british-grid",
-      "published": "Wed, 07 Oct 2026 11:25:18 GMT",
-      "title": "Q&A: BloombergNEF on Great British Grid"
-    },
-    {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/solar-planning/pace-wins-appeal-for-49-5mw-solar-plant",
-      "published": "Wed, 07 Oct 2026 09:44:56 GMT",
-      "title": "PACE wins appeal for 49.5MW solar plant in Gloucestershire"
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/10/22/morocco-opens-pre-qualification-for-350-mw-of-solar/",
+      "published": "Thu, 22 Oct 2026 07:45:00 +0000",
+      "title": "Morocco opens pre-qualification for 350 MW of solar"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/21/hoymiles-releases-a-2000-kwh-ci-energy-storage-solution/",
-      "published": "Wed, 21 Oct 2026 07:30:00 +0000",
-      "title": "Hoymiles releases a 2,000 kWh C&I energy storage solution"
+      "link": "https://www.pv-magazine.com/2026/10/22/encavis-signs-first-solar-wind-ppa-with-spanish-supplier/",
+      "published": "Thu, 22 Oct 2026 07:00:00 +0000",
+      "title": "Encavis signs first solar-wind PPA with Spanish supplier"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/21/novel-pv-recycling-method-removes-eva-at-9-grams-per-second/",
-      "published": "Wed, 21 Oct 2026 05:00:58 +0000",
-      "title": "Novel PV recycling method removes EVA at 9 grams per second"
+      "link": "https://www.pv-magazine.com/2026/10/22/french-lawmakers-move-to-scrap-proposed-changes-to-solar-contracts/",
+      "published": "Thu, 22 Oct 2026 06:30:00 +0000",
+      "title": "French lawmakers move to scrap proposed changes to solar contracts"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/21/peru-proposes-reviving-power-interconnection-with-chile-to-tap-its-solar-generation/",
-      "published": "Wed, 21 Oct 2026 04:55:54 +0000",
-      "title": "Peru proposes reviving power interconnection with Chile to tap its solar generation"
+      "link": "https://www.pv-magazine.com/2026/10/22/china-outlines-new-spot-market-rules-supporting-renewable-energy-and-storage-integration/",
+      "published": "Thu, 22 Oct 2026 05:48:25 +0000",
+      "title": "China outlines new spot market rules supporting renewable energy and storage integration"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/21/the-bess-availability-case-depends-on-maintenance-string-vs-central-pcs-explored/",
-      "published": "Wed, 21 Oct 2026 04:39:38 +0000",
-      "title": "The BESS availability case depends on maintenance: String vs central PCS explored"
+      "link": "https://www.pv-magazine.com/2026/10/22/s-5-challenges-metal-roof-off-purlin-solar-mounting-assumptions/",
+      "published": "Thu, 22 Oct 2026 05:41:28 +0000",
+      "title": "S-5! challenges metal roof off-purlin solar mounting assumptions"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/21/safety-by-design-pcs-considerations-in-mixed-pv-and-battery-energy-storage-systems/",
-      "published": "Wed, 21 Oct 2026 04:15:27 +0000",
-      "title": "Safety by design: PCS Considerations in mixed PV and battery energy storage systems"
+      "link": "https://www.pv-magazine.com/2026/10/22/u-s-small-scale-solar-generation-quadrupled-over-the-last-decade/",
+      "published": "Thu, 22 Oct 2026 05:37:01 +0000",
+      "title": "U.S. distributed solar generation quadrupled over the last decade"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/21/call-for-greater-focus-on-maintenance-as-rooftop-solar-fleet-grows/",
-      "published": "Wed, 21 Oct 2026 04:11:21 +0000",
-      "title": "Call for greater focus on maintenance as rooftop solar fleet grows in Australia"
+      "link": "https://www.pv-magazine.com/2026/10/21/ebrd-led-lenders-back-1-2-gw-solar-600-mwh-storage-plant-in-egypt/",
+      "published": "Wed, 21 Oct 2026 13:00:00 +0000",
+      "title": "EBRD-led lenders back 1.2 GW solar, 600 MWh storage plant in Egypt"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/20/inverted-ambition-2/",
-      "published": "Tue, 20 Oct 2026 16:00:00 +0000",
-      "title": "Inverted ambition"
+      "link": "https://www.pv-magazine.com/2026/10/21/new-financing-models-needed-for-agrivoltaics/",
+      "published": "Wed, 21 Oct 2026 12:00:00 +0000",
+      "title": "New financing models needed for agrivoltaics"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/20/key-takeaways-from-intersolar-summit-romania/",
-      "published": "Tue, 20 Oct 2026 13:53:55 +0000",
-      "title": "Key takeaways from Intersolar Summit Romania"
+      "link": "https://www.pv-magazine.com/2026/10/21/construction-innovations-could-cut-gigawatt-scale-solar-costs-by-22/",
+      "published": "Wed, 21 Oct 2026 11:00:00 +0000",
+      "title": "Construction innovations could cut gigawatt-scale solar costs by 22%"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/20/taiwanese-pv-manufacturers-create-back-contact-topcon-alliance/",
-      "published": "Tue, 20 Oct 2026 12:30:00 +0000",
-      "title": "Taiwanese PV manufacturers create back-contact TOPCon alliance"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/20/gcl-technology-moves-to-buy-lfp-cathode-maker-from-founders-group/",
-      "published": "Tue, 20 Oct 2026 12:30:00 +0000",
-      "title": "GCL Technology moves to buy LFP cathode maker from founder’s group"
+      "link": "https://www.pv-magazine.com/2026/10/21/turkiye-allows-higher-powered-batteries-behind-existing-grid-connections/",
+      "published": "Wed, 21 Oct 2026 10:00:00 +0000",
+      "title": "Türkiye allows higher-powered batteries behind existing grid connections"
     }
   ],
   "policy": "RSS metadata only: title, link, date, attribution",
