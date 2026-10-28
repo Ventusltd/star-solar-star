@@ -2,6 +2,24 @@
   "entries": [
     {
       "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/utility-scale-solar/elgin-to-invest-400-million-in-230mw-solar-plus-storage-projects-in-the-uk",
+      "published": "Tue, 27 Oct 2026 11:42:22 GMT",
+      "title": "Elgin to invest £400 million in 230MW solar-plus-storage projects in the UK"
+    },
+    {
+      "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/solar-projects/enviromena-acquires-18-1mwp-cheshire-solar-project-from-anglo-renewables",
+      "published": "Tue, 27 Oct 2026 10:49:02 GMT",
+      "title": "Enviromena acquires 18.1MWp Cheshire solar project from Anglo Renewables"
+    },
+    {
+      "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/solar-planning/res-secures-planning-consents-for-ni-bess-scottish-solar",
+      "published": "Tue, 27 Oct 2026 09:22:38 GMT",
+      "title": "RES secures planning consents for NI BESS, Scottish solar"
+    },
+    {
+      "attribution": "Solar Power Portal",
       "link": "https://www.solarpowerportal.co.uk/energy-storage/national-wealth-fund-leads-invinity-energy-system-s-25-million-fundraise",
       "published": "Mon, 26 Oct 2026 11:39:41 GMT",
       "title": "National Wealth Fund leads Invinity Energy Systems' £25 million fundraise"
@@ -103,82 +121,64 @@
       "title": "National Wealth Fund: REMA uncertainty opened door for state investment"
     },
     {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/battery-storage/root-power-awards-contracts-for-three-bess-projects-totalling-50-million",
-      "published": "Tue, 13 Oct 2026 12:55:29 GMT",
-      "title": "Root-Power awards contracts for three BESS projects totalling £50 million"
-    },
-    {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/energy-storage/ofgem-locking-assets-out-ldes-cap-and-floor-support-would-have-perverse-outcome",
-      "published": "Tue, 13 Oct 2026 08:41:56 GMT",
-      "title": "Ofgem: Locking assets out of LDES cap-and-floor support would have ‘perverse outcome’"
-    },
-    {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/solar-investment/elgin-acquires-40mwp-baywa-solar-farm-in-ireland",
-      "published": "Mon, 12 Oct 2026 11:25:15 GMT",
-      "title": "Elgin acquires 40MWp Baywa r.e. solar farm in Ireland"
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/10/28/ricoh-announces-gw-scale-perovskite-solar-cell-production-in-japan/",
+      "published": "Wed, 28 Oct 2026 08:55:29 +0000",
+      "title": "Ricoh announces GW-scale perovskite solar cell production in Japan"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/27/chinese-scientists-seek-to-reduce-silver-consumption-in-copper-silver-metallization-pastes/",
-      "published": "Tue, 27 Oct 2026 08:00:00 +0000",
-      "title": "Chinese scientists seek to reduce silver consumption in copper–silver metallization pastes"
+      "link": "https://www.pv-magazine.com/2026/10/28/itaipu-studies-up-to-1-gw-of-solar-to-support-paraguays-power-grid/",
+      "published": "Wed, 28 Oct 2026 08:45:00 +0000",
+      "title": "Itaipu studies up to 1 GW of solar to support Paraguay’s power grid"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/27/trinasolar-targets-rooftops-with-australian-exclusive-full-black-module/",
-      "published": "Tue, 27 Oct 2026 07:49:13 +0000",
-      "title": "Trinasolar targets rooftops with ‘Australian-exclusive’ full-black module"
+      "link": "https://www.pv-magazine.com/2026/10/28/portugal-makes-grid-forming-mandatory-for-large-battery-storage-plants/",
+      "published": "Wed, 28 Oct 2026 08:34:03 +0000",
+      "title": "Portugal makes grid-forming mandatory for large battery storage plants"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/27/vikram-solar-advances-9-gw-topcon-cell-plant-in-gangaikondan-first-cells-expected-in-december/",
-      "published": "Tue, 27 Oct 2026 07:42:41 +0000",
-      "title": "Vikram Solar advances 9 GW TOPCon cell plant in India"
+      "link": "https://www.pv-magazine.com/2026/10/28/climate-change-could-boost-swedish-pv-generation-by-5/",
+      "published": "Wed, 28 Oct 2026 08:30:00 +0000",
+      "title": "Climate change could boost Swedish PV generation by 5%"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/27/a-brief-history-of-solar-in-the-u-s/",
-      "published": "Tue, 27 Oct 2026 07:30:00 +0000",
-      "title": "A brief history of US solar"
+      "link": "https://www.pv-magazine.com/2026/10/28/western-australia-to-allow-balcony-solar-plus-storage/",
+      "published": "Wed, 28 Oct 2026 08:28:21 +0000",
+      "title": "Western Australia to allow balcony solar-plus-storage"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/27/toshiba-pairs-20-minute-scib-power-type-battery-with-conventional-7-6-hour-bess-for-mongolian-grid/",
-      "published": "Tue, 27 Oct 2026 06:30:00 +0000",
-      "title": "Toshiba pairs 20-minute SCiB power-type battery with conventional 7.6-hour BESS for Mongolian grid"
+      "link": "https://www.pv-magazine.com/2026/10/28/avaada-unveils-745-wp-dcr-topcon-solar-module-at-rei-expo-2026/",
+      "published": "Wed, 28 Oct 2026 08:24:23 +0000",
+      "title": "Avaada unveils 745 W TOPCon solar module with 23.98% efficiency"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/27/floating-renewables-to-power-data-centers/",
-      "published": "Tue, 27 Oct 2026 05:00:00 +0000",
-      "title": "Floating renewables to power data centers"
+      "link": "https://www.pv-magazine.com/2026/10/28/us-state-opens-200-million-solar-storage-grant-program/",
+      "published": "Wed, 28 Oct 2026 08:15:03 +0000",
+      "title": "US state opens $200 million solar-storage grant program"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/26/indias-grid-capacity-puzzle/",
-      "published": "Mon, 26 Oct 2026 17:00:00 +0000",
-      "title": "India’s grid capacity puzzle"
+      "link": "https://www.pv-magazine.com/2026/10/28/unsw-study-finds-bushfire-risks-to-pv-assets-extend-far-beyond-direct-fire-damage/",
+      "published": "Wed, 28 Oct 2026 08:00:00 +0000",
+      "title": "UNSW study finds bushfire risks to PV assets extend far beyond direct fire damage"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/26/xpanner-launches-automated-pile-driver-to-speed-up-utility-scale-solar-energy-storage-installation/",
-      "published": "Mon, 26 Oct 2026 13:30:01 +0000",
-      "title": "Xpanner launches automated pile driver to speed up utility-scale solar, energy storage installation"
+      "link": "https://www.pv-magazine.com/2026/10/28/enerparc-attracts-non-binding-offers-in-insolvency-sale/",
+      "published": "Wed, 28 Oct 2026 07:30:00 +0000",
+      "title": "Enerparc attracts non-binding offers in insolvency sale"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/26/shakti-pumps-unveils-620-wp-topcon-solar-module-at-rei-expo-2026/",
-      "published": "Mon, 26 Oct 2026 11:57:40 +0000",
-      "title": "Shakti Pumps releases 620 W TOPCon solar module"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/26/citicore-secures-552-million-for-900-mw-solar-120-mwh-storage-portfolio-in-philippines/",
-      "published": "Mon, 26 Oct 2026 11:40:22 +0000",
-      "title": "Citicore secures $552 million for 900 MW solar, 120 MWh storage portfolio in Philippines"
+      "link": "https://www.pv-magazine.com/2026/10/28/distributed-outlook/",
+      "published": "Wed, 28 Oct 2026 05:00:00 +0000",
+      "title": "Distributed outlook"
     }
   ],
   "policy": "RSS metadata only: title, link, date, attribution",
