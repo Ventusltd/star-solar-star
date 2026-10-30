@@ -2,6 +2,12 @@
   "entries": [
     {
       "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/residential-solar/structural-due-diligence-the-overlooked-foundation-of-the-uk-s-solar-rooftop-boom",
+      "published": "Thu, 29 Oct 2026 14:20:50 GMT",
+      "title": "Structural due diligence: The overlooked foundation of the UK's solar rooftop boom"
+    },
+    {
+      "attribution": "Solar Power Portal",
       "link": "https://www.solarpowerportal.co.uk/energy-policy/uk-autumn-budget-energy-bill-reductions-a-priority-but-government-action-lukewarm-at-best-",
       "published": "Thu, 29 Oct 2026 08:33:04 GMT",
       "title": "UK Autumn Budget: Energy bill reductions a priority, but government action ‘lukewarm at best’"
@@ -115,70 +121,64 @@
       "title": "UK energy policy decoupled from Clean Power 2030 as affordability and politics take precedence"
     },
     {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/battery-storage/s4-energy-selects-habitat-energy-to-optimise-its-first-uk-bess",
-      "published": "Thu, 15 Oct 2026 09:52:14 GMT",
-      "title": "S4 Energy selects Habitat Energy to optimise its first UK BESS"
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/10/30/acme-solar-signs-400-mw-firm-renewable-power-deal-in-india/",
+      "published": "Fri, 30 Oct 2026 08:45:00 +0000",
+      "title": "ACME Solar signs 400 MW firm renewable power deal in India"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/29/heat-pump-grant-survives-new-loans-for-solar-and-battery-storage-in-uk-budget/",
-      "published": "Thu, 29 Oct 2026 08:45:00 +0000",
-      "title": "Heat pump grant survives, new loans for solar and battery storage in UK Budget"
+      "link": "https://www.pv-magazine.com/2026/10/30/italian-government-rejects-468-mw-of-solar-projects/",
+      "published": "Fri, 30 Oct 2026 08:00:00 +0000",
+      "title": "Italian government rejects 468 MW of solar projects"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/29/researchers-improve-heating-uniformity-in-pv-module-laminators/",
-      "published": "Thu, 29 Oct 2026 08:00:00 +0000",
-      "title": "Researchers improve heating uniformity in PV module laminators"
+      "link": "https://www.pv-magazine.com/2026/10/30/french-solar-car-park-rollout-falls-short-of-legal-deadline/",
+      "published": "Fri, 30 Oct 2026 07:30:00 +0000",
+      "title": "French solar car park rollout falls short of legal deadline"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/29/renault-edf-plan-vehicle-to-grid-charging-offer-for-2027/",
-      "published": "Thu, 29 Oct 2026 07:30:00 +0000",
-      "title": "Renault, EDF plan vehicle-to-grid charging offer for 2027"
+      "link": "https://www.pv-magazine.com/2026/10/30/us-policy-tests-pv-adaptability/",
+      "published": "Fri, 30 Oct 2026 05:00:00 +0000",
+      "title": "US policy tests PV adaptability"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/29/chilean-solar-plant-offline-for-two-months-following-cyberattack/",
-      "published": "Thu, 29 Oct 2026 06:23:53 +0000",
-      "title": "Chilean solar plant offline for two months following cyberattack"
+      "link": "https://www.pv-magazine.com/2026/10/29/government-backs-indian-floating-solar/",
+      "published": "Thu, 29 Oct 2026 17:00:00 +0000",
+      "title": "Government backs Indian floating solar"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/29/what-11-islands-reveal-about-the-real-bottleneck-in-renewable-mini-grids/",
-      "published": "Thu, 29 Oct 2026 06:07:25 +0000",
-      "title": "What 11 islands reveal about the real bottleneck in renewable mini-grids"
+      "link": "https://www.pv-magazine.com/2026/10/29/gallium-doped-zinc-oxide-enables-24-92-efficient-hjt-solar-cell/",
+      "published": "Thu, 29 Oct 2026 16:45:00 +0000",
+      "title": "Gallium-doped zinc oxide enables 24.92%-efficient HJT solar cell"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/29/dji-power-launches-new-auro-2000-elite-as-its-most-compact-2-kwh-power-station/",
-      "published": "Thu, 29 Oct 2026 05:56:46 +0000",
-      "title": "DJI Power launches new Auro 2000 Elite as its most compact 2 kWh power station"
+      "link": "https://www.pv-magazine.com/2026/10/29/first-solar-opens-1-7-gw-module-plant-in-south-carolina/",
+      "published": "Thu, 29 Oct 2026 16:30:00 +0000",
+      "title": "First Solar opens 1.7 GW module plant in South Carolina"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/29/dartsolar-unveils-expandable-vehicle-solar-array-with-up-to-2000-w-output/",
-      "published": "Thu, 29 Oct 2026 05:42:36 +0000",
-      "title": "DartSolar unveils expandable vehicle solar array with up to 2 kW output"
+      "link": "https://www.pv-magazine.com/2026/10/29/us-customs-releases-toyos-ethiopian-cells-as-duty-probe-continues/",
+      "published": "Thu, 29 Oct 2026 14:26:03 +0000",
+      "title": "US customs frees detained Ethiopian solar cells as duty probe continues"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/29/towable-80-kw-hydrogen-generator-brings-clean-power-off-grid/",
-      "published": "Thu, 29 Oct 2026 05:40:04 +0000",
-      "title": "Towable 80 kW hydrogen generator brings clean power off-grid"
+      "link": "https://www.pv-magazine.com/2026/10/29/researchers-develop-molecular-locking-strategy-for-organic-solar-cells/",
+      "published": "Thu, 29 Oct 2026 13:00:00 +0000",
+      "title": "Researchers develop molecular locking strategy for organic solar cells"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/29/anker-solix-s5000-deep-dive-review-5-kwh-on-wheels-tested-through-a-real-power-outage/",
-      "published": "Thu, 29 Oct 2026 05:37:49 +0000",
-      "title": "Anker Solix S5000 deep-dive review: 5 kWh on wheels, tested through a real power outage"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/29/racking-it-up-to-experience/",
-      "published": "Thu, 29 Oct 2026 05:00:00 +0000",
-      "title": "Racking it up to experience"
+      "link": "https://www.pv-magazine.com/2026/10/29/ground-mounted-solar-used-2798-hectares-of-land-in-italy-in-2025/",
+      "published": "Thu, 29 Oct 2026 12:00:00 +0000",
+      "title": "Ground-mounted solar used 2,798 hectares of land in Italy in 2025"
     }
   ],
   "policy": "RSS metadata only: title, link, date, attribution",
