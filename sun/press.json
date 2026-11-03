@@ -2,6 +2,24 @@
   "entries": [
     {
       "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/energy-storage/wave-of-bess-augmentation-financing-expected-in-a-few-years",
+      "published": "Mon, 02 Nov 2026 15:01:50 GMT",
+      "title": "Wave of BESS augmentation financing expected in a few years"
+    },
+    {
+      "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/solar-projects/brookfield-owned-onpath-energy-reaches-financial-close-on-first-solar-plus-storage-project",
+      "published": "Mon, 02 Nov 2026 10:47:00 GMT",
+      "title": "Brookfield-owned OnPath Energy reaches financial close on first solar-plus-storage project"
+    },
+    {
+      "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/battery-storage/bw-ess-puts-1-24gwh-bess-europe-s-largest-into-commercial-operation",
+      "published": "Mon, 02 Nov 2026 10:07:02 GMT",
+      "title": "BW ESS puts 1.24GWh BESS, Europe’s largest, into commercial operation"
+    },
+    {
+      "attribution": "Solar Power Portal",
       "link": "https://www.solarpowerportal.co.uk/solar-finance/blackfinch-urbanchain-sign-supply-and-distribution-agreement-for-15mw-of-welsh-solar-pv",
       "published": "Fri, 30 Oct 2026 15:16:28 GMT",
       "title": "Blackfinch, UrbanChain sign supply and distribution agreement for 15MW of Welsh solar PV"
@@ -94,7 +112,7 @@
       "attribution": "Solar Power Portal",
       "link": "https://www.solarpowerportal.co.uk/battery-storage/-rsted-completes-construction-of-600mwh-bess-econonergy-connects-120mwh-battery-storage-in-scotland",
       "published": "Wed, 21 Oct 2026 08:24:54 GMT",
-      "title": "Ørsted completes 600MWh BESS, Econonergy connects 120MWh battery storage in Scotland"
+      "title": "Ørsted completes 600MWh BESS, Econergy connects 120MWh battery storage in Scotland"
     },
     {
       "attribution": "Solar Power Portal",
@@ -103,82 +121,64 @@
       "title": "ACCURE AI-based platform to provide analytics for Fidra's 1.4GW Thorpe Marsh BESS"
     },
     {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/energy-policy/independent-investigation-no-evidence-neso-misconduct",
-      "published": "Tue, 20 Oct 2026 08:00:00 GMT",
-      "title": "Independent investigation finds no evidence of NESO misconduct"
-    },
-    {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/battery-storage/ares-invests-in-1-9gw-of-statera-s-uk-battery-and-gas-portfolio-but-not-its-ldes-projects",
-      "published": "Mon, 19 Oct 2026 10:30:47 GMT",
-      "title": "Ares invests in 1.9GW of Statera’s UK battery and gas portfolio, but not its LDES projects"
-    },
-    {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/energy-storage/foresight-invests-in-40gwh-ldes-cap-and-floor-winning-pumped-hydro-project-in-scotland",
-      "published": "Mon, 19 Oct 2026 09:34:30 GMT",
-      "title": "Foresight invests in 40GWh LDES cap-and-floor winning pumped hydro project in Scotland"
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/11/03/hybrid-wind-solar-battery-plants-can-power-kazakhstans-demand-growth/",
+      "published": "Tue, 03 Nov 2026 09:54:48 +0000",
+      "title": "Hybrid wind-solar-battery plants can power Kazakhstan’s demand growth"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/02/pakistan-seeks-consultant-for-distributed-solar-project/",
-      "published": "Mon, 02 Nov 2026 09:22:53 +0000",
-      "title": "Pakistan seeks consultant for distributed solar project"
+      "link": "https://www.pv-magazine.com/2026/11/03/planar-heat-pipes-reduce-peak-temperatures-by-up-to-32-c-in-pv-cooling-tests/",
+      "published": "Tue, 03 Nov 2026 09:53:48 +0000",
+      "title": "Planar heat pipes reduce peak temperatures by up to 32 C in PV cooling tests"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/02/retractable-photovoltaics-for-wastewater-treatment/",
-      "published": "Mon, 02 Nov 2026 08:28:40 +0000",
-      "title": "Retractable photovoltaics for wastewater treatment"
+      "link": "https://www.pv-magazine.com/2026/11/03/vaillant-unveils-20-kw-propane-heat-pump-for-large-buildings/",
+      "published": "Tue, 03 Nov 2026 09:48:20 +0000",
+      "title": "Vaillant unveils 20 kW propane heat pump for large buildings"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/02/longi-unveils-690-w-back-contact-solar-module-with-25-54-efficiency/",
-      "published": "Mon, 02 Nov 2026 08:19:20 +0000",
-      "title": "Longi unveils 690 W back-contact solar module with 25.54% efficiency"
+      "link": "https://www.pv-magazine.com/2026/11/03/batteries-to-dominate-belgiums-capacity-remuneration-mechanism/",
+      "published": "Tue, 03 Nov 2026 08:39:20 +0000",
+      "title": "Batteries to dominate Belgium’s capacity remuneration mechanism"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/02/mach-launches-tier-1-autonomous-solar-mowing-solution-for-utility-scale-fleets/",
-      "published": "Mon, 02 Nov 2026 08:12:18 +0000",
-      "title": "Mach launches Tier-1 autonomous solar mowing solution for utility-scale fleets"
+      "link": "https://www.pv-magazine.com/2026/11/03/fraunhofer-ise-spin-off-repurposes-used-e-scooter-batteries-for-ci-storage/",
+      "published": "Tue, 03 Nov 2026 08:35:52 +0000",
+      "title": "Fraunhofer ISE spin-off repurposes used e-scooter batteries for C&I storage"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/02/outer-space-debuts-solar-pavilion-with-hidden-battery-storage-decking/",
-      "published": "Mon, 02 Nov 2026 08:08:55 +0000",
-      "title": "Outer Space debuts solar pavilion with hidden battery storage decking"
+      "link": "https://www.pv-magazine.com/2026/11/03/japanese-developer-switches-on-solar-plus-storage-plant-with-327-oversizing-ratio/",
+      "published": "Tue, 03 Nov 2026 08:23:30 +0000",
+      "title": "Japanese developer switches on solar-plus-storage plant with 327% oversizing ratio"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/02/end-of-life-is-just-the-beginning/",
-      "published": "Mon, 02 Nov 2026 05:00:00 +0000",
-      "title": "End-of-life is just the beginning"
+      "link": "https://www.pv-magazine.com/2026/11/03/canadian-province-opens-tech-neutral-capacity-call-to-replace-coal/",
+      "published": "Tue, 03 Nov 2026 08:00:00 +0000",
+      "title": "Canadian province opens tech-neutral capacity call to replace coal"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/31/indian-pv-at-a-turning-point/",
-      "published": "Sat, 31 Oct 2026 05:00:00 +0000",
-      "title": "Indian PV at a turning point"
+      "link": "https://www.pv-magazine.com/2026/11/03/huawei-plans-5-to-15-price-increases-for-solar-storage-equipment/",
+      "published": "Tue, 03 Nov 2026 07:38:41 +0000",
+      "title": "Huawei plans 5% to 15% price increases for solar, storage equipment"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/30/forecasting-growth/",
-      "published": "Fri, 30 Oct 2026 17:00:00 +0000",
-      "title": "Forecasting growth"
+      "link": "https://www.pv-magazine.com/2026/11/03/grid-forming-vs-grid-following-in-residential-solar-plus-storage/",
+      "published": "Tue, 03 Nov 2026 07:03:32 +0000",
+      "title": "Grid-forming vs. grid-following in residential solar-plus-storage"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/30/first-solar-cuts-sales-forecast-as-tariff-uncertainty-slows-orders/",
-      "published": "Fri, 30 Oct 2026 16:15:00 +0000",
-      "title": "First Solar cuts sales forecast as tariff uncertainty slows orders"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/10/30/the-hydrogen-stream-finnish-researchers-increase-voltage-in-alkaline-systems-to-cut-costs-by-10-15/",
-      "published": "Fri, 30 Oct 2026 13:30:00 +0000",
-      "title": "The Hydrogen Stream: Finnish researchers increase voltage in alkaline systems to cut costs by 10-15%"
+      "link": "https://www.pv-magazine.com/2026/11/03/rayzon-solar-to-start-production-at-5-1-gw-topcon-cell-facility-in-december-plans-ingot-wafer-manufacturing-by-2028/",
+      "published": "Tue, 03 Nov 2026 06:51:17 +0000",
+      "title": "Rayzon Solar to start production at 5.1 GW TOPCon cell facility in December, plans ingot-wafer manufacturing by 2028"
     }
   ],
   "policy": "RSS metadata only: title, link, date, attribution",
