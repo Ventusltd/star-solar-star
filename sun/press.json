@@ -2,6 +2,24 @@
   "entries": [
     {
       "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/solar-thermal/mtc-invests-1-3-million-in-naked-energy-solar-thermal-installation-at-coventry-site",
+      "published": "Wed, 04 Nov 2026 10:13:21 GMT",
+      "title": "MTC and Naked Energy installing UK's largest solar thermal project at Coventry site"
+    },
+    {
+      "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/battery-storage/octopus-in-mou-with-catl-amperex-jv-ampace-for-home-battery-systems",
+      "published": "Tue, 03 Nov 2026 11:29:42 GMT",
+      "title": "Octopus explores home battery storage tech with CATL and Amperex"
+    },
+    {
+      "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/battery-storage/gresham-house-energy-storage-fund-launches-formal-sales-process",
+      "published": "Tue, 03 Nov 2026 10:13:40 GMT",
+      "title": "Gresham House Energy Storage Fund launches formal sales process"
+    },
+    {
+      "attribution": "Solar Power Portal",
       "link": "https://www.solarpowerportal.co.uk/energy-storage/wave-of-bess-augmentation-financing-expected-in-a-few-years",
       "published": "Mon, 02 Nov 2026 15:01:50 GMT",
       "title": "Wave of BESS augmentation financing expected in a few years"
@@ -103,82 +121,64 @@
       "title": "BW ESS secures financing for 3.5-hour 350MW Hams Hall BESS"
     },
     {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/energy-policy/uk-government-approves-new-north-sea-gas-field-says-tax-revenue-will-fund-clean-energy",
-      "published": "Wed, 21 Oct 2026 14:46:59 GMT",
-      "title": "UK government approves new North Sea gas field, says tax revenue will fund clean energy"
-    },
-    {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/battery-storage/-rsted-completes-construction-of-600mwh-bess-econonergy-connects-120mwh-battery-storage-in-scotland",
-      "published": "Wed, 21 Oct 2026 08:24:54 GMT",
-      "title": "Ørsted completes 600MWh BESS, Econergy connects 120MWh battery storage in Scotland"
-    },
-    {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/battery-storage/accure-ai-based-platform-to-provide-analytics-for-fidra-s-1-4gw-thorpe-marsh-bess",
-      "published": "Tue, 20 Oct 2026 08:34:06 GMT",
-      "title": "ACCURE AI-based platform to provide analytics for Fidra's 1.4GW Thorpe Marsh BESS"
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/11/05/korean-researchers-build-all-solid-battery-prototype-with-235-13-wh-l-energy-density/",
+      "published": "Thu, 05 Nov 2026 09:14:07 +0000",
+      "title": "Korean researchers build all-solid battery prototype with 235.13 Wh/L energy density"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/03/hybrid-wind-solar-battery-plants-can-power-kazakhstans-demand-growth/",
-      "published": "Tue, 03 Nov 2026 09:54:48 +0000",
-      "title": "Hybrid wind-solar-battery plants can power Kazakhstan’s demand growth"
+      "link": "https://www.pv-magazine.com/2026/11/05/tokyo-tests-solar-powered-hydrogen-production-at-high-rise-office-complex/",
+      "published": "Thu, 05 Nov 2026 09:10:59 +0000",
+      "title": "Tokyo tests solar-powered hydrogen production at high-rise office complex"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/03/planar-heat-pipes-reduce-peak-temperatures-by-up-to-32-c-in-pv-cooling-tests/",
-      "published": "Tue, 03 Nov 2026 09:53:48 +0000",
-      "title": "Planar heat pipes reduce peak temperatures by up to 32 C in PV cooling tests"
+      "link": "https://www.pv-magazine.com/2026/11/05/spain-approves-methodologies-to-strengthen-electricity-system-cybersecurity/",
+      "published": "Thu, 05 Nov 2026 08:03:56 +0000",
+      "title": "Spain approves methodologies to strengthen electricity system cybersecurity"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/03/vaillant-unveils-20-kw-propane-heat-pump-for-large-buildings/",
-      "published": "Tue, 03 Nov 2026 09:48:20 +0000",
-      "title": "Vaillant unveils 20 kW propane heat pump for large buildings"
+      "link": "https://www.pv-magazine.com/2026/11/05/johnson-controls-launches-industrial-ammonia-heat-pump/",
+      "published": "Thu, 05 Nov 2026 07:45:06 +0000",
+      "title": "Johnson Controls launches industrial ammonia heat pump"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/03/batteries-to-dominate-belgiums-capacity-remuneration-mechanism/",
-      "published": "Tue, 03 Nov 2026 08:39:20 +0000",
-      "title": "Batteries to dominate Belgium’s capacity remuneration mechanism"
+      "link": "https://www.pv-magazine.com/2026/11/05/researchers-recover-rooftop-pv-tilt-azimuth-from-power-data/",
+      "published": "Thu, 05 Nov 2026 07:14:36 +0000",
+      "title": "Researchers recover rooftop PV tilt, azimuth from power data"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/03/fraunhofer-ise-spin-off-repurposes-used-e-scooter-batteries-for-ci-storage/",
-      "published": "Tue, 03 Nov 2026 08:35:52 +0000",
-      "title": "Fraunhofer ISE spin-off repurposes used e-scooter batteries for C&I storage"
+      "link": "https://www.pv-magazine.com/2026/11/05/agricultural-solarisation-presents-116-gw-opportunity-for-indias-domestic-solar-manufacturing-industry-isma/",
+      "published": "Thu, 05 Nov 2026 07:08:02 +0000",
+      "title": "Agricultural solarisation presents 116 GW opportunity for India’s domestic solar manufacturing industry"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/03/japanese-developer-switches-on-solar-plus-storage-plant-with-327-oversizing-ratio/",
-      "published": "Tue, 03 Nov 2026 08:23:30 +0000",
-      "title": "Japanese developer switches on solar-plus-storage plant with 327% oversizing ratio"
+      "link": "https://www.pv-magazine.com/2026/11/05/ja-unveils-the-hypergen-pro-module-series-and-liquid-cooled-ci-energy-storage-system/",
+      "published": "Thu, 05 Nov 2026 07:00:12 +0000",
+      "title": "JA unveils 510 W back-contact PV module with 25.5% efficiency"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/03/canadian-province-opens-tech-neutral-capacity-call-to-replace-coal/",
-      "published": "Tue, 03 Nov 2026 08:00:00 +0000",
-      "title": "Canadian province opens tech-neutral capacity call to replace coal"
+      "link": "https://www.pv-magazine.com/2026/11/05/solar-ppa-prices-rose-in-q3-as-section-232-tariffs-began-to-take-effect-reports-levelten/",
+      "published": "Thu, 05 Nov 2026 06:41:44 +0000",
+      "title": "U.S. solar PPA prices rose in Q3 as Section 232 tariffs began to take effect"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/03/huawei-plans-5-to-15-price-increases-for-solar-storage-equipment/",
-      "published": "Tue, 03 Nov 2026 07:38:41 +0000",
-      "title": "Huawei plans 5% to 15% price increases for solar, storage equipment"
+      "link": "https://www.pv-magazine.com/2026/11/04/every-solar-plant-can-be-a-data-center/",
+      "published": "Wed, 04 Nov 2026 17:00:00 +0000",
+      "title": "‘Every solar plant can be a data center’"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/03/grid-forming-vs-grid-following-in-residential-solar-plus-storage/",
-      "published": "Tue, 03 Nov 2026 07:03:32 +0000",
-      "title": "Grid-forming vs. grid-following in residential solar-plus-storage"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/03/rayzon-solar-to-start-production-at-5-1-gw-topcon-cell-facility-in-december-plans-ingot-wafer-manufacturing-by-2028/",
-      "published": "Tue, 03 Nov 2026 06:51:17 +0000",
-      "title": "Rayzon Solar to start production at 5.1 GW TOPCon cell facility in December, plans ingot-wafer manufacturing by 2028"
+      "link": "https://www.pv-magazine.com/2026/11/04/shoals-and-array-announce-merger-plan-in-bid-to-create-one-stop-shop/",
+      "published": "Wed, 04 Nov 2026 14:36:19 +0000",
+      "title": "Shoals and Array announce merger plan in bid to create ‘one-stop shop’"
     }
   ],
   "policy": "RSS metadata only: title, link, date, attribution",
