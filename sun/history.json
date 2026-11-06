@@ -2,260 +2,6 @@
   "days": [
     {
       "complete": true,
-      "date": "2026-10-06",
-      "energy_mwh": 39088.21,
-      "installed_capacity_mwp": 23963.209,
-      "interval_minutes": 30,
-      "intervals": 48,
-      "peak_at_utc": "2026-10-06T11:00:00Z",
-      "peak_mw": 6610.06,
-      "seed_sha256": "d2b52e9c2e9ccf3b2877d5738a7728600eb887ef287b642d65f228cf7378494a",
-      "series": [
-        {
-          "generation_mw": 0.0,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-06T00:30:00Z"
-        },
-        {
-          "generation_mw": 0.0,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-06T01:00:00Z"
-        },
-        {
-          "generation_mw": 0.0,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-06T01:30:00Z"
-        },
-        {
-          "generation_mw": 0.0,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-06T02:00:00Z"
-        },
-        {
-          "generation_mw": 0.0,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-06T02:30:00Z"
-        },
-        {
-          "generation_mw": 0.0,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-06T03:00:00Z"
-        },
-        {
-          "generation_mw": 0.0,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-06T03:30:00Z"
-        },
-        {
-          "generation_mw": 0.0,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-06T04:00:00Z"
-        },
-        {
-          "generation_mw": 0.0,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-06T04:30:00Z"
-        },
-        {
-          "generation_mw": 0.0,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-06T05:00:00Z"
-        },
-        {
-          "generation_mw": 0.0,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-06T05:30:00Z"
-        },
-        {
-          "generation_mw": 0.0,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-06T06:00:00Z"
-        },
-        {
-          "generation_mw": 0.735,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-06T06:30:00Z"
-        },
-        {
-          "generation_mw": 130.509,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-06T07:00:00Z"
-        },
-        {
-          "generation_mw": 680.36,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-06T07:30:00Z"
-        },
-        {
-          "generation_mw": 1355.72,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-06T08:00:00Z"
-        },
-        {
-          "generation_mw": 1946.7,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-06T08:30:00Z"
-        },
-        {
-          "generation_mw": 2804.17,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-06T09:00:00Z"
-        },
-        {
-          "generation_mw": 3742.26,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-06T09:30:00Z"
-        },
-        {
-          "generation_mw": 4873.33,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-06T10:00:00Z"
-        },
-        {
-          "generation_mw": 5566.03,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-06T10:30:00Z"
-        },
-        {
-          "generation_mw": 6610.06,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-06T11:00:00Z"
-        },
-        {
-          "generation_mw": 6541.46,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-06T11:30:00Z"
-        },
-        {
-          "generation_mw": 6432.19,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-06T12:00:00Z"
-        },
-        {
-          "generation_mw": 6363.35,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-06T12:30:00Z"
-        },
-        {
-          "generation_mw": 6421.4,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-06T13:00:00Z"
-        },
-        {
-          "generation_mw": 5437.19,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-06T13:30:00Z"
-        },
-        {
-          "generation_mw": 5164.71,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-06T14:00:00Z"
-        },
-        {
-          "generation_mw": 4593.56,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-06T14:30:00Z"
-        },
-        {
-          "generation_mw": 3472.25,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-06T15:00:00Z"
-        },
-        {
-          "generation_mw": 2506.84,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-06T15:30:00Z"
-        },
-        {
-          "generation_mw": 1873.38,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-06T16:00:00Z"
-        },
-        {
-          "generation_mw": 1166.95,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-06T16:30:00Z"
-        },
-        {
-          "generation_mw": 459.183,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-06T17:00:00Z"
-        },
-        {
-          "generation_mw": 34.083,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-06T17:30:00Z"
-        },
-        {
-          "generation_mw": 0.0,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-06T18:00:00Z"
-        },
-        {
-          "generation_mw": 0.0,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-06T18:30:00Z"
-        },
-        {
-          "generation_mw": 0.0,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-06T19:00:00Z"
-        },
-        {
-          "generation_mw": 0.0,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-06T19:30:00Z"
-        },
-        {
-          "generation_mw": 0.0,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-06T20:00:00Z"
-        },
-        {
-          "generation_mw": 0.0,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-06T20:30:00Z"
-        },
-        {
-          "generation_mw": 0.0,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-06T21:00:00Z"
-        },
-        {
-          "generation_mw": 0.0,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-06T21:30:00Z"
-        },
-        {
-          "generation_mw": 0.0,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-06T22:00:00Z"
-        },
-        {
-          "generation_mw": 0.0,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-06T22:30:00Z"
-        },
-        {
-          "generation_mw": 0.0,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-06T23:00:00Z"
-        },
-        {
-          "generation_mw": 0.0,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-06T23:30:00Z"
-        },
-        {
-          "generation_mw": 0.0,
-          "installed_capacity_mwp": 23963.209,
-          "timestamp_utc": "2026-10-07T00:00:00Z"
-        }
-      ],
-      "timestamp_convention": "UTC interval end; day covers 00:30 through next 00:00"
-    },
-    {
-      "complete": true,
       "date": "2026-10-07",
       "energy_mwh": 31172.006,
       "installed_capacity_mwp": 23963.209,
@@ -7369,13 +7115,13 @@
     {
       "complete": true,
       "date": "2026-11-04",
-      "energy_mwh": 15178.094,
+      "energy_mwh": 15426.073,
       "installed_capacity_mwp": 23963.209,
       "interval_minutes": 30,
       "intervals": 48,
-      "peak_at_utc": "2026-11-04T11:00:00Z",
-      "peak_mw": 2784.96,
-      "seed_sha256": "6ad76e58defa6a53b6059246f2e835cfd3b45e2fdaea8d19685ab6203f82a3ca",
+      "peak_at_utc": "2026-11-04T13:00:00Z",
+      "peak_mw": 2791.56,
+      "seed_sha256": "05550f5a629cc9cb0c8f7ac91cd72e8e3f37ae3988fac0e39405904a5d6b9f60",
       "series": [
         {
           "generation_mw": 0.0,
@@ -7448,97 +7194,97 @@
           "timestamp_utc": "2026-11-04T07:00:00Z"
         },
         {
-          "generation_mw": 1.055,
+          "generation_mw": 1.521,
           "installed_capacity_mwp": 23963.209,
           "timestamp_utc": "2026-11-04T07:30:00Z"
         },
         {
-          "generation_mw": 87.932,
+          "generation_mw": 124.075,
           "installed_capacity_mwp": 23963.209,
           "timestamp_utc": "2026-11-04T08:00:00Z"
         },
         {
-          "generation_mw": 504.364,
+          "generation_mw": 631.029,
           "installed_capacity_mwp": 23963.209,
           "timestamp_utc": "2026-11-04T08:30:00Z"
         },
         {
-          "generation_mw": 1001.06,
+          "generation_mw": 1170.09,
           "installed_capacity_mwp": 23963.209,
           "timestamp_utc": "2026-11-04T09:00:00Z"
         },
         {
-          "generation_mw": 1691.51,
+          "generation_mw": 1757.77,
           "installed_capacity_mwp": 23963.209,
           "timestamp_utc": "2026-11-04T09:30:00Z"
         },
         {
-          "generation_mw": 2151.59,
+          "generation_mw": 2212.97,
           "installed_capacity_mwp": 23963.209,
           "timestamp_utc": "2026-11-04T10:00:00Z"
         },
         {
-          "generation_mw": 2607.06,
+          "generation_mw": 2527.11,
           "installed_capacity_mwp": 23963.209,
           "timestamp_utc": "2026-11-04T10:30:00Z"
         },
         {
-          "generation_mw": 2784.96,
+          "generation_mw": 2760.37,
           "installed_capacity_mwp": 23963.209,
           "timestamp_utc": "2026-11-04T11:00:00Z"
         },
         {
-          "generation_mw": 2670.9,
+          "generation_mw": 2694.66,
           "installed_capacity_mwp": 23963.209,
           "timestamp_utc": "2026-11-04T11:30:00Z"
         },
         {
-          "generation_mw": 2518.09,
+          "generation_mw": 2128.09,
           "installed_capacity_mwp": 23963.209,
           "timestamp_utc": "2026-11-04T12:00:00Z"
         },
         {
-          "generation_mw": 2561.04,
+          "generation_mw": 2635.56,
           "installed_capacity_mwp": 23963.209,
           "timestamp_utc": "2026-11-04T12:30:00Z"
         },
         {
-          "generation_mw": 2567.51,
+          "generation_mw": 2791.56,
           "installed_capacity_mwp": 23963.209,
           "timestamp_utc": "2026-11-04T13:00:00Z"
         },
         {
-          "generation_mw": 2570.84,
+          "generation_mw": 2747.9,
           "installed_capacity_mwp": 23963.209,
           "timestamp_utc": "2026-11-04T13:30:00Z"
         },
         {
-          "generation_mw": 2333.34,
+          "generation_mw": 2274.09,
           "installed_capacity_mwp": 23963.209,
           "timestamp_utc": "2026-11-04T14:00:00Z"
         },
         {
-          "generation_mw": 1899.11,
+          "generation_mw": 1837.73,
           "installed_capacity_mwp": 23963.209,
           "timestamp_utc": "2026-11-04T14:30:00Z"
         },
         {
-          "generation_mw": 1310.13,
+          "generation_mw": 1467.85,
           "installed_capacity_mwp": 23963.209,
           "timestamp_utc": "2026-11-04T15:00:00Z"
         },
         {
-          "generation_mw": 784.522,
+          "generation_mw": 842.024,
           "installed_capacity_mwp": 23963.209,
           "timestamp_utc": "2026-11-04T15:30:00Z"
         },
         {
-          "generation_mw": 282.428,
+          "generation_mw": 229.007,
           "installed_capacity_mwp": 23963.209,
           "timestamp_utc": "2026-11-04T16:00:00Z"
         },
         {
-          "generation_mw": 28.747,
+          "generation_mw": 18.739,
           "installed_capacity_mwp": 23963.209,
           "timestamp_utc": "2026-11-04T16:30:00Z"
         },
@@ -7616,6 +7362,260 @@
           "generation_mw": 0.0,
           "installed_capacity_mwp": 23963.209,
           "timestamp_utc": "2026-11-05T00:00:00Z"
+        }
+      ],
+      "timestamp_convention": "UTC interval end; day covers 00:30 through next 00:00"
+    },
+    {
+      "complete": true,
+      "date": "2026-11-05",
+      "energy_mwh": 7135.362,
+      "installed_capacity_mwp": 23963.209,
+      "interval_minutes": 30,
+      "intervals": 48,
+      "peak_at_utc": "2026-11-05T12:30:00Z",
+      "peak_mw": 1444.92,
+      "seed_sha256": "f04552731c5b4104d08e2e0ba6f3730cdd382f115d3a4899f2e5026235af7b95",
+      "series": [
+        {
+          "generation_mw": 0.0,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-05T00:30:00Z"
+        },
+        {
+          "generation_mw": 0.0,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-05T01:00:00Z"
+        },
+        {
+          "generation_mw": 0.0,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-05T01:30:00Z"
+        },
+        {
+          "generation_mw": 0.0,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-05T02:00:00Z"
+        },
+        {
+          "generation_mw": 0.0,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-05T02:30:00Z"
+        },
+        {
+          "generation_mw": 0.0,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-05T03:00:00Z"
+        },
+        {
+          "generation_mw": 0.0,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-05T03:30:00Z"
+        },
+        {
+          "generation_mw": 0.0,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-05T04:00:00Z"
+        },
+        {
+          "generation_mw": 0.0,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-05T04:30:00Z"
+        },
+        {
+          "generation_mw": 0.0,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-05T05:00:00Z"
+        },
+        {
+          "generation_mw": 0.0,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-05T05:30:00Z"
+        },
+        {
+          "generation_mw": 0.0,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-05T06:00:00Z"
+        },
+        {
+          "generation_mw": 0.0,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-05T06:30:00Z"
+        },
+        {
+          "generation_mw": 0.0,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-05T07:00:00Z"
+        },
+        {
+          "generation_mw": 0.153,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-05T07:30:00Z"
+        },
+        {
+          "generation_mw": 30.407,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-05T08:00:00Z"
+        },
+        {
+          "generation_mw": 191.633,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-05T08:30:00Z"
+        },
+        {
+          "generation_mw": 407.83,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-05T09:00:00Z"
+        },
+        {
+          "generation_mw": 620.551,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-05T09:30:00Z"
+        },
+        {
+          "generation_mw": 821.241,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-05T10:00:00Z"
+        },
+        {
+          "generation_mw": 1053.68,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-05T10:30:00Z"
+        },
+        {
+          "generation_mw": 1162.95,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-05T11:00:00Z"
+        },
+        {
+          "generation_mw": 1285.57,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-05T11:30:00Z"
+        },
+        {
+          "generation_mw": 1375.49,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-05T12:00:00Z"
+        },
+        {
+          "generation_mw": 1444.92,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-05T12:30:00Z"
+        },
+        {
+          "generation_mw": 1363.89,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-05T13:00:00Z"
+        },
+        {
+          "generation_mw": 1328.03,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-05T13:30:00Z"
+        },
+        {
+          "generation_mw": 1126.04,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-05T14:00:00Z"
+        },
+        {
+          "generation_mw": 952.348,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-05T14:30:00Z"
+        },
+        {
+          "generation_mw": 640.163,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-05T15:00:00Z"
+        },
+        {
+          "generation_mw": 332.088,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-05T15:30:00Z"
+        },
+        {
+          "generation_mw": 120.294,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-05T16:00:00Z"
+        },
+        {
+          "generation_mw": 13.446,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-05T16:30:00Z"
+        },
+        {
+          "generation_mw": 0.0,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-05T17:00:00Z"
+        },
+        {
+          "generation_mw": 0.0,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-05T17:30:00Z"
+        },
+        {
+          "generation_mw": 0.0,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-05T18:00:00Z"
+        },
+        {
+          "generation_mw": 0.0,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-05T18:30:00Z"
+        },
+        {
+          "generation_mw": 0.0,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-05T19:00:00Z"
+        },
+        {
+          "generation_mw": 0.0,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-05T19:30:00Z"
+        },
+        {
+          "generation_mw": 0.0,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-05T20:00:00Z"
+        },
+        {
+          "generation_mw": 0.0,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-05T20:30:00Z"
+        },
+        {
+          "generation_mw": 0.0,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-05T21:00:00Z"
+        },
+        {
+          "generation_mw": 0.0,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-05T21:30:00Z"
+        },
+        {
+          "generation_mw": 0.0,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-05T22:00:00Z"
+        },
+        {
+          "generation_mw": 0.0,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-05T22:30:00Z"
+        },
+        {
+          "generation_mw": 0.0,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-05T23:00:00Z"
+        },
+        {
+          "generation_mw": 0.0,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-05T23:30:00Z"
+        },
+        {
+          "generation_mw": 0.0,
+          "installed_capacity_mwp": 23963.209,
+          "timestamp_utc": "2026-11-06T00:00:00Z"
         }
       ],
       "timestamp_convention": "UTC interval end; day covers 00:30 through next 00:00"
