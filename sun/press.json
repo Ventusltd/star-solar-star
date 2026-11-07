@@ -2,6 +2,18 @@
   "entries": [
     {
       "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/solar-projects/recurrent-energy-starts-commercial-operations-at-20mwp-south-devon-solar-project",
+      "published": "Fri, 06 Nov 2026 10:47:15 GMT",
+      "title": "Recurrent Energy starts commercial operations at 20MWp South Devon solar project"
+    },
+    {
+      "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/solar-investment/first-community-funded-solar-plus-storage-plant-opens-for-investment",
+      "published": "Fri, 06 Nov 2026 10:28:33 GMT",
+      "title": "First community-funded solar-plus-storage plant opens for investment"
+    },
+    {
+      "attribution": "Solar Power Portal",
       "link": "https://www.solarpowerportal.co.uk/energy-policy/how-delay-to-next-cfd-auction-affects-uk-solar",
       "published": "Thu, 05 Nov 2026 14:20:04 GMT",
       "title": "How delay to next CfD auction affects UK solar"
@@ -109,76 +121,64 @@
       "title": "‘Sufficient supplies’: GB to have 9.5% buffer over peak demand this winter, NESO says in annual outlook"
     },
     {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/solar-pv/heatwaves-solar-energy-s-hidden-enemy",
-      "published": "Fri, 23 Oct 2026 10:45:44 GMT",
-      "title": "Heatwaves: Solar energy’s hidden enemy"
-    },
-    {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/solar-projects/uk-solar-approvals-progress-purchases",
-      "published": "Fri, 23 Oct 2026 09:25:29 GMT",
-      "title": "UK solar approvals, progress and purchases"
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/11/07/maintaining-trust-in-new-tech/",
+      "published": "Sat, 07 Nov 2026 09:00:00 +0000",
+      "title": "Maintaining trust in new tech"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/06/october-2026-good-for-pv-production-in-europe-but-south-of-france-and-ukraine-missout/",
-      "published": "Fri, 06 Nov 2026 09:46:53 +0000",
-      "title": "October 2026 good for PV Production in Europe, but South of France and Ukraine missout"
+      "link": "https://www.pv-magazine.com/2026/11/07/portable-solar-powered-system-produces-1-64-liters-of-drinking-water-in-8-hours/",
+      "published": "Sat, 07 Nov 2026 08:30:00 +0000",
+      "title": "Portable solar-powered system produces 1.64 liters of drinking water in 8 hours"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/06/turkiye-targets-175-gw-of-solar-wind-capacity-by-2040/",
-      "published": "Fri, 06 Nov 2026 09:24:58 +0000",
-      "title": "Türkiye targets 175 GW of solar, wind capacity by 2040"
+      "link": "https://www.pv-magazine.com/2026/11/07/researchers-unveil-10-56-kw-solar-powered-pleasure-boat/",
+      "published": "Sat, 07 Nov 2026 08:00:00 +0000",
+      "title": "Researchers develop 10.56 kW solar-powered pleasure boat"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/06/u-s-startup-secures-9-million-to-scale-production-of-22-33-efficient-perovskite-solar-modules/",
-      "published": "Fri, 06 Nov 2026 09:05:45 +0000",
-      "title": "U.S. startup secures $9 million to scale production of 22.33%-efficient perovskite solar modules"
+      "link": "https://www.pv-magazine.com/2026/11/07/study-finds-0-5-meter-spacing-between-solar-module-rows-improves-cooling-in-floating-pv-systems/",
+      "published": "Sat, 07 Nov 2026 07:30:00 +0000",
+      "title": "Study finds 0.5-meter spacing between solar module rows improves cooling in floating PV systems"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/06/longi-achieves-35-31-efficiency-in-perovskite-silicon-tandem-solar-cell-based-on-self-assembled-molecules/",
-      "published": "Fri, 06 Nov 2026 08:55:46 +0000",
-      "title": "Longi achieves 35.31% efficiency in perovskite-silicon tandem solar cell based on self-assembled molecules"
+      "link": "https://www.pv-magazine.com/2026/11/07/indias-installed-solar-pv-capacity-to-exceed-350-gw-by-2030-says-iea/",
+      "published": "Sat, 07 Nov 2026 07:00:00 +0000",
+      "title": "India’s installed solar PV capacity to exceed 350 GW by 2030, says IEA"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/06/spanish-companies-plan-district-heating-networks-powered-by-data-center-waste-heat/",
-      "published": "Fri, 06 Nov 2026 08:16:49 +0000",
-      "title": "Spanish companies plan district heating networks powered by data center waste heat"
+      "link": "https://www.pv-magazine.com/2026/11/07/beyond-scale-and-hardware/",
+      "published": "Sat, 07 Nov 2026 05:00:00 +0000",
+      "title": "Beyond scale and hardware"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/06/optimal-solar-module-tilt-angle-for-hail-protection-is-site-specific-researchers-find/",
-      "published": "Fri, 06 Nov 2026 07:55:16 +0000",
-      "title": "Optimal solar module tilt angle for hail protection is site-specific, researchers find"
+      "link": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/",
+      "published": "Fri, 06 Nov 2026 12:34:37 +0000",
+      "title": "Sodium-ion batteries approach cost parity with LFP, with 70 GWh covered by supply agreements"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/06/laser-based-recycling-method-enables-over-95-selective-silver-recovery-from-end-of-life-solar-panels/",
-      "published": "Fri, 06 Nov 2026 07:49:21 +0000",
-      "title": "Laser-based recycling method enables over 95% selective silver recovery from end-of-life solar panels"
+      "link": "https://www.pv-magazine.com/2026/11/06/the-hydrogen-stream-h2-turbines-can-push-lcohs-to-around-0-62-kg/",
+      "published": "Fri, 06 Nov 2026 12:29:09 +0000",
+      "title": "The Hydrogen Stream: H2 turbines can push LCOHS to around $0.62/kg"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/06/phnix-unveils-all-in-one-propane-heat-pump-with-6-kw-heating-capacity/",
-      "published": "Fri, 06 Nov 2026 07:35:28 +0000",
-      "title": "Phnix unveils all-in-one propane heat pump with 6 kW heating capacity"
+      "link": "https://www.pv-magazine.com/2026/11/06/chinese-pv-industry-brief-ja-longi-tongwei-report-widening-losses/",
+      "published": "Fri, 06 Nov 2026 12:16:25 +0000",
+      "title": "Chinese PV Industry Brief: JA, Longi, Tongwei report widening losses"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/06/china-wafer-prices-steady-on-firm-polysilicon-amid-weak-fundamentals/",
-      "published": "Fri, 06 Nov 2026 07:17:27 +0000",
-      "title": "China wafer prices steady on firm polysilicon amid weak fundamentals"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/06/ecoflow-launches-new-portable-power-station-series/",
-      "published": "Fri, 06 Nov 2026 07:05:09 +0000",
-      "title": "EcoFlow launches two new series of portable power stations"
+      "link": "https://www.pv-magazine.com/2026/11/06/soluxtec-resumes-topcon-solar-module-production-in-germany/",
+      "published": "Fri, 06 Nov 2026 12:06:13 +0000",
+      "title": "Soluxtec resumes TOPCon solar module production in Germany"
     }
   ],
   "policy": "RSS metadata only: title, link, date, attribution",
