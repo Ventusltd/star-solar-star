@@ -122,6 +122,24 @@
     },
     {
       "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/11/07/u-s-solar-developers-navigate-policy-stack-as-section-232-deadline-nears/",
+      "published": "Sat, 07 Nov 2026 10:50:00 +0000",
+      "title": "U.S. solar developers navigate policy stack as Section 232 deadline nears"
+    },
+    {
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/11/07/how-the-solar-industries-can-make-better-decisions-for-the-energy-transition/",
+      "published": "Sat, 07 Nov 2026 10:30:00 +0000",
+      "title": "How the Solar+ industries can make better decisions for the energy transition"
+    },
+    {
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/11/07/ecuadors-largest-pv-plant-goes-online/",
+      "published": "Sat, 07 Nov 2026 09:30:00 +0000",
+      "title": "Ecuador’s largest PV plant goes online"
+    },
+    {
+      "attribution": "pv magazine International",
       "link": "https://www.pv-magazine.com/2026/11/07/maintaining-trust-in-new-tech/",
       "published": "Sat, 07 Nov 2026 09:00:00 +0000",
       "title": "Maintaining trust in new tech"
@@ -161,24 +179,6 @@
       "link": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/",
       "published": "Fri, 06 Nov 2026 12:34:37 +0000",
       "title": "Sodium-ion batteries approach cost parity with LFP, with 70 GWh covered by supply agreements"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/06/the-hydrogen-stream-h2-turbines-can-push-lcohs-to-around-0-62-kg/",
-      "published": "Fri, 06 Nov 2026 12:29:09 +0000",
-      "title": "The Hydrogen Stream: H2 turbines can push LCOHS to around $0.62/kg"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/06/chinese-pv-industry-brief-ja-longi-tongwei-report-widening-losses/",
-      "published": "Fri, 06 Nov 2026 12:16:25 +0000",
-      "title": "Chinese PV Industry Brief: JA, Longi, Tongwei report widening losses"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/06/soluxtec-resumes-topcon-solar-module-production-in-germany/",
-      "published": "Fri, 06 Nov 2026 12:06:13 +0000",
-      "title": "Soluxtec resumes TOPCon solar module production in Germany"
     }
   ],
   "policy": "RSS metadata only: title, link, date, attribution",
