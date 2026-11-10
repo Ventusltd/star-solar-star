@@ -1,5 +1,5 @@
 {
-  "built_utc": "2026-11-09T10:16:02Z",
+  "built_utc": "2026-11-10T10:19:40Z",
   "globalgrid_commit": "35f07f9c0ef6bbdaae3c9f27f5a361118f49624f",
   "scans": {
     "solar_components": {
@@ -668,17 +668,17 @@
   "schema": "star-solar-star.provenance.v1",
   "sources": [
     {
-      "bytes": 75701,
-      "fetched_utc": "2026-11-09T10:16:02Z",
+      "bytes": 75713,
+      "fetched_utc": "2026-11-10T10:19:40Z",
       "kind": "api-json",
       "name": "Sheffield Solar PV Live national GSP 0",
-      "sha256": "2dad7f8d5d69cf2db63847d95ed7bc7a0e4ec32438f1fb3608463b9821b31197",
-      "url": "https://api.pvlive.uk/pvlive/api/v4/gsp/0?start=2026-10-10T00%3A30%3A00Z&end=2026-11-09T00%3A00%3A00Z&extra_fields=installedcapacity_mwp%2Ccapacity_mwp"
+      "sha256": "2e304e5643ab2f2cf37abcd75353c26b08035aac141289a0157a3d859bd28e73",
+      "url": "https://api.pvlive.uk/pvlive/api/v4/gsp/0?start=2026-10-11T00%3A30%3A00Z&end=2026-11-10T00%3A00%3A00Z&extra_fields=installedcapacity_mwp%2Ccapacity_mwp"
     },
     {
       "bytes": 20120,
       "commit": "35f07f9c0ef6bbdaae3c9f27f5a361118f49624f",
-      "fetched_utc": "2026-11-09T10:16:02Z",
+      "fetched_utc": "2026-11-10T10:19:40Z",
       "kind": "pinned-public-repository-file",
       "name": "GlobalGrid2050 geometry",
       "path": "scripts/gridbot_london_solar_daylight_geometry.py",
@@ -689,7 +689,7 @@
     {
       "bytes": 1108995,
       "commit": "35f07f9c0ef6bbdaae3c9f27f5a361118f49624f",
-      "fetched_utc": "2026-11-09T10:16:02Z",
+      "fetched_utc": "2026-11-10T10:19:40Z",
       "kind": "pinned-public-repository-file",
       "name": "GlobalGrid2050 podcast",
       "path": "podcast_transcripts/index.md",
@@ -700,7 +700,7 @@
     {
       "bytes": 979338,
       "commit": "35f07f9c0ef6bbdaae3c9f27f5a361118f49624f",
-      "fetched_utc": "2026-11-09T10:16:02Z",
+      "fetched_utc": "2026-11-10T10:19:40Z",
       "kind": "pinned-public-repository-file",
       "name": "GlobalGrid2050 pipeline",
       "path": "pipelinenews_intelligence/202609050309/data/202608270055-8ab1807551bc-v8-fast-projects.json",
@@ -711,7 +711,7 @@
     {
       "bytes": 5330,
       "commit": "35f07f9c0ef6bbdaae3c9f27f5a361118f49624f",
-      "fetched_utc": "2026-11-09T10:16:02Z",
+      "fetched_utc": "2026-11-10T10:19:40Z",
       "kind": "pinned-public-repository-file",
       "name": "GlobalGrid2050 deployment",
       "path": "solar_deployment_statistics/index.md",
@@ -722,7 +722,7 @@
     {
       "bytes": 3427,
       "commit": "35f07f9c0ef6bbdaae3c9f27f5a361118f49624f",
-      "fetched_utc": "2026-11-09T10:16:02Z",
+      "fetched_utc": "2026-11-10T10:19:40Z",
       "kind": "pinned-public-repository-file",
       "name": "GlobalGrid2050 components",
       "path": "solar_components/index.md",
@@ -732,15 +732,15 @@
     },
     {
       "bytes": 1486,
-      "fetched_utc": "2026-11-09T10:16:02Z",
+      "fetched_utc": "2026-11-10T10:19:40Z",
       "kind": "robots.txt",
       "name": "Solar Power Portal robots.txt",
-      "sha256": "d82cad203c0eea167dac1db0d5880a51f7de7449bb94e7961d782d8efebc5feb",
+      "sha256": "ddfcf17b7b013161254dd9210ffd5f1e6398701124f4591d762517c363eb25c2",
       "url": "https://www.solarpowerportal.co.uk/robots.txt"
     },
     {
-      "bytes": 79004,
-      "fetched_utc": "2026-11-09T10:16:02Z",
+      "bytes": 78997,
+      "fetched_utc": "2026-11-10T10:19:40Z",
       "fields_retained": [
         "title",
         "link",
@@ -751,20 +751,20 @@
       "name": "Solar Power Portal public RSS feed",
       "robots_allowed": true,
       "robots_url": "https://www.solarpowerportal.co.uk/robots.txt",
-      "sha256": "9f2fd815cf97461d1bf824bca9a80ba509f99c65d204349fc3b890162b971e72",
+      "sha256": "3e0cfd34b36241bf34525049fd3ca3bdf334494c0e9ced195ff9ab4c7c79cfe5",
       "url": "https://www.solarpowerportal.co.uk/rss.xml?content_types=article"
     },
     {
       "bytes": 2882,
-      "fetched_utc": "2026-11-09T10:16:02Z",
+      "fetched_utc": "2026-11-10T10:19:40Z",
       "kind": "robots.txt",
       "name": "pv magazine International robots.txt",
       "sha256": "3514ed6828eb760f8070cdb318aa4e9343ab6420a15b87e5cdab3b8c1e056472",
       "url": "https://www.pv-magazine.com/robots.txt"
     },
     {
-      "bytes": 60187,
-      "fetched_utc": "2026-11-09T10:16:02Z",
+      "bytes": 80938,
+      "fetched_utc": "2026-11-10T10:19:40Z",
       "fields_retained": [
         "title",
         "link",
@@ -775,7 +775,7 @@
       "name": "pv magazine International public RSS feed",
       "robots_allowed": true,
       "robots_url": "https://www.pv-magazine.com/robots.txt",
-      "sha256": "5971e598671e84e4d0097b3fd26f076dc5dd8ceaaa00e624033ffa964a66604c",
+      "sha256": "4c9de483511a5841574a556ff455669544ba168de8116ce52be2b89faa6c170b",
       "url": "https://www.pv-magazine.com/feed/"
     }
   ]
