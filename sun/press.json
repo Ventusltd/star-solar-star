@@ -2,6 +2,18 @@
   "entries": [
     {
       "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/solar-finance/karpowership-acquires-inland-uk-100mwh-bess-site-for-development",
+      "published": "Tue, 10 Nov 2026 11:53:19 GMT",
+      "title": "Karpowership acquires UK 100MWh BESS site for development"
+    },
+    {
+      "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/solar-finance/metlen-sells-119mw-uk-solar-portfolio-to-nala-renewables",
+      "published": "Tue, 10 Nov 2026 11:42:38 GMT",
+      "title": "Metlen sells 119MW UK solar portfolio to Nala Renewables"
+    },
+    {
+      "attribution": "Solar Power Portal",
       "link": "https://www.solarpowerportal.co.uk/commercial-solar/gb-nrg-zestec-deliver-21-5mwp-commercial-rooftop-solar-for-refresco-manufacturing",
       "published": "Mon, 09 Nov 2026 11:06:56 GMT",
       "title": "GB NRG, Zestec deliver 21.5MWp commercial rooftop solar for Refresco manufacturing"
@@ -109,76 +121,64 @@
       "title": "Enviromena acquires 18.1MWp Cheshire solar project from Anglo Renewables"
     },
     {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/solar-planning/res-secures-planning-consents-for-ni-bess-scottish-solar",
-      "published": "Tue, 27 Oct 2026 09:22:38 GMT",
-      "title": "RES secures planning consents for NI BESS, Scottish solar"
-    },
-    {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/energy-storage/national-wealth-fund-leads-invinity-energy-system-s-25-million-fundraise",
-      "published": "Mon, 26 Oct 2026 11:39:41 GMT",
-      "title": "National Wealth Fund leads Invinity Energy Systems' £25 million fundraise"
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/11/11/over-90-of-chinas-solar-supply-chain-is-reporting-losses-says-iea/",
+      "published": "Wed, 11 Nov 2026 09:36:03 +0000",
+      "title": "Over 90% of China’s solar supply chain is reporting losses, says IEA"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/10/price-wars-emerge-as-biggest-challenge-for-philippines-solar-installers/",
-      "published": "Tue, 10 Nov 2026 09:55:51 +0000",
-      "title": "Price wars emerge as biggest challenge for Philippines solar installers"
+      "link": "https://www.pv-magazine.com/2026/11/11/huawei-unveils-20-kw-all-in-one-residential-energy-storage-system/",
+      "published": "Wed, 11 Nov 2026 08:37:37 +0000",
+      "title": "Huawei unveils 20 kW all-in-one residential energy storage system"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/10/dmegc-launches-steel-framed-solar-module-series/",
-      "published": "Tue, 10 Nov 2026 09:50:07 +0000",
-      "title": "DMEGC launches steel-framed solar module series"
+      "link": "https://www.pv-magazine.com/2026/11/11/chinese-scientists-build-54-80-cm%c2%b2-methylammonium-free-perovskite-solar-module-with-22-7-efficiency/",
+      "published": "Wed, 11 Nov 2026 08:14:10 +0000",
+      "title": "Chinese scientists build 54.80 cm² methylammonium-free perovskite solar module with 22.7% efficiency"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/10/silver-from-chinas-retired-pv-modules-peaks-nine-years-before-capacity/",
-      "published": "Tue, 10 Nov 2026 08:45:00 +0000",
-      "title": "Silver from China’s retired PV modules peaks nine years before capacity"
+      "link": "https://www.pv-magazine.com/2026/11/11/colombias-144-mw-solar-complex-reaches-full-operation/",
+      "published": "Wed, 11 Nov 2026 07:19:25 +0000",
+      "title": "Colombia’s 144 MW solar complex reaches full operation"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/10/bosch-unveils-residential-air-to-air-heat-pumps/",
-      "published": "Tue, 10 Nov 2026 08:18:03 +0000",
-      "title": "Bosch unveils residential air-to-air heat pumps"
+      "link": "https://www.pv-magazine.com/2026/11/11/uruguay-secures-land-for-350-mw-solar-project-linked-to-data-center-complex/",
+      "published": "Wed, 11 Nov 2026 07:07:02 +0000",
+      "title": "Uruguay secures land for 350 MW solar project linked to data center complex"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/10/portugal-opens-tenders-for-1050-mva-of-battery-storage-capacity/",
-      "published": "Tue, 10 Nov 2026 06:58:05 +0000",
-      "title": "Portugal opens tenders for 1,050 MVA of battery storage capacity"
+      "link": "https://www.pv-magazine.com/2026/11/11/cbus-completes-solar-skin-to-help-power-new-48-storey-office-tower/",
+      "published": "Wed, 11 Nov 2026 06:57:51 +0000",
+      "title": "Cbus completes ‘solar skin’ to help power new 48-storey office tower"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/10/sundrive-targets-space-applications-with-copper-solar-cell-tech/",
-      "published": "Tue, 10 Nov 2026 06:53:11 +0000",
-      "title": "SunDrive targets space applications with copper solar cell tech"
+      "link": "https://www.pv-magazine.com/2026/11/11/outcome-pending-on-polysilicon-action/",
+      "published": "Wed, 11 Nov 2026 05:00:00 +0000",
+      "title": "Outcome pending on polysilicon action"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/10/cold-calculations/",
-      "published": "Tue, 10 Nov 2026 05:00:00 +0000",
-      "title": "Cold calculations"
+      "link": "https://www.pv-magazine.com/2026/11/10/huaneng-commissions-dual-flywheel-frequency-regulation-system-claims-china-single-unit-power-record/",
+      "published": "Tue, 10 Nov 2026 13:30:53 +0000",
+      "title": "Huaneng commissions dual-flywheel frequency regulation system, claims China single-unit power record"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/09/a-degree-in-paris-a-gigawatt-at-the-border/",
-      "published": "Mon, 09 Nov 2026 13:42:02 +0000",
-      "title": "A degree in Paris, a gigawatt at the border"
+      "link": "https://www.pv-magazine.com/2026/11/10/dual-oxide-diffusion-barrier-boosts-efficiency-of-mass-produced-topcon-solar-cells-by-0-07-percentage-points/",
+      "published": "Tue, 10 Nov 2026 13:25:38 +0000",
+      "title": "Dual-oxide diffusion barrier boosts efficiency of mass-produced TOPCon solar cells by 0.07 percentage points"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/09/key-takeaways-from-re-source-2026-in-amsterdam/",
-      "published": "Mon, 09 Nov 2026 13:35:00 +0000",
-      "title": "Key takeaways from RE-Source 2026 in Amsterdam"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/09/cgn-connects-first-unit-of-worlds-highest-altitude-csp-plant-in-tibet/",
-      "published": "Mon, 09 Nov 2026 12:49:41 +0000",
-      "title": "CGN connects first unit of world’s highest-altitude CSP plant in Tibet"
+      "link": "https://www.pv-magazine.com/2026/11/10/romanias-renewable-project-pipeline-surpasses-114-gw/",
+      "published": "Tue, 10 Nov 2026 12:49:48 +0000",
+      "title": "Romania’s renewable project pipeline surpasses 114 GW"
     }
   ],
   "policy": "RSS metadata only: title, link, date, attribution",
