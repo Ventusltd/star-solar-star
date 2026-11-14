@@ -2,6 +2,18 @@
   "entries": [
     {
       "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/energy-storage/statkraft-starts-commercial-operations-at-first-phase-of-750mw-neilston-bess-project",
+      "published": "Fri, 13 Nov 2026 11:25:08 GMT",
+      "title": "Statkraft starts commercial operations at first phase of 750MW Neilston BESS project"
+    },
+    {
+      "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/solar-finance/totalenergies-acquires-450mw-solar-plus-150mw-bess-nsip-project",
+      "published": "Fri, 13 Nov 2026 09:28:52 GMT",
+      "title": "TotalEnergies acquires 450MW solar, 150MW BESS NSIP project"
+    },
+    {
+      "attribution": "Solar Power Portal",
       "link": "https://www.solarpowerportal.co.uk/commercial-solar/good-energy-calls-for-business-rates-improvement-relief-extension",
       "published": "Thu, 12 Nov 2026 13:41:26 GMT",
       "title": "Good Energy calls for business rates Improvement Relief extension"
@@ -109,76 +121,64 @@
       "title": "Structural due diligence: The overlooked foundation of the UK's solar rooftop boom"
     },
     {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/energy-policy/uk-autumn-budget-energy-bill-reductions-a-priority-but-government-action-lukewarm-at-best-",
-      "published": "Thu, 29 Oct 2026 08:33:04 GMT",
-      "title": "UK Autumn Budget: Energy bill reductions a priority, but government action ‘lukewarm at best’"
-    },
-    {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/utility-scale-solar/major-solar-projects-by-elements-green-cubico-granted-dcos",
-      "published": "Wed, 28 Oct 2026 09:27:32 GMT",
-      "title": "Major solar projects by Elements Green, Cubico granted DCOs"
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/11/14/first-attempt-to-address-screen-printing-induced-degradation-in-copper-plated-heterojunction-solar-cells/",
+      "published": "Sat, 14 Nov 2026 09:00:00 +0000",
+      "title": "First attempt to address screen printing-induced degradation in copper-plated heterojunction solar cells"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/13/sodium-ion-pouch-cells-target-cold-climate-industrial-niche/",
-      "published": "Fri, 13 Nov 2026 09:36:13 +0000",
-      "title": "Sodium-ion pouch cells target cold-climate industrial niche"
+      "link": "https://www.pv-magazine.com/2026/11/14/clarifying-the-catl-tener-sodium-with-new-specifications-and-availability/",
+      "published": "Sat, 14 Nov 2026 08:30:00 +0000",
+      "title": "Clarifying the CATL Tener Sodium, with new specifications and availability"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/13/us-firm-claims-96000-wafer-per-hour-deposition-line-for-tandem-cells/",
-      "published": "Fri, 13 Nov 2026 09:19:36 +0000",
-      "title": "US firm claims 96,000-wafer-per-hour deposition line for tandem cells"
+      "link": "https://www.pv-magazine.com/2026/11/14/transparent-bamboo-boosts-energy-performance-of-solar-pv-skylights/",
+      "published": "Sat, 14 Nov 2026 08:00:00 +0000",
+      "title": "Transparent bamboo boosts energy performance of solar PV skylights"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/13/chinas-highways-could-generate-182-twh-of-solar-annually/",
-      "published": "Fri, 13 Nov 2026 09:04:41 +0000",
-      "title": "China’s highways could generate 182 TWh of solar annually"
+      "link": "https://www.pv-magazine.com/2026/11/14/yanhe-technology-launches-three-perovskite-solar-module-technologies-into-orbit/",
+      "published": "Sat, 14 Nov 2026 07:30:00 +0000",
+      "title": "Yanhe Technology launches three perovskite solar module technologies into orbit"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/13/turkiye-china-sign-15-billion-renewables-investment-plan/",
-      "published": "Fri, 13 Nov 2026 08:50:06 +0000",
-      "title": "Türkiye, China sign $15 billion renewables investment plan"
+      "link": "https://www.pv-magazine.com/2026/11/14/when-trackers-dont-talk/",
+      "published": "Sat, 14 Nov 2026 05:00:00 +0000",
+      "title": "When trackers don’t talk"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/13/osaka-gas-buys-japanese-residential-solar-and-battery-installer/",
-      "published": "Fri, 13 Nov 2026 08:45:00 +0000",
-      "title": "Osaka Gas buys Japanese residential solar and battery installer"
+      "link": "https://www.pv-magazine.com/2026/11/13/shinsung-eg-unveils-650-w-bifacial-topcon-solar-modules-with-23-25-efficiency/",
+      "published": "Fri, 13 Nov 2026 15:41:22 +0000",
+      "title": "Shinsung E&G unveils 650 W bifacial TOPCon solar modules with 23.25% efficiency"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/13/chinas-topcon-m10-cell-prices-slip-as-export-rush-fades-domestic-demand-weakens/",
-      "published": "Fri, 13 Nov 2026 08:19:42 +0000",
-      "title": "China’s TOPCon M10 cell prices slip as export rush fades, domestic demand weakens"
+      "link": "https://www.pv-magazine.com/2026/11/13/the-hydrogen-stream-uniper-and-vng-produce-first-green-hydrogen-at-30-mw-facility-in-germany/",
+      "published": "Fri, 13 Nov 2026 15:41:03 +0000",
+      "title": "The Hydrogen Stream: Uniper and VNG Produce first green hydrogen at 30 MW facility in Germany"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/13/mexico-lifts-planned-investment-to-10-6-billion-for-8-gw-renewables/",
-      "published": "Fri, 13 Nov 2026 07:50:15 +0000",
-      "title": "Mexico lifts planned investment to $10.6 billion for 8 GW renewables"
+      "link": "https://www.pv-magazine.com/2026/11/13/chinese-pv-industry-brief-energy-china-shortlists-23-module-suppliers-for-15-gw-tender/",
+      "published": "Fri, 13 Nov 2026 13:11:19 +0000",
+      "title": "Chinese PV Industry Brief: Energy China shortlists 23 module suppliers for 15 GW tender"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/13/renew-plans-polysilicon-manufacturing-and-1-gw-green-hyperscale-data-centre-in-andhra-pradesh/",
-      "published": "Fri, 13 Nov 2026 07:40:27 +0000",
-      "title": "India’s ReNew plans polysilicon manufacturing"
+      "link": "https://www.pv-magazine.com/2026/11/13/malaysia-extends-residential-solar-rebates-for-approved-applicants/",
+      "published": "Fri, 13 Nov 2026 11:30:21 +0000",
+      "title": "Malaysia extends residential solar rebates for approved applicants"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/13/shared-grid-connections-could-improve-bankability-of-residential-solar-plus-storage-systems/",
-      "published": "Fri, 13 Nov 2026 07:34:24 +0000",
-      "title": "Shared grid connections could improve bankability of residential solar-plus-storage systems"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/13/rinnai-launches-new-residential-heat-pump-water-heaters/",
-      "published": "Fri, 13 Nov 2026 07:14:16 +0000",
-      "title": "Rinnai launches new residential heat pump water heaters"
+      "link": "https://www.pv-magazine.com/2026/11/13/dark-clouds-gather-over-germanys-solar-sector/",
+      "published": "Fri, 13 Nov 2026 11:11:08 +0000",
+      "title": "Dark clouds gather over Germany’s solar sector"
     }
   ],
   "policy": "RSS metadata only: title, link, date, attribution",
