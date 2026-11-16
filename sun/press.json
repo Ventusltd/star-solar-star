@@ -122,6 +122,42 @@
     },
     {
       "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/11/16/coal-plant-failure-not-solar-pv-triggered-sri-lankas-latest-blackout/",
+      "published": "Mon, 16 Nov 2026 10:04:22 +0000",
+      "title": "Coal plant failure, not solar PV, triggered Sri Lanka’s latest blackout"
+    },
+    {
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/11/16/south-korea-opens-storage-subsidy-call-for-community-solar-villages/",
+      "published": "Mon, 16 Nov 2026 10:01:00 +0000",
+      "title": "South Korea opens storage subsidy call for community solar villages"
+    },
+    {
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/11/16/japan-sees-increase-in-corporate-solar-ppas/",
+      "published": "Mon, 16 Nov 2026 09:05:57 +0000",
+      "title": "Japan sees increase in corporate solar PPAs"
+    },
+    {
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/11/16/dutch-watchdog-urges-solar-owners-to-check-energy-contracts/",
+      "published": "Mon, 16 Nov 2026 08:05:07 +0000",
+      "title": "Dutch watchdog urges solar owners to check energy contracts"
+    },
+    {
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/11/16/mitsubishi-electric-unveils-the-little-one-heat-pump/",
+      "published": "Mon, 16 Nov 2026 06:03:07 +0000",
+      "title": "Mitsubishi Electric unveils ‘The Little One’ heat pump"
+    },
+    {
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/11/16/60-of-home-battery-installs-rated-substandard-by-regulator/",
+      "published": "Mon, 16 Nov 2026 06:02:37 +0000",
+      "title": "Around 60% of home battery installs rated ‘substandard’ by Australian regulator"
+    },
+    {
+      "attribution": "pv magazine International",
       "link": "https://www.pv-magazine.com/2026/11/14/first-attempt-to-address-screen-printing-induced-degradation-in-copper-plated-heterojunction-solar-cells/",
       "published": "Sat, 14 Nov 2026 10:55:00 +0000",
       "title": "First attempt to address screen printing-induced degradation in copper-plated heterojunction solar cells"
@@ -143,42 +179,6 @@
       "link": "https://www.pv-magazine.com/2026/11/14/the-times-i-regret-are-the-ones-when-i-didnt-value-myself-enough-to-speak-up/",
       "published": "Sat, 14 Nov 2026 10:30:00 +0000",
       "title": "‘The times I regret are the ones when I didn’t value myself enough to speak up’"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/14/masdar-completes-950-million-solar-and-battery-storage-project-in-california/",
-      "published": "Sat, 14 Nov 2026 09:30:00 +0000",
-      "title": "Masdar completes $950 million solar and battery storage project in California"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/14/clarifying-the-catl-tener-sodium-with-new-specifications-and-availability/",
-      "published": "Sat, 14 Nov 2026 08:30:00 +0000",
-      "title": "Clarifying the CATL Tener Sodium, with new specifications and availability"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/14/transparent-bamboo-boosts-energy-performance-of-solar-pv-skylights/",
-      "published": "Sat, 14 Nov 2026 08:00:00 +0000",
-      "title": "Transparent bamboo boosts energy performance of solar PV skylights"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/14/yanhe-technology-launches-three-perovskite-solar-module-technologies-into-orbit/",
-      "published": "Sat, 14 Nov 2026 07:30:00 +0000",
-      "title": "Yanhe Technology launches three perovskite solar module technologies into orbit"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/14/when-trackers-dont-talk/",
-      "published": "Sat, 14 Nov 2026 05:00:00 +0000",
-      "title": "When trackers don’t talk"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/13/shinsung-eg-unveils-650-w-bifacial-topcon-solar-modules-with-23-25-efficiency/",
-      "published": "Fri, 13 Nov 2026 15:41:22 +0000",
-      "title": "Shinsung E&G unveils 650 W bifacial TOPCon solar modules with 23.25% efficiency"
     }
   ],
   "policy": "RSS metadata only: title, link, date, attribution",
