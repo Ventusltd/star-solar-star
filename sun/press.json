@@ -2,6 +2,24 @@
   "entries": [
     {
       "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/solar-finance/uk-business-electricity-costs-will-rise-for-the-rest-of-the-decade-cornwall-insight",
+      "published": "Tue, 17 Nov 2026 10:22:19 GMT",
+      "title": "UK business electricity costs will rise for the rest of the decade, Cornwall Insight says"
+    },
+    {
+      "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/battery-storage/horizn-zinc-battery-finance-innovate-uk-funding",
+      "published": "Mon, 16 Nov 2026 12:30:23 GMT",
+      "title": "HoriZn secures finance and Innovate UK funding"
+    },
+    {
+      "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/energy-storage/ireland-energy-regulator-cru-500mw-ldes-procurement",
+      "published": "Mon, 16 Nov 2026 10:16:02 GMT",
+      "title": "Ireland’s energy regulator approves 500MW LDES procurement"
+    },
+    {
+      "attribution": "Solar Power Portal",
       "link": "https://www.solarpowerportal.co.uk/energy-storage/statkraft-starts-commercial-operations-at-first-phase-of-750mw-neilston-bess-project",
       "published": "Fri, 13 Nov 2026 11:25:08 GMT",
       "title": "Statkraft starts commercial operations at first phase of 750MW Neilston BESS project"
@@ -103,82 +121,64 @@
       "title": "BW ESS puts 1.24GWh BESS, Europe’s largest, into commercial operation"
     },
     {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/solar-finance/blackfinch-urbanchain-sign-supply-and-distribution-agreement-for-15mw-of-welsh-solar-pv",
-      "published": "Fri, 30 Oct 2026 15:16:28 GMT",
-      "title": "Blackfinch, UrbanChain sign supply and distribution agreement for 15MW of Welsh solar PV"
-    },
-    {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/solar-investment/tokyo-century-takes-stakes-in-212mw-egg-power-projects",
-      "published": "Fri, 30 Oct 2026 10:13:11 GMT",
-      "title": "Tokyo Century takes stakes in 212MW egg Power projects"
-    },
-    {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/residential-solar/structural-due-diligence-the-overlooked-foundation-of-the-uk-s-solar-rooftop-boom",
-      "published": "Thu, 29 Oct 2026 14:20:50 GMT",
-      "title": "Structural due diligence: The overlooked foundation of the UK's solar rooftop boom"
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/11/17/sunkean-unveils-ul-certified-2000-vdc-trunk-ttm-system-at-re/",
+      "published": "Tue, 17 Nov 2026 10:00:00 +0000",
+      "title": "Sunkean unveils ETL-certified 2000 VDC TRUNK-TTM system at RE+"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/16/coal-plant-failure-not-solar-pv-triggered-sri-lankas-latest-blackout/",
-      "published": "Mon, 16 Nov 2026 10:04:22 +0000",
-      "title": "Coal plant failure, not solar PV, triggered Sri Lanka’s latest blackout"
+      "link": "https://www.pv-magazine.com/2026/11/17/chilean-pv-plant-hit-by-cyberattack-remains-disconnected/",
+      "published": "Tue, 17 Nov 2026 09:58:45 +0000",
+      "title": "Chilean PV plant hit by cyberattack remains disconnected"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/16/south-korea-opens-storage-subsidy-call-for-community-solar-villages/",
-      "published": "Mon, 16 Nov 2026 10:01:00 +0000",
-      "title": "South Korea opens storage subsidy call for community solar villages"
+      "link": "https://www.pv-magazine.com/2026/11/17/dutch-researchers-develop-lego-like-solar-blocks-combining-luminescent-concentrators-and-perovskite-pv-cells/",
+      "published": "Tue, 17 Nov 2026 09:38:40 +0000",
+      "title": "Dutch researchers develop LEGO-like solar blocks combining luminescent concentrators and perovskite PV cells"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/16/japan-sees-increase-in-corporate-solar-ppas/",
-      "published": "Mon, 16 Nov 2026 09:05:57 +0000",
-      "title": "Japan sees increase in corporate solar PPAs"
+      "link": "https://www.pv-magazine.com/2026/11/17/satellite-imagery-reveals-vegetation-recovery-at-solar-plant-in-semi-arid-region-of-china/",
+      "published": "Tue, 17 Nov 2026 08:57:38 +0000",
+      "title": "Satellite imagery reveals vegetation recovery at solar plant in semi-arid region of China"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/16/dutch-watchdog-urges-solar-owners-to-check-energy-contracts/",
-      "published": "Mon, 16 Nov 2026 08:05:07 +0000",
-      "title": "Dutch watchdog urges solar owners to check energy contracts"
+      "link": "https://www.pv-magazine.com/2026/11/17/vietnamese-provinces-back-floating-pv-projects/",
+      "published": "Tue, 17 Nov 2026 08:48:33 +0000",
+      "title": "Vietnamese provinces back floating PV projects"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/16/mitsubishi-electric-unveils-the-little-one-heat-pump/",
-      "published": "Mon, 16 Nov 2026 06:03:07 +0000",
-      "title": "Mitsubishi Electric unveils ‘The Little One’ heat pump"
+      "link": "https://www.pv-magazine.com/2026/11/17/fresnel-based-agrivoltaic-system-redistributes-sunlight-beneath-solar-modules-to-boost-crop-yields/",
+      "published": "Tue, 17 Nov 2026 07:23:38 +0000",
+      "title": "Fresnel-based agrivoltaic system redistributes sunlight beneath solar modules to boost crop yields"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/16/60-of-home-battery-installs-rated-substandard-by-regulator/",
-      "published": "Mon, 16 Nov 2026 06:02:37 +0000",
-      "title": "Around 60% of home battery installs rated ‘substandard’ by Australian regulator"
+      "link": "https://www.pv-magazine.com/2026/11/17/havells-unveils-battery-energy-storage-systems/",
+      "published": "Tue, 17 Nov 2026 07:12:41 +0000",
+      "title": "Havells unveils battery energy storage systems"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/14/first-attempt-to-address-screen-printing-induced-degradation-in-copper-plated-heterojunction-solar-cells/",
-      "published": "Sat, 14 Nov 2026 10:55:00 +0000",
-      "title": "First attempt to address screen printing-induced degradation in copper-plated heterojunction solar cells"
+      "link": "https://www.pv-magazine.com/2026/11/17/clearvue-secures-solar-cladding-supply-deal-for-singapore-project/",
+      "published": "Tue, 17 Nov 2026 07:06:38 +0000",
+      "title": "ClearVue secures solar cladding supply deal for Singapore project"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/14/great-lakes-irradiance-surges-as-wet-weather-weighs-on-southwest-solar-resource/",
-      "published": "Sat, 14 Nov 2026 10:50:00 +0000",
-      "title": "Great Lakes irradiance surges as wet weather weighs on Southwest solar resource"
+      "link": "https://www.pv-magazine.com/2026/11/16/solar-recycling-2-0/",
+      "published": "Mon, 16 Nov 2026 17:00:00 +0000",
+      "title": "Solar recycling 2.0"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/14/unsw-develops-three-minute-lithium-ion-battery-health-test/",
-      "published": "Sat, 14 Nov 2026 10:47:00 +0000",
-      "title": "UNSW develops three-minute lithium-ion battery health test"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/14/the-times-i-regret-are-the-ones-when-i-didnt-value-myself-enough-to-speak-up/",
-      "published": "Sat, 14 Nov 2026 10:30:00 +0000",
-      "title": "‘The times I regret are the ones when I didn’t value myself enough to speak up’"
+      "link": "https://www.pv-magazine.com/2026/11/16/global-solar-additions-set-to-fall-for-first-time-since-2018/",
+      "published": "Mon, 16 Nov 2026 16:05:00 +0000",
+      "title": "Global solar installations face first annual decline in eight years"
     }
   ],
   "policy": "RSS metadata only: title, link, date, attribution",
