@@ -2,6 +2,18 @@
   "entries": [
     {
       "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/colocation/low-carbon-brings-65mw-bess-into-commercial-operation-in-uk",
+      "published": "Wed, 18 Nov 2026 09:12:49 GMT",
+      "title": "Low Carbon says new UK BESS projects 'demonstrate clear benefits' of co-location with solar PV"
+    },
+    {
+      "attribution": "Solar Power Portal",
+      "link": "https://www.solarpowerportal.co.uk/battery-storage/macquarie-injects-funds-into-two-scottish-bess-projects",
+      "published": "Tue, 17 Nov 2026 15:18:44 GMT",
+      "title": "Macquarie injects funds into two Scottish BESS projects"
+    },
+    {
+      "attribution": "Solar Power Portal",
       "link": "https://www.solarpowerportal.co.uk/solar-finance/uk-business-electricity-costs-will-rise-for-the-rest-of-the-decade-cornwall-insight",
       "published": "Tue, 17 Nov 2026 10:22:19 GMT",
       "title": "UK business electricity costs will rise for the rest of the decade, Cornwall Insight says"
@@ -109,76 +121,64 @@
       "title": "Wave of BESS augmentation financing expected in a few years"
     },
     {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/solar-projects/brookfield-owned-onpath-energy-reaches-financial-close-on-first-solar-plus-storage-project",
-      "published": "Mon, 02 Nov 2026 10:47:00 GMT",
-      "title": "Brookfield-owned OnPath Energy reaches financial close on first solar-plus-storage project"
-    },
-    {
-      "attribution": "Solar Power Portal",
-      "link": "https://www.solarpowerportal.co.uk/battery-storage/bw-ess-puts-1-24gwh-bess-europe-s-largest-into-commercial-operation",
-      "published": "Mon, 02 Nov 2026 10:07:02 GMT",
-      "title": "BW ESS puts 1.24GWh BESS, Europe’s largest, into commercial operation"
+      "attribution": "pv magazine International",
+      "link": "https://www.pv-magazine.com/2026/11/18/why-ai-data-centers-need-storage-beyond-conventional-backup-power/",
+      "published": "Wed, 18 Nov 2026 10:30:00 +0000",
+      "title": "Why AI data centers need storage beyond conventional backup power"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/17/sunkean-unveils-ul-certified-2000-vdc-trunk-ttm-system-at-re/",
-      "published": "Tue, 17 Nov 2026 10:00:00 +0000",
-      "title": "Sunkean unveils ETL-certified 2000 VDC TRUNK-TTM system at RE+"
+      "link": "https://www.pv-magazine.com/2026/11/18/taiwan-introduces-bidding-framework-for-storage-deployment-at-existing-pv-plants/",
+      "published": "Wed, 18 Nov 2026 10:00:36 +0000",
+      "title": "Taiwan introduces bidding framework for storage deployment at existing PV plants"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/17/chilean-pv-plant-hit-by-cyberattack-remains-disconnected/",
-      "published": "Tue, 17 Nov 2026 09:58:45 +0000",
-      "title": "Chilean PV plant hit by cyberattack remains disconnected"
+      "link": "https://www.pv-magazine.com/2026/11/18/adb-supports-1-gw-solar-storage-pipeline-in-bangladesh/",
+      "published": "Wed, 18 Nov 2026 08:56:51 +0000",
+      "title": "ADB supports 1 GW solar, storage pipeline in Bangladesh"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/17/dutch-researchers-develop-lego-like-solar-blocks-combining-luminescent-concentrators-and-perovskite-pv-cells/",
-      "published": "Tue, 17 Nov 2026 09:38:40 +0000",
-      "title": "Dutch researchers develop LEGO-like solar blocks combining luminescent concentrators and perovskite PV cells"
+      "link": "https://www.pv-magazine.com/2026/11/18/eu-reaches-provisional-deal-to-accelerate-renewable-energy-permitting/",
+      "published": "Wed, 18 Nov 2026 08:54:04 +0000",
+      "title": "EU reaches provisional deal to accelerate renewable energy permitting"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/17/satellite-imagery-reveals-vegetation-recovery-at-solar-plant-in-semi-arid-region-of-china/",
-      "published": "Tue, 17 Nov 2026 08:57:38 +0000",
-      "title": "Satellite imagery reveals vegetation recovery at solar plant in semi-arid region of China"
+      "link": "https://www.pv-magazine.com/2026/11/18/france-unveils-bidding-terms-for-500-mw-technology-neutral-renewables-tender/",
+      "published": "Wed, 18 Nov 2026 08:29:00 +0000",
+      "title": "France unveils bidding terms for 500 MW technology-neutral renewables tender"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/17/vietnamese-provinces-back-floating-pv-projects/",
-      "published": "Tue, 17 Nov 2026 08:48:33 +0000",
-      "title": "Vietnamese provinces back floating PV projects"
+      "link": "https://www.pv-magazine.com/2026/11/18/hybrid-monofacial-bifacial-pv-arrays-boost-power-output-under-shading/",
+      "published": "Wed, 18 Nov 2026 08:20:41 +0000",
+      "title": "Hybrid monofacial-bifacial PV arrays boost power output under shading"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/17/fresnel-based-agrivoltaic-system-redistributes-sunlight-beneath-solar-modules-to-boost-crop-yields/",
-      "published": "Tue, 17 Nov 2026 07:23:38 +0000",
-      "title": "Fresnel-based agrivoltaic system redistributes sunlight beneath solar modules to boost crop yields"
+      "link": "https://www.pv-magazine.com/2026/11/18/austrian-company-develops-1-2-kw-stirling-based-heat-and-power-system-to-complement-solar-pv-in-winter/",
+      "published": "Wed, 18 Nov 2026 07:55:46 +0000",
+      "title": "Austrian company develops 1.2 kW Stirling-based heat and power system to complement solar PV in winter"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/17/havells-unveils-battery-energy-storage-systems/",
-      "published": "Tue, 17 Nov 2026 07:12:41 +0000",
-      "title": "Havells unveils battery energy storage systems"
+      "link": "https://www.pv-magazine.com/2026/11/18/financing-secured-for-100-mw-of-solar-in-ghana/",
+      "published": "Wed, 18 Nov 2026 07:47:41 +0000",
+      "title": "Financing secured for 100 MW of solar in Ghana"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/17/clearvue-secures-solar-cladding-supply-deal-for-singapore-project/",
-      "published": "Tue, 17 Nov 2026 07:06:38 +0000",
-      "title": "ClearVue secures solar cladding supply deal for Singapore project"
+      "link": "https://www.pv-magazine.com/2026/11/18/pipelife-unveils-3-2-kw-indoor-propane-heat-pump/",
+      "published": "Wed, 18 Nov 2026 07:37:43 +0000",
+      "title": "Pipelife unveils 3.2 kW indoor propane heat pump"
     },
     {
       "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/16/solar-recycling-2-0/",
-      "published": "Mon, 16 Nov 2026 17:00:00 +0000",
-      "title": "Solar recycling 2.0"
-    },
-    {
-      "attribution": "pv magazine International",
-      "link": "https://www.pv-magazine.com/2026/11/16/global-solar-additions-set-to-fall-for-first-time-since-2018/",
-      "published": "Mon, 16 Nov 2026 16:05:00 +0000",
-      "title": "Global solar installations face first annual decline in eight years"
+      "link": "https://www.pv-magazine.com/2026/11/18/poland-pushes-for-cybersecurity-requirements-for-renewables-grid-connections/",
+      "published": "Wed, 18 Nov 2026 07:18:38 +0000",
+      "title": "Poland pushes for cybersecurity requirements for renewables grid connections"
     }
   ],
   "policy": "RSS metadata only: title, link, date, attribution",
